@@ -1,0 +1,1146 @@
+Src_RowID,Division,Customer,Project,Segment,Under Contract,Month,Quarter,Year,Revenue,Project_Issue,Quarter_Clean,Quarter_Mismatch,Future_YTD_Issue,Negative_Revenue_Issue,Large_Opportunity_Review,Round_Amount_Review,Analysis_Class
+1,Division 1,Customer 1,Project 1,Segment 1,YTD,Jan,Q1,2026,183530.01,False,Q1,False,False,False,False,False,FY26 YTD actual
+2,Division 1,Customer 2,Project 1,Segment 2,YTD,Jan,Q1,2026,45222.6,False,Q1,False,False,False,False,False,FY26 YTD actual
+3,Division 1,Customer 1,Project 2,Segment 1,YTD,Jan,Q1,2026,101391.37,False,Q1,False,False,False,False,False,FY26 YTD actual
+4,Division 1,Customer 1,Project 3,Segment 1,YTD,Jan,Q1,2026,40558.92,False,Q1,False,False,False,False,False,FY26 YTD actual
+5,Division 1,Customer 1,Project 4,Segment 1,YTD,Jan,Q1,2026,132640.36,False,Q1,False,False,False,False,False,FY26 YTD actual
+6,Division 1,Customer 1,Project 5,Segment 1,YTD,Jan,Q1,2026,216841.3,False,Q1,False,False,False,False,False,FY26 YTD actual
+7,Division 1,Customer 1,Project 6,Segment 1,YTD,Jan,Q1,2026,125864.02,False,Q1,False,False,False,False,False,FY26 YTD actual
+8,Division 1,Customer 3,Project 7,Segment 1,YTD,Jan,Q1,2026,40267.575,False,Q1,False,False,False,False,False,FY26 YTD actual
+9,Division 1,Customer 3,Project 8,Segment 1,YTD,Jan,Q1,2026,44703.249,False,Q1,False,False,False,False,False,FY26 YTD actual
+10,Division 1,Customer 3,Project 9,Segment 1,YTD,Jan,Q1,2026,46510.23699999999,False,Q1,False,False,False,False,False,FY26 YTD actual
+11,Division 1,Customer 4,Project 10,Segment 1,YTD,Jan,Q1,2026,14365.26,False,Q1,False,False,False,False,False,FY26 YTD actual
+12,Division 1,Customer 5,Project 11,Segment 1,YTD,Jan,Q1,2026,153122.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+13,Division 2,Customer 6,Project 12,Segment 2,YTD,Jan,Q1,2026,710036.1,False,Q1,False,False,False,False,False,FY26 YTD actual
+14,Division 2,Customer 7,Project 13,Segment 2,YTD,Jan,Q1,2026,141814.94,False,Q1,False,False,False,False,False,FY26 YTD actual
+15,Division 2,Customer 2,Project 14,Segment 2,YTD,Jan,Q1,2026,13475.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+16,Division 2,Customer 8,Project 15,Segment 2,YTD,Jan,Q1,2026,4691.3,False,Q1,False,False,False,False,False,FY26 YTD actual
+17,Division 2,Customer 9,Project 15,Segment 1,YTD,Jan,Q1,2026,40917.41,False,Q1,False,False,False,False,False,FY26 YTD actual
+18,Division 2,Customer 1,Project 15,Segment 1,YTD,Jan,Q1,2026,48629.64,False,Q1,False,False,False,False,False,FY26 YTD actual
+19,Division 2,Customer 10,Project 15,Segment 1,YTD,Jan,Q1,2026,62343.92,False,Q1,False,False,False,False,False,FY26 YTD actual
+20,Division 2,Customer 11,Project 15,Segment 2,YTD,Jan,Q1,2026,83059.13,False,Q1,False,False,False,False,False,FY26 YTD actual
+21,Division 2,Customer 6,Project 16,Segment 2,YTD,Jan,Q1,2026,396113.09,False,Q1,False,False,False,False,False,FY26 YTD actual
+22,Division 2,Customer 7,Project 17,Segment 2,YTD,Jan,Q1,2026,924952.24,False,Q1,False,False,False,False,False,FY26 YTD actual
+23,Division 2,Customer 11,Project 18,Segment 2,YTD,Jan,Q1,2026,142576.1,False,Q1,False,False,False,False,False,FY26 YTD actual
+24,Division 2,Customer 12,Project 19,Segment 2,YTD,Jan,Q1,2026,381718.38,False,Q1,False,False,False,False,False,FY26 YTD actual
+25,Division 2,Customer 12,Project 20,Segment 2,YTD,Jan,Q1,2026,98723.81,False,Q1,False,False,False,False,False,FY26 YTD actual
+26,Division 2,Customer 12,Project 21,Segment 2,YTD,Jan,Q1,2026,347051.73,False,Q1,False,False,False,False,False,FY26 YTD actual
+27,Division 2,Customer 13,Project 22,Segment 2,YTD,Jan,Q1,2026,6702.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+28,Division 3,Customer 2,Project 23,Segment 2,YTD,Jan,Q1,2026,149357.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+29,Division 3,Customer 2,Project 24,Segment 2,YTD,Jan,Q1,2026,196303.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+30,Division 3,Customer 14,Project 25,Segment 2,YTD,Jan,Q1,2026,343891.06,False,Q1,False,False,False,False,False,FY26 YTD actual
+31,Division 3,Customer 14,Project 26,Segment 2,YTD,Jan,Q1,2026,287257.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+32,Division 3,Customer 14,Project 27,Segment 2,YTD,Jan,Q1,2026,108428.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+33,Division 3,Customer 15,Project 28,Segment 4,YTD,Jan,Q1,2026,269030.0135604399,False,Q1,False,False,False,False,False,FY26 YTD actual
+34,Division 3,Customer 16,Project 29,Segment 2,YTD,Jan,Q1,2026,109710.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+35,Division 3,Customer 2,Project 30,Segment 2,YTD,Jan,Q1,2026,11615.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+36,Division 3,Customer 2,Project 31,Segment 2,YTD,Jan,Q1,2026,59764.92,False,Q1,False,False,False,False,False,FY26 YTD actual
+37,Division 3,Customer 2,Project 32,Segment 2,YTD,Jan,Q1,2026,127898.81,False,Q1,False,False,False,False,False,FY26 YTD actual
+38,Division 3,Customer 2,Project 33,Segment 2,YTD,Jan,Q1,2026,45741.43,False,Q1,False,False,False,False,False,FY26 YTD actual
+39,Division 3,Customer 2,Project 34,Segment 2,YTD,Jan,Q1,2026,52180.39,False,Q1,False,False,False,False,False,FY26 YTD actual
+40,Division 3,Customer 2,Project 35,Segment 2,YTD,Jan,Q1,2026,55369.53999999999,False,Q1,False,False,False,False,False,FY26 YTD actual
+41,Division 3,Customer 2,Project 36,Segment 2,YTD,Jan,Q1,2026,32749.25999999999,False,Q1,False,False,False,False,False,FY26 YTD actual
+42,Division 3,Customer 2,Project 37,Segment 2,YTD,Jan,Q1,2026,25168.68,False,Q1,False,False,False,False,False,FY26 YTD actual
+43,Division 3,Customer 17,Project 38,Segment 4,YTD,Jan,Q1,2026,22568.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+44,Division 3,Customer 2,Project 39,Segment 2,YTD,Jan,Q1,2026,13780.15,False,Q1,False,False,False,False,False,FY26 YTD actual
+45,Division 3,Customer 2,Project 40,Segment 2,YTD,Jan,Q1,2026,45698.4,False,Q1,False,False,False,False,False,FY26 YTD actual
+46,Division 3,Customer 2,Project 41,Segment 2,YTD,Jan,Q1,2026,129342.15,False,Q1,False,False,False,False,False,FY26 YTD actual
+47,Division 1,Customer 1,Project 1,Segment 1,YTD,Feb,Q1,2026,169448.82,False,Q1,False,False,False,False,False,FY26 YTD actual
+48,Division 1,Customer 2,Project 1,Segment 2,YTD,Feb,Q1,2026,52243.6,False,Q1,False,False,False,False,False,FY26 YTD actual
+49,Division 1,Customer 1,Project 2,Segment 1,YTD,Feb,Q1,2026,232995.36,False,Q1,False,False,False,False,False,FY26 YTD actual
+50,Division 1,Customer 1,Project 3,Segment 1,YTD,Feb,Q1,2026,67732.65000000001,False,Q1,False,False,False,False,False,FY26 YTD actual
+51,Division 1,Customer 1,Project 4,Segment 1,YTD,Feb,Q1,2026,177591.48,False,Q1,False,False,False,False,False,FY26 YTD actual
+52,Division 1,Customer 1,Project 5,Segment 1,YTD,Feb,Q1,2026,136397.12,False,Q1,False,False,False,False,False,FY26 YTD actual
+53,Division 1,Customer 1,Project 6,Segment 1,YTD,Feb,Q1,2026,159459.61,False,Q1,False,False,False,False,False,FY26 YTD actual
+54,Division 1,Customer 3,Project 7,Segment 1,YTD,Feb,Q1,2026,3395.25,False,Q1,False,False,False,False,False,FY26 YTD actual
+55,Division 1,Customer 3,Project 8,Segment 1,YTD,Feb,Q1,2026,27314.391,False,Q1,False,False,False,False,False,FY26 YTD actual
+56,Division 1,Customer 3,Project 9,Segment 1,YTD,Feb,Q1,2026,52804.521,False,Q1,False,False,False,False,False,FY26 YTD actual
+57,Division 1,Customer 4,Project 10,Segment 1,YTD,Feb,Q1,2026,196.56,False,Q1,False,False,False,False,False,FY26 YTD actual
+58,Division 1,Customer 5,Project 11,Segment 1,YTD,Feb,Q1,2026,112653.4,False,Q1,False,False,False,False,False,FY26 YTD actual
+59,Division 2,Customer 6,Project 12,Segment 2,YTD,Feb,Q1,2026,1221177.8,False,Q1,False,False,False,False,False,FY26 YTD actual
+60,Division 2,Customer 7,Project 13,Segment 2,YTD,Feb,Q1,2026,110092.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+61,Division 2,Customer 8,Project 15,Segment 2,YTD,Feb,Q1,2026,32623.92,False,Q1,False,False,False,False,False,FY26 YTD actual
+62,Division 2,Customer 9,Project 15,Segment 1,YTD,Feb,Q1,2026,43858.33,False,Q1,False,False,False,False,False,FY26 YTD actual
+63,Division 2,Customer 1,Project 15,Segment 1,YTD,Feb,Q1,2026,47280.99,False,Q1,False,False,False,False,False,FY26 YTD actual
+64,Division 2,Customer 10,Project 15,Segment 1,YTD,Feb,Q1,2026,62352.75,False,Q1,False,False,False,False,False,FY26 YTD actual
+65,Division 2,Customer 11,Project 15,Segment 2,YTD,Feb,Q1,2026,88569.02,False,Q1,False,False,False,False,False,FY26 YTD actual
+66,Division 2,Customer 6,Project 16,Segment 2,YTD,Feb,Q1,2026,73844.44,False,Q1,False,False,False,False,False,FY26 YTD actual
+67,Division 2,Customer 7,Project 17,Segment 2,YTD,Feb,Q1,2026,824541.36,False,Q1,False,False,False,False,False,FY26 YTD actual
+68,Division 2,Customer 11,Project 18,Segment 2,YTD,Feb,Q1,2026,63338.81,False,Q1,False,False,False,False,False,FY26 YTD actual
+69,Division 2,Customer 12,Project 19,Segment 2,YTD,Feb,Q1,2026,416253.53,False,Q1,False,False,False,False,False,FY26 YTD actual
+70,Division 2,Customer 12,Project 20,Segment 2,YTD,Feb,Q1,2026,119435.72,False,Q1,False,False,False,False,False,FY26 YTD actual
+71,Division 2,Customer 12,Project 21,Segment 2,YTD,Feb,Q1,2026,412486.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+72,Division 2,Customer 13,Project 22,Segment 2,YTD,Feb,Q1,2026,59683.1,False,Q1,False,False,False,False,False,FY26 YTD actual
+73,Division 2,Customer 18,Project 18,Segment 2,YTD,Feb,Q1,2026,9020.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+74,Division 3,Customer 2,Project 23,Segment 2,YTD,Feb,Q1,2026,24304.02,False,Q1,False,False,False,False,False,FY26 YTD actual
+75,Division 3,Customer 2,Project 24,Segment 2,YTD,Feb,Q1,2026,173917.4,False,Q1,False,False,False,False,False,FY26 YTD actual
+76,Division 3,Customer 14,Project 25,Segment 2,YTD,Feb,Q1,2026,648477.46,False,Q1,False,False,False,False,False,FY26 YTD actual
+77,Division 3,Customer 14,Project 26,Segment 2,YTD,Feb,Q1,2026,314823.9,False,Q1,False,False,False,False,False,FY26 YTD actual
+78,Division 3,Customer 14,Project 27,Segment 2,YTD,Feb,Q1,2026,104258.65,False,Q1,False,False,False,False,False,FY26 YTD actual
+79,Division 3,Customer 15,Project 28,Segment 4,YTD,Feb,Q1,2026,588130.8000000004,False,Q1,False,False,False,False,False,FY26 YTD actual
+80,Division 3,Customer 19,Project 42,Segment 2,YTD,Feb,Q1,2026,74016.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+81,Division 3,Customer 16,Project 29,Segment 2,YTD,Feb,Q1,2026,46609.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+82,Division 3,Customer 16,Project 43,Segment 2,YTD,Feb,Q1,2026,110000.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+83,Division 3,Customer 2,Project 30,Segment 2,YTD,Feb,Q1,2026,10907.25,False,Q1,False,False,False,False,False,FY26 YTD actual
+84,Division 3,Customer 2,Project 31,Segment 2,YTD,Feb,Q1,2026,77284.21,False,Q1,False,False,False,False,False,FY26 YTD actual
+85,Division 3,Customer 2,Project 32,Segment 2,YTD,Feb,Q1,2026,157349.09,False,Q1,False,False,False,False,False,FY26 YTD actual
+86,Division 3,Customer 2,Project 33,Segment 2,YTD,Feb,Q1,2026,56530.02,False,Q1,False,False,False,False,False,FY26 YTD actual
+87,Division 3,Customer 2,Project 34,Segment 2,YTD,Feb,Q1,2026,93454.83,False,Q1,False,False,False,False,False,FY26 YTD actual
+88,Division 3,Customer 2,Project 35,Segment 2,YTD,Feb,Q1,2026,81763.18,False,Q1,False,False,False,False,False,FY26 YTD actual
+89,Division 3,Customer 2,Project 36,Segment 2,YTD,Feb,Q1,2026,36517.53,False,Q1,False,False,False,False,False,FY26 YTD actual
+90,Division 3,Customer 2,Project 37,Segment 2,YTD,Feb,Q1,2026,27746.46,False,Q1,False,False,False,False,False,FY26 YTD actual
+91,Division 3,Customer 17,Project 38,Segment 4,YTD,Feb,Q1,2026,30070.05,False,Q1,False,False,False,False,False,FY26 YTD actual
+92,Division 3,Customer 2,Project 39,Segment 2,YTD,Feb,Q1,2026,26092.68,False,Q1,False,False,False,False,False,FY26 YTD actual
+93,Division 3,Customer 2,Project 40,Segment 2,YTD,Feb,Q1,2026,53314.8,False,Q1,False,False,False,False,False,FY26 YTD actual
+94,Division 3,Customer 2,Project 41,Segment 2,YTD,Feb,Q1,2026,148582.63,False,Q1,False,False,False,False,False,FY26 YTD actual
+95,Division 1,Customer 1,Project 1,Segment 1,YTD,Mar,Q1,2026,244570.01,False,Q1,False,False,False,False,False,FY26 YTD actual
+96,Division 1,Customer 2,Project 1,Segment 2,YTD,Mar,Q1,2026,39560.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+97,Division 1,Customer 1,Project 2,Segment 1,YTD,Mar,Q1,2026,495693.66,False,Q1,False,False,False,False,False,FY26 YTD actual
+98,Division 1,Customer 1,Project 3,Segment 1,YTD,Mar,Q1,2026,112835.13,False,Q1,False,False,False,False,False,FY26 YTD actual
+99,Division 1,Customer 1,Project 4,Segment 1,YTD,Mar,Q1,2026,172575.44,False,Q1,False,False,False,False,False,FY26 YTD actual
+100,Division 1,Customer 1,Project 5,Segment 1,YTD,Mar,Q1,2026,265707.18,False,Q1,False,False,False,False,False,FY26 YTD actual
+101,Division 1,Customer 1,Project 6,Segment 1,YTD,Mar,Q1,2026,271804.1799999999,False,Q1,False,False,False,False,False,FY26 YTD actual
+102,Division 1,Customer 3,Project 7,Segment 1,YTD,Mar,Q1,2026,57428.595,False,Q1,False,False,False,False,False,FY26 YTD actual
+103,Division 1,Customer 3,Project 8,Segment 1,YTD,Mar,Q1,2026,67042.39899999999,False,Q1,False,False,False,False,False,FY26 YTD actual
+104,Division 1,Customer 3,Project 9,Segment 1,YTD,Mar,Q1,2026,50810.40000000001,False,Q1,False,False,False,False,False,FY26 YTD actual
+105,Division 1,Customer 4,Project 10,Segment 1,YTD,Mar,Q1,2026,12542.21,False,Q1,False,False,False,False,False,FY26 YTD actual
+106,Division 1,Customer 5,Project 11,Segment 1,YTD,Mar,Q2,2026,225313.65,False,Q1,True,False,False,False,False,FY26 YTD actual
+107,Division 2,Customer 6,Project 12,Segment 2,YTD,Mar,Q1,2026,1078913.22,False,Q1,False,False,False,False,False,FY26 YTD actual
+108,Division 2,Customer 7,Project 13,Segment 2,YTD,Mar,Q1,2026,228859.72,False,Q1,False,False,False,False,False,FY26 YTD actual
+109,Division 2,Customer 8,Project 15,Segment 2,YTD,Mar,Q1,2026,-4691.3,False,Q1,False,False,True,False,False,FY26 YTD actual
+110,Division 2,Customer 9,Project 15,Segment 1,YTD,Mar,Q1,2026,27707.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+111,Division 2,Customer 1,Project 15,Segment 1,YTD,Mar,Q1,2026,82190.68,False,Q1,False,False,False,False,False,FY26 YTD actual
+112,Division 2,Customer 10,Project 15,Segment 1,YTD,Mar,Q1,2026,84450.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+113,Division 2,Customer 11,Project 15,Segment 2,YTD,Mar,Q1,2026,111372.48,False,Q1,False,False,False,False,False,FY26 YTD actual
+114,Division 2,Customer 6,Project 16,Segment 2,YTD,Mar,Q1,2026,421929.8,False,Q1,False,False,False,False,False,FY26 YTD actual
+115,Division 2,Customer 7,Project 17,Segment 2,YTD,Mar,Q1,2026,345553.33,False,Q1,False,False,False,False,False,FY26 YTD actual
+116,Division 2,Customer 11,Project 18,Segment 2,YTD,Mar,Q1,2026,-5077.23,False,Q1,False,False,True,False,False,FY26 YTD actual
+117,Division 2,Customer 20,Project 18,Segment 2,YTD,Mar,Q1,2026,29156.8,False,Q1,False,False,False,False,False,FY26 YTD actual
+118,Division 2,Customer 12,Project 19,Segment 2,YTD,Mar,Q1,2026,603779.84,False,Q1,False,False,False,False,False,FY26 YTD actual
+119,Division 2,Customer 12,Project 20,Segment 2,YTD,Mar,Q1,2026,190253.13,False,Q1,False,False,False,False,False,FY26 YTD actual
+120,Division 2,Customer 12,Project 21,Segment 2,YTD,Mar,Q1,2026,426733.01,False,Q1,False,False,False,False,False,FY26 YTD actual
+121,Division 2,Customer 13,Project 22,Segment 2,YTD,Mar,Q1,2026,14139.44,False,Q1,False,False,False,False,False,FY26 YTD actual
+122,Division 2,Customer 18,Project 18,Segment 2,YTD,Mar,Q1,2026,131484.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+123,Division 3,Customer 2,Project 23,Segment 2,YTD,Mar,Q1,2026,149822.42,False,Q1,False,False,False,False,False,FY26 YTD actual
+124,Division 3,Customer 2,Project 44,Segment 2,YTD,Mar,Q1,2026,45000.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+125,Division 3,Customer 2,Project 24,Segment 2,YTD,Mar,Q1,2026,321386.32,False,Q1,False,False,False,False,False,FY26 YTD actual
+126,Division 3,Customer 14,Project 25,Segment 2,YTD,Mar,Q1,2026,957318.26,False,Q1,False,False,False,False,False,FY26 YTD actual
+127,Division 3,Customer 14,Project 26,Segment 2,YTD,Mar,Q1,2026,524147.05,False,Q1,False,False,False,False,False,FY26 YTD actual
+128,Division 3,Customer 14,Project 27,Segment 2,YTD,Mar,Q1,2026,190209.05,False,Q1,False,False,False,False,False,FY26 YTD actual
+129,Division 3,Customer 15,Project 28,Segment 4,YTD,Mar,Q1,2026,764173.6800000004,False,Q1,False,False,False,False,False,FY26 YTD actual
+130,Division 3,Customer 21,Project 45,Segment 4,YTD,Mar,Q1,2026,112346.12,False,Q1,False,False,False,False,False,FY26 YTD actual
+131,Division 3,Customer 16,Project 29,Segment 2,YTD,Mar,Q1,2026,55306.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+132,Division 3,Customer 16,Project 43,Segment 2,YTD,Mar,Q1,2026,458931.88,False,Q1,False,False,False,False,False,FY26 YTD actual
+133,Division 3,Customer 2,Project 30,Segment 2,YTD,Mar,Q1,2026,10038.97000000003,False,Q1,False,False,False,False,False,FY26 YTD actual
+134,Division 3,Customer 2,Project 31,Segment 2,YTD,Mar,Q1,2026,111084.36,False,Q1,False,False,False,False,False,FY26 YTD actual
+135,Division 3,Customer 2,Project 32,Segment 2,YTD,Mar,Q1,2026,202259.02,False,Q1,False,False,False,False,False,FY26 YTD actual
+136,Division 3,Customer 2,Project 33,Segment 2,YTD,Mar,Q1,2026,67464.98999999999,False,Q1,False,False,False,False,False,FY26 YTD actual
+137,Division 3,Customer 2,Project 34,Segment 2,YTD,Mar,Q1,2026,109160.23,False,Q1,False,False,False,False,False,FY26 YTD actual
+138,Division 3,Customer 2,Project 35,Segment 2,YTD,Mar,Q1,2026,119671.43,False,Q1,False,False,False,False,False,FY26 YTD actual
+139,Division 3,Customer 2,Project 36,Segment 2,YTD,Mar,Q1,2026,49953.91,False,Q1,False,False,False,False,False,FY26 YTD actual
+140,Division 3,Customer 2,Project 37,Segment 2,YTD,Mar,Q1,2026,45081.03,False,Q1,False,False,False,False,False,FY26 YTD actual
+141,Division 3,Customer 17,Project 38,Segment 4,YTD,Mar,Q1,2026,30999.4,False,Q1,False,False,False,False,False,FY26 YTD actual
+142,Division 3,Customer 2,Project 39,Segment 2,YTD,Mar,Q1,2026,20458.96,False,Q1,False,False,False,False,False,FY26 YTD actual
+143,Division 3,Customer 2,Project 40,Segment 2,YTD,Mar,Q1,2026,69240.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+144,Division 3,Customer 2,Project 41,Segment 2,YTD,Mar,Q1,2026,130560.97,False,Q1,False,False,False,False,False,FY26 YTD actual
+145,Division 1,Customer 1,Project 1,Segment 1,YTD,Apr,Q2,2026,213785.44,False,Q2,False,False,False,False,False,FY26 YTD actual
+146,Division 1,Customer 2,Project 1,Segment 2,YTD,Apr,Q2,2026,65075.9,False,Q2,False,False,False,False,False,FY26 YTD actual
+147,Division 1,Customer 1,Project 2,Segment 1,YTD,Apr,Q2,2026,346858.43,False,Q2,False,False,False,False,False,FY26 YTD actual
+148,Division 1,Customer 1,Project 3,Segment 1,YTD,Apr,Q2,2026,107367.05,False,Q2,False,False,False,False,False,FY26 YTD actual
+149,Division 1,Customer 1,Project 4,Segment 1,YTD,Apr,Q2,2026,151032.14,False,Q2,False,False,False,False,False,FY26 YTD actual
+150,Division 1,Customer 1,Project 5,Segment 1,YTD,Apr,Q2,2026,267409.64,False,Q2,False,False,False,False,False,FY26 YTD actual
+151,Division 1,Customer 1,Project 6,Segment 1,YTD,Apr,Q2,2026,242487.15,False,Q2,False,False,False,False,False,FY26 YTD actual
+152,Division 1,Customer 3,Project 7,Segment 1,YTD,Apr,Q2,2026,122424.63,False,Q2,False,False,False,False,False,FY26 YTD actual
+153,Division 1,Customer 3,Project 8,Segment 1,YTD,Apr,Q2,2026,48260.736,False,Q2,False,False,False,False,False,FY26 YTD actual
+154,Division 1,Customer 3,Project 9,Segment 1,YTD,Apr,Q2,2026,45029.45,False,Q2,False,False,False,False,False,FY26 YTD actual
+155,Division 1,Customer 4,Project 10,Segment 1,YTD,Apr,Q2,2026,93338.0774,False,Q2,False,False,False,False,False,FY26 YTD actual
+156,Division 1,Customer 5,Project 11,Segment 1,YTD,Apr,Q2,2026,128455.25,False,Q2,False,False,False,False,False,FY26 YTD actual
+157,Division 2,Customer 6,Project 12,Segment 2,YTD,Apr,Q2,2026,778872.58,False,Q2,False,False,False,False,False,FY26 YTD actual
+158,Division 2,Customer 7,Project 13,Segment 2,YTD,Apr,Q2,2026,310874.41,False,Q2,False,False,False,False,False,FY26 YTD actual
+159,Division 2,Customer 2,Project 14,Segment 2,YTD,Apr,Q2,2026,52564.99999999953,False,Q2,False,False,False,False,False,FY26 YTD actual
+160,Division 2,Customer 8,Project 15,Segment 2,YTD,Apr,Q2,2026,43750.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+161,Division 2,Customer 9,Project 15,Segment 1,YTD,Apr,Q2,2026,560.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+162,Division 2,Customer 1,Project 15,Segment 1,YTD,Apr,Q2,2026,70957.68,False,Q2,False,False,False,False,False,FY26 YTD actual
+163,Division 2,Customer 10,Project 15,Segment 1,YTD,Apr,Q2,2026,13508.5,False,Q2,False,False,False,False,False,FY26 YTD actual
+164,Division 2,Customer 11,Project 15,Segment 2,YTD,Apr,Q2,2026,27318.21,False,Q2,False,False,False,False,False,FY26 YTD actual
+165,Division 2,Customer 6,Project 16,Segment 2,YTD,Apr,Q2,2026,385451.71,False,Q2,False,False,False,False,False,FY26 YTD actual
+166,Division 2,Customer 7,Project 17,Segment 2,YTD,Apr,Q2,2026,534963.93,False,Q2,False,False,False,False,False,FY26 YTD actual
+167,Division 2,Customer 11,Project 18,Segment 2,YTD,Apr,Q2,2026,12596.7,False,Q2,False,False,False,False,False,FY26 YTD actual
+168,Division 2,Customer 12,Project 19,Segment 2,YTD,Apr,Q2,2026,505591.29,False,Q2,False,False,False,False,False,FY26 YTD actual
+169,Division 2,Customer 12,Project 20,Segment 2,YTD,Apr,Q2,2026,139259.35,False,Q2,False,False,False,False,False,FY26 YTD actual
+170,Division 2,Customer 12,Project 21,Segment 2,YTD,Apr,Q2,2026,602321.8200000001,False,Q2,False,False,False,False,False,FY26 YTD actual
+171,Division 2,Customer 13,Project 22,Segment 2,YTD,Apr,Q2,2026,273.36,False,Q2,False,False,False,False,False,FY26 YTD actual
+172,Division 2,Customer 18,Project 18,Segment 2,YTD,Apr,Q2,2026,19104.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+173,Division 3,Customer 2,Project 23,Segment 2,YTD,Apr,Q2,2026,13203.28,False,Q2,False,False,False,False,False,FY26 YTD actual
+174,Division 3,Customer 2,Project 44,Segment 2,YTD,Apr,Q2,2026,15000.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+175,Division 3,Customer 2,Project 24,Segment 2,YTD,Apr,Q2,2026,330377.8,False,Q2,False,False,False,False,False,FY26 YTD actual
+176,Division 3,Customer 14,Project 25,Segment 2,YTD,Apr,Q2,2026,578783.49,False,Q2,False,False,False,False,False,FY26 YTD actual
+177,Division 3,Customer 14,Project 26,Segment 2,YTD,Apr,Q2,2026,404907.45,False,Q2,False,False,False,False,False,FY26 YTD actual
+178,Division 3,Customer 14,Project 27,Segment 2,YTD,Apr,Q2,2026,100645.85,False,Q2,False,False,False,False,False,FY26 YTD actual
+179,Division 3,Customer 15,Project 28,Segment 4,YTD,Apr,Q2,2026,810610.1299999999,False,Q2,False,False,False,False,False,FY26 YTD actual
+180,Division 3,Customer 21,Project 45,Segment 4,YTD,Apr,Q2,2026,288924.61,False,Q2,False,False,False,False,False,FY26 YTD actual
+181,Division 3,Customer 19,Project 42,Segment 2,YTD,Apr,Q2,2026,40447.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+182,Division 3,Customer 16,Project 29,Segment 2,YTD,Apr,Q2,2026,144080.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+183,Division 3,Customer 16,Project 43,Segment 2,YTD,Apr,Q2,2026,402194.28,False,Q2,False,False,False,False,False,FY26 YTD actual
+184,Division 3,Customer 2,Project 30,Segment 2,YTD,Apr,Q2,2026,7598.53,False,Q2,False,False,False,False,False,FY26 YTD actual
+185,Division 3,Customer 2,Project 31,Segment 2,YTD,Apr,Q2,2026,92739.46,False,Q2,False,False,False,False,False,FY26 YTD actual
+186,Division 3,Customer 2,Project 32,Segment 2,YTD,Apr,Q2,2026,163229.69,False,Q2,False,False,False,False,False,FY26 YTD actual
+187,Division 3,Customer 2,Project 33,Segment 2,YTD,Apr,Q2,2026,55164.96000000001,False,Q2,False,False,False,False,False,FY26 YTD actual
+188,Division 3,Customer 2,Project 34,Segment 2,YTD,Apr,Q2,2026,92095.94999999995,False,Q2,False,False,False,False,False,FY26 YTD actual
+189,Division 3,Customer 2,Project 35,Segment 2,YTD,Apr,Q2,2026,69953.58,False,Q2,False,False,False,False,False,FY26 YTD actual
+190,Division 3,Customer 2,Project 36,Segment 2,YTD,Apr,Q2,2026,37477.86,False,Q2,False,False,False,False,False,FY26 YTD actual
+191,Division 3,Customer 2,Project 37,Unknown,YTD,Apr,Q2,2026,22367.88,False,Q2,False,False,False,False,False,FY26 YTD actual
+192,Division 3,Customer 17,Project 38,Segment 4,YTD,Apr,Q2,2026,32112.5,False,Q2,False,False,False,False,False,FY26 YTD actual
+193,Division 3,Customer 2,Project 39,Segment 2,YTD,Apr,Q2,2026,12154.75,False,Q2,False,False,False,False,False,FY26 YTD actual
+194,Division 3,Customer 2,Project 40,Segment 2,YTD,Apr,Q2,2026,52160.8,False,Q2,False,False,False,False,False,FY26 YTD actual
+195,Division 3,Customer 2,Project 41,Segment 2,YTD,Apr,Q2,2026,120794.5,False,Q2,False,False,False,False,False,FY26 YTD actual
+196,Division 1,Customer 1,Project 1,Segment 1,YTD,May,Q2,2026,340556.64,False,Q2,False,False,False,False,False,FY26 YTD actual
+197,Division 1,Customer 2,Project 1,Segment 2,YTD,May,Q2,2026,255903.4,False,Q2,False,False,False,False,False,FY26 YTD actual
+198,Division 1,Customer 1,Project 2,Segment 1,YTD,May,Q2,2026,378028.05,False,Q2,False,False,False,False,False,FY26 YTD actual
+199,Division 1,Customer 1,Project 3,Segment 1,YTD,May,Q2,2026,61214.01000000001,False,Q2,False,False,False,False,False,FY26 YTD actual
+200,Division 1,Customer 1,Project 4,Segment 1,YTD,May,Q1,2026,231562.22,False,Q2,True,False,False,False,False,FY26 YTD actual
+201,Division 1,Customer 1,Project 5,Segment 1,YTD,May,Q2,2026,180832.05,False,Q2,False,False,False,False,False,FY26 YTD actual
+202,Division 1,Customer 1,Project 6,Segment 1,YTD,May,Q2,2026,305958.9,False,Q2,False,False,False,False,False,FY26 YTD actual
+203,Division 1,Customer 3,Project 7,Segment 1,YTD,May,Q2,2026,83679.57,False,Q2,False,False,False,False,False,FY26 YTD actual
+204,Division 1,Customer 3,Project 8,Segment 1,YTD,May,Q2,2026,83063.47,False,Q2,False,False,False,False,False,FY26 YTD actual
+205,Division 1,Customer 3,Project 9,Segment 1,YTD,May,Q2,2026,21359.48,False,Q2,False,False,False,False,False,FY26 YTD actual
+206,Division 1,Customer 4,Project 10,Segment 1,YTD,May,Q2,2026,102485.6002,False,Q2,False,False,False,False,False,FY26 YTD actual
+207,Division 1,Customer 5,Project 11,Segment 1,YTD,May,Q2,2026,189391.6,False,Q2,False,False,False,False,False,FY26 YTD actual
+208,Division 2,Customer 6,Project 12,Segment 2,YTD,May,Q1,2026,705649.3500000001,False,Q2,True,False,False,False,False,FY26 YTD actual
+209,Division 2,Customer 7,Project 13,Segment 2,YTD,May,Q2,2026,144593.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+210,Division 2,Customer 7,Project 17,Segment 2,YTD,May,Q2,2026,-1250000.0,False,Q2,False,False,True,False,False,FY26 YTD actual
+211,Division 2,Customer 2,Project 14,Segment 2,YTD,May,Q2,2026,55685.58999999985,False,Q2,False,False,False,False,False,FY26 YTD actual
+212,Division 2,Customer 1,Project 15,Segment 1,YTD,May,Q2,2026,33059.62,False,Q2,False,False,False,False,False,FY26 YTD actual
+213,Division 2,Customer 10,Project 15,Segment 1,YTD,May,Q2,2026,29526.32,False,Q2,False,False,False,False,False,FY26 YTD actual
+214,Division 2,Customer 11,Project 15,Segment 2,YTD,May,Q2,2026,33778.25,False,Q2,False,False,False,False,False,FY26 YTD actual
+215,Division 2,Customer 6,Project 16,Segment 2,YTD,May,Q2,2026,292135.35,False,Q2,False,False,False,False,False,FY26 YTD actual
+216,Division 2,Customer 7,Project 17,Segment 2,YTD,May,Q2,2026,285760.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+217,Division 2,Customer 11,Project 18,Segment 2,YTD,May,Q2,2026,33132.06,False,Q2,False,False,False,False,False,FY26 YTD actual
+218,Division 2,Customer 12,Project 19,Segment 2,YTD,May,Q2,2026,526097.93,False,Q2,False,False,False,False,False,FY26 YTD actual
+219,Division 2,Customer 12,Project 20,Segment 2,YTD,May,Q2,2026,139351.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+220,Division 2,Customer 12,Project 21,Segment 2,YTD,May,Q2,2026,429784.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+221,Division 2,Customer 13,Project 22,Segment 2,YTD,May,Q2,2026,34838.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+222,Division 2,Customer 18,Project 18,Segment 2,YTD,May,Q2,2026,67191.505,False,Q2,False,False,False,False,False,FY26 YTD actual
+223,Division 2,Customer 18,Project 46,Segment 2,YTD,May,Q2,2026,37382.495,False,Q2,False,False,False,False,False,FY26 YTD actual
+224,Division 3,Customer 2,Project 23,Segment 2,YTD,May,Q2,2026,53553.95,False,Q2,False,False,False,False,False,FY26 YTD actual
+225,Division 3,Customer 2,Project 44,Segment 2,YTD,May,Q2,2026,571101.8,False,Q2,False,False,False,False,False,FY26 YTD actual
+226,Division 3,Customer 2,Project 24,Segment 2,YTD,May,Q2,2026,468482.68,False,Q2,False,False,False,False,False,FY26 YTD actual
+227,Division 3,Customer 14,Project 25,Segment 2,YTD,May,Q2,2026,704577.48,False,Q2,False,False,False,False,False,FY26 YTD actual
+228,Division 3,Customer 14,Project 26,Segment 2,YTD,May,Q2,2026,409116.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+229,Division 3,Customer 14,Project 27,Segment 2,YTD,May,Q2,2026,56006.3,False,Q2,False,False,False,False,False,FY26 YTD actual
+230,Division 3,Customer 14,Project 47,Segment 2,YTD,May,Q2,2026,126977.55,False,Q2,False,False,False,False,False,FY26 YTD actual
+231,Division 3,Customer 15,Project 28,Segment 4,YTD,May,Q2,2026,1428590.439121836,False,Q2,False,False,False,False,False,FY26 YTD actual
+232,Division 3,Customer 21,Project 45,Segment 4,YTD,May,Q2,2026,149508.31,False,Q2,False,False,False,False,False,FY26 YTD actual
+233,Division 3,Customer 19,Project 42,Segment 2,YTD,May,Q2,2026,2062751.5,False,Q2,False,False,False,False,False,FY26 YTD actual
+234,Division 3,Customer 16,Project 29,Segment 2,YTD,May,Q2,2026,66531.5,False,Q2,False,False,False,False,False,FY26 YTD actual
+235,Division 3,Customer 16,Project 43,Segment 2,YTD,May,Q2,2026,474390.32,False,Q2,False,False,False,False,False,FY26 YTD actual
+236,Division 3,Customer 2,Project 30,Segment 2,YTD,May,Q2,2026,13971.10000000003,False,Q2,False,False,False,False,False,FY26 YTD actual
+237,Division 3,Customer 2,Project 48,Segment 2,YTD,May,Q2,2026,2043.2,False,Q2,False,False,False,False,False,FY26 YTD actual
+238,Division 3,Customer 2,Project 31,Segment 2,YTD,May,Q2,2026,91383.83000000002,False,Q2,False,False,False,False,False,FY26 YTD actual
+239,Division 3,Customer 2,Project 32,Segment 2,YTD,May,Q2,2026,148234.77,False,Q2,False,False,False,False,False,FY26 YTD actual
+240,Division 3,Customer 2,Project 33,Segment 2,YTD,May,Q2,2026,88977.83,False,Q2,False,False,False,False,False,FY26 YTD actual
+241,Division 3,Customer 2,Project 34,Segment 2,YTD,May,Q2,2026,125650.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+242,Division 3,Customer 2,Project 35,Segment 2,YTD,May,Q2,2026,65680.53,False,Q2,False,False,False,False,False,FY26 YTD actual
+243,Division 3,Customer 2,Project 36,Segment 2,YTD,May,Q2,2026,31643.48,False,Q2,False,False,False,False,False,FY26 YTD actual
+244,Division 3,Customer 2,Project 37,Segment 2,YTD,May,Q2,2026,36079.45,False,Q2,False,False,False,False,False,FY26 YTD actual
+245,Division 3,Customer 17,Project 38,Segment 4,YTD,May,Q2,2026,28437.85,False,Q2,False,False,False,False,False,FY26 YTD actual
+246,Division 3,Customer 14,Project 49,Segment 2,YTD,May,Q2,2026,17596.04,False,Q2,False,False,False,False,False,FY26 YTD actual
+247,Division 3,Customer 2,Project 39,Segment 2,YTD,May,Q2,2026,2772.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+248,Division 3,Customer 2,Project 40,Segment 2,YTD,May,Q2,2026,55392.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+249,Division 3,Customer 2,Project 41,Segment 2,YTD,May,Q2,2026,90588.93,False,Q2,False,False,False,False,False,FY26 YTD actual
+250,Division 1,Customer 1,Project 1,Segment 1,YTD,Jun,Q2,2026,258994.3,False,Q2,False,False,False,False,False,FY26 YTD actual
+251,Division 1,Customer 2,Project 1,Segment 2,YTD,Jun,Q2,2026,56075.4,False,Q2,False,False,False,False,False,FY26 YTD actual
+252,Division 1,Customer 1,Project 2,Segment 1,YTD,Jun,Q2,2026,748290.47,False,Q2,False,False,False,False,False,FY26 YTD actual
+253,Division 1,Customer 1,Project 3,Segment 1,YTD,Jun,Q2,2026,143875.01,False,Q2,False,False,False,False,False,FY26 YTD actual
+254,Division 1,Customer 1,Project 4,Segment 1,YTD,Jun,Q2,2026,223920.02,False,Q2,False,False,False,False,False,FY26 YTD actual
+255,Division 1,Customer 1,Project 5,Segment 1,YTD,Jun,Q2,2026,203886.24,False,Q2,False,False,False,False,False,FY26 YTD actual
+256,Division 1,Customer 1,Project 6,Segment 1,YTD,Jun,Q2,2026,356543.657,False,Q2,False,False,False,False,False,FY26 YTD actual
+257,Division 1,Customer 3,Project 7,Segment 1,YTD,Jun,Q2,2026,37023.75,False,Q2,False,False,False,False,False,FY26 YTD actual
+258,Division 1,Customer 3,Project 8,Segment 1,YTD,Jun,Q2,2026,117641.108,False,Q2,False,False,False,False,False,FY26 YTD actual
+259,Division 1,Customer 4,Project 10,Segment 1,YTD,Jun,Q2,2026,124747.7078,False,Q2,False,False,False,False,False,FY26 YTD actual
+260,Division 1,Customer 5,Project 11,Segment 1,YTD,Jun,Q2,2026,183566.36,False,Q2,False,False,False,False,False,FY26 YTD actual
+261,Division 2,Customer 6,Project 12,Segment 2,YTD,Jun,Q2,2026,874556.55,False,Q2,False,False,False,False,False,FY26 YTD actual
+262,Division 2,Customer 7,Project 13,Segment 2,YTD,Jun,Q2,2026,4266.24,False,Q2,False,False,False,False,False,FY26 YTD actual
+263,Division 2,Customer 2,Project 14,Segment 2,YTD,Jun,Q2,2026,28436.71999999974,False,Q2,False,False,False,False,False,FY26 YTD actual
+264,Division 2,Customer 9,Project 15,Segment 1,YTD,Jun,Q2,2026,17680.47,False,Q2,False,False,False,False,False,FY26 YTD actual
+265,Division 2,Customer 1,Project 15,Segment 1,YTD,Jun,Q2,2026,36558.37,False,Q2,False,False,False,False,False,FY26 YTD actual
+266,Division 2,Customer 10,Project 15,Segment 1,YTD,Jun,Q2,2026,74295.3,False,Q2,False,False,False,False,False,FY26 YTD actual
+267,Division 2,Customer 11,Project 15,Segment 2,YTD,Jun,Q2,2026,80545.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+268,Division 2,Customer 6,Project 16,Segment 2,YTD,Jun,Q2,2026,243284.58,False,Q2,False,False,False,False,False,FY26 YTD actual
+269,Division 2,Customer 18,Project 18,Segment 2,YTD,Jun,Q2,2026,9020.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+270,Division 2,Customer 7,Project 17,Segment 2,YTD,Jun,Q2,2026,184340.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+271,Division 2,Customer 20,Project 18,Segment 2,YTD,Jun,Q2,2026,16415.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+272,Division 2,Customer 12,Project 19,Segment 2,YTD,Jun,Q2,2026,595778.9099999999,False,Q2,False,False,False,False,False,FY26 YTD actual
+273,Division 2,Customer 12,Project 20,Segment 2,YTD,Jun,Q2,2026,179014.4,False,Q2,False,False,False,False,False,FY26 YTD actual
+274,Division 2,Customer 12,Project 21,Segment 2,YTD,Jun,Q2,2026,480913.29,False,Q2,False,False,False,False,False,FY26 YTD actual
+275,Division 2,Customer 13,Project 22,Segment 2,YTD,Jun,Q2,2026,13080.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+276,Division 2,Customer 22,Project 50,Segment 2,YTD,Jun,Q2,2026,749384.46,False,Q2,False,False,False,False,False,FY26 YTD actual
+277,Division 2,Customer 18,Project 18,Segment 2,YTD,Jun,Q2,2026,79904.125,False,Q2,False,False,False,False,False,FY26 YTD actual
+278,Division 2,Customer 18,Project 46,Segment 2,YTD,Jun,Q2,2026,37382.495,False,Q2,False,False,False,False,False,FY26 YTD actual
+279,Division 3,Customer 2,Project 44,Segment 2,YTD,Jun,Q2,2026,821358.7000000002,False,Q2,False,False,False,False,False,FY26 YTD actual
+280,Division 3,Customer 2,Project 51,Segment 2,YTD,Jun,Q2,2026,546428.3099999999,False,Q2,False,False,False,False,False,FY26 YTD actual
+281,Division 3,Customer 2,Project 24,Segment 2,YTD,Jun,Q2,2026,209762.41,False,Q2,False,False,False,False,False,FY26 YTD actual
+282,Division 3,Customer 14,Project 25,Segment 2,YTD,Jun,Q2,2026,418815.84,False,Q2,False,False,False,False,False,FY26 YTD actual
+283,Division 3,Customer 14,Project 26,Segment 2,YTD,Jun,Q2,2026,559828.4,False,Q2,False,False,False,False,False,FY26 YTD actual
+284,Division 3,Customer 14,Project 27,Segment 2,YTD,Jun,Q2,2026,370184.25,False,Q2,False,False,False,False,False,FY26 YTD actual
+285,Division 3,Customer 15,Project 28,Segment 4,YTD,Jun,Q2,2026,1012043.960000002,False,Q2,False,False,False,False,False,FY26 YTD actual
+286,Division 3,Customer 21,Project 45,Segment 4,YTD,Jun,Q2,2026,716747.91,False,Q2,False,False,False,False,False,FY26 YTD actual
+287,Division 3,Customer 23,Project 52,Segment 2,YTD,Jun,Q2,2026,129392.5,False,Q2,False,False,False,False,False,FY26 YTD actual
+288,Division 3,Customer 23,Project 53,Segment 2,YTD,Jun,Q2,2026,211003.75,False,Q2,False,False,False,False,False,FY26 YTD actual
+289,Division 3,Customer 19,Project 42,Segment 2,YTD,Jun,Q2,2026,708848.14,False,Q2,False,False,False,False,False,FY26 YTD actual
+290,Division 3,Customer 19,Project 54,Segment 2,YTD,Jun,Q2,2026,193558.41,False,Q2,False,False,False,False,False,FY26 YTD actual
+291,Division 3,Customer 16,Project 29,Segment 2,YTD,Jun,Q2,2026,75006.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+292,Division 3,Customer 16,Project 43,Segment 2,YTD,Jun,Q2,2026,299226.77,False,Q2,False,False,False,False,False,FY26 YTD actual
+293,Division 3,Customer 2,Project 30,Segment 2,YTD,Jun,Q2,2026,41451.28999999996,False,Q2,False,False,False,False,False,FY26 YTD actual
+294,Division 3,Customer 2,Project 48,Segment 2,YTD,Jun,Q2,2026,938.88,False,Q2,False,False,False,False,False,FY26 YTD actual
+295,Division 3,Customer 2,Project 31,Segment 2,YTD,Jun,Q2,2026,121006.03,False,Q2,False,False,False,False,False,FY26 YTD actual
+296,Division 3,Customer 2,Project 32,Segment 2,YTD,Jun,Q2,2026,185093.5,False,Q2,False,False,False,False,False,FY26 YTD actual
+297,Division 3,Customer 2,Project 33,Segment 2,YTD,Jun,Q2,2026,151537.25,False,Q2,False,False,False,False,False,FY26 YTD actual
+298,Division 3,Customer 2,Project 34,Segment 2,YTD,Jun,Q2,2026,154722.81,False,Q2,False,False,False,False,False,FY26 YTD actual
+299,Division 3,Customer 2,Project 35,Segment 2,YTD,Jun,Q2,2026,88689.40000000001,False,Q2,False,False,False,False,False,FY26 YTD actual
+300,Division 3,Customer 2,Project 36,Segment 2,YTD,Jun,Q2,2026,49907.88,False,Q2,False,False,False,False,False,FY26 YTD actual
+301,Division 3,Customer 2,Project 37,Segment 2,YTD,Jun,Q2,2026,46988.8,False,Q2,False,False,False,False,False,FY26 YTD actual
+302,Division 3,Customer 17,Project 38,Segment 4,YTD,Jun,Q2,2026,26033.4,False,Q2,False,False,False,False,False,FY26 YTD actual
+303,Division 3,Customer 2,Project 40,Segment 2,YTD,Jun,Q2,2026,64162.4,False,Q2,False,False,False,False,False,FY26 YTD actual
+304,Division 3,Customer 2,Project 41,Segment 2,YTD,Jun,Q2,2026,136519.93,False,Q2,False,False,False,False,False,FY26 YTD actual
+305,Division 1,Customer 1,Project 1,Segment 1,Executable,Jul,Q3,2026,175000.0,False,Q3,False,False,False,False,False,Forward pipeline
+306,Division 1,Customer 2,Project 1,Segment 2,Executable,Jul,Q3,2026,75000.0,False,Q3,False,False,False,False,False,Forward pipeline
+307,Division 1,Customer 1,Project 2,Segment 1,Executable,Jul,Q3,2026,600000.0,False,Q3,False,False,False,False,False,Forward pipeline
+308,Division 1,Customer 1,Project 3,Segment 1,Executable,Jul,Q3,2026,80000.0,False,Q3,False,False,False,False,False,Forward pipeline
+309,Division 1,Customer 1,Project 4,Segment 1,Executable,Jul,Q3,2026,140000.0,False,Q3,False,False,False,False,False,Forward pipeline
+310,Division 1,Customer 1,Project 5,Segment 1,Executable,Jul,Q3,2026,200000.0,False,Q3,False,False,False,False,False,Forward pipeline
+311,Division 1,Customer 1,Project 6,Segment 1,Executable,Jul,Q3,2026,250000.0,False,Q3,False,False,False,False,False,Forward pipeline
+312,Division 1,Customer 3,Project 7,Segment 1,Executable,Jul,Q3,2026,60000.0,False,Q3,False,False,False,False,False,Forward pipeline
+313,Division 1,Customer 3,Project 8,Segment 1,Executable,Jul,Q3,2026,45000.0,False,Q3,False,False,False,False,False,Forward pipeline
+314,Division 1,Customer 4,Project 10,Segment 1,Go-Get,Jul,Q3,2026,50000.0,False,Q3,False,False,False,False,False,Forward pipeline
+315,Division 1,Customer 5,Project 11,Segment 1,Executable,Jul,Q3,2026,120000.0,False,Q3,False,False,False,False,False,Forward pipeline
+316,Division 2,Customer 6,Project 12,Segment 2,Executable,Jul,Q3,2026,385000.0,False,Q3,False,False,False,False,False,Forward pipeline
+317,Division 2,Customer 8,Project 15,Segment 2,Executable,Jul,Q3,2026,40000.0,False,Q3,False,False,False,False,False,Forward pipeline
+318,Division 2,Customer 9,Project 15,Segment 1,Executable,Jul,Q3,2026,44000.0,False,Q3,False,False,False,False,False,Forward pipeline
+319,Division 2,Customer 1,Project 15,Segment 1,Executable,Jul,Q3,2026,60000.0,False,Q3,False,False,False,False,False,Forward pipeline
+320,Division 2,Customer 6,Project 55,Segment 2,Contracted (unclassified),Jul,Q3,2026,25000.0,False,Q3,False,False,False,False,False,Forward pipeline
+321,Division 2,Customer 6,Project 56,Segment 2,Executable,Jul,Q3,2026,34000.0,False,Q3,False,False,False,False,False,Forward pipeline
+322,Division 2,Customer 6,Project 57,Segment 2,Executable,Jul,Q3,2026,45000.0,False,Q3,False,False,False,False,False,Forward pipeline
+323,Division 2,Customer 6,Project 16,Unknown,Executable,Jul,Q3,2026,160000.0,False,Q3,False,False,False,False,False,Forward pipeline
+324,Division 2,Customer 12,Project 19,Segment 2,Executable,Jul,Q3,2026,500000.0,False,Q3,False,False,False,False,False,Forward pipeline
+325,Division 2,Customer 12,Project 20,Segment 2,Executable,Jul,Q3,2026,150000.0,False,Q3,False,False,False,False,True,Forward pipeline
+326,Division 2,Customer 12,Project 21,Segment 2,Executable,Jul,Q3,2026,430000.0,False,Q3,False,False,False,False,False,Forward pipeline
+327,Division 2,Customer 13,Project 22,Segment 2,Go-Get,Jul,Q3,2026,10000.0,False,Q3,False,False,False,False,False,Forward pipeline
+328,Division 2,Customer 22,Project 50,Segment 2,Executable,Jul,Q3,2026,840000.0,False,Q3,False,False,False,False,False,Forward pipeline
+329,Division 2,Customer 18,Project 18,Segment 2,Executable,Jul,Q3,2026,106000.0,False,Q3,False,False,False,False,False,Forward pipeline
+330,Division 1,Customer 1,Project 1,Segment 1,Executable,Aug,Q3,2026,125000.0,False,Q3,False,False,False,False,False,Forward pipeline
+331,Division 1,Customer 2,Project 1,Segment 2,Executable,Aug,Q3,2026,75000.0,False,Q3,False,False,False,False,False,Forward pipeline
+332,Division 1,Customer 1,Project 2,Segment 1,Executable,Aug,Q3,2026,600000.0,False,Q3,False,False,False,False,False,Forward pipeline
+333,Division 1,Customer 1,Project 3,Segment 1,Executable,Aug,Q3,2026,80000.0,False,Q3,False,False,False,False,False,Forward pipeline
+334,Division 1,Customer 1,Project 4,Segment 1,Executable,Aug,Q3,2026,140000.0,False,Q3,False,False,False,False,False,Forward pipeline
+335,Division 1,Customer 1,Project 5,Segment 1,Executable,Aug,Q3,2026,200000.0,False,Q3,False,False,False,False,False,Forward pipeline
+336,Division 1,Customer 1,Project 6,Segment 1,Executable,Aug,Q3,2026,250000.0,False,Q3,False,False,False,False,False,Forward pipeline
+337,Division 1,Customer 3,Project 7,Segment 1,Executable,Aug,Q3,2026,60000.0,False,Q3,False,False,False,False,False,Forward pipeline
+338,Division 1,Customer 3,Project 8,Segment 1,Go-Get,Aug,Q3,2026,45000.0,False,Q3,False,False,False,False,False,Forward pipeline
+339,Division 1,Customer 4,Project 10,Segment 1,Forecasted,Aug,Q3,2026,40000.0,False,Q3,False,False,False,False,False,Forward pipeline
+340,Division 1,Customer 5,Project 11,Segment 1,Contracted (unclassified),Aug,Q3,2026,80000.0,False,Q3,False,False,False,False,False,Forward pipeline
+341,Division 1,Customer 5,Project 11,Segment 1,Forecasted,Aug,Q3,2026,40000.0,False,Q3,False,False,False,False,False,Forward pipeline
+342,Division 2,Customer 6,Project 12,Segment 2,Executable,Aug,Q3,2026,385000.0,False,Q3,False,False,False,False,False,Forward pipeline
+343,Division 2,Customer 2,Project 14,Segment 2,Executable,Aug,Q3,2026,23000.0,False,Q3,False,False,False,False,False,Forward pipeline
+344,Division 2,Customer 8,Project 15,Segment 2,Forecasted,Aug,Q3,2026,20000.0,False,Q3,False,False,False,False,False,Forward pipeline
+345,Division 2,Customer 9,Project 15,Segment 1,Forecasted,Aug,Q3,2026,44000.0,False,Q3,False,False,False,False,False,Forward pipeline
+346,Division 2,Customer 1,Project 15,Segment 1,Executable,Aug,Q3,2026,60000.0,False,Q3,False,False,False,False,False,Forward pipeline
+347,Division 2,Customer 6,Project 55,Segment 2,Go-Get,Aug,Q3,2026,10000.0,False,Q3,False,False,False,False,False,Forward pipeline
+348,Division 2,Customer 6,Project 56,Segment 2,Executable,Aug,Q3,2026,34000.0,False,Q3,False,False,False,False,False,Forward pipeline
+349,Division 2,Customer 6,Project 57,Segment 2,Executable,Aug,Q3,2026,12000.0,False,Q3,False,False,False,False,False,Forward pipeline
+350,Division 2,Customer 6,Project 16,Segment 2,Executable,Aug,Q3,2026,247000.0,False,Q3,False,False,False,False,False,Forward pipeline
+351,Division 2,Customer 12,Project 19,Segment 2,Forecasted,Aug,Q3,2026,500000.0,False,Q3,False,False,False,False,False,Forward pipeline
+352,Division 2,Customer 12,Project 20,Segment 2,Forecasted,Aug,Q3,2026,175000.0,False,Q3,False,False,False,False,False,Forward pipeline
+353,Division 2,Customer 12,Project 21,Segment 2,Forecasted,Aug,Q3,2026,300000.0,False,Q3,False,False,False,False,False,Forward pipeline
+354,Division 2,Customer 13,Project 22,Segment 2,Go-Get,Aug,Q3,2026,10000.0,False,Q3,False,False,False,False,False,Forward pipeline
+355,Division 2,Customer 22,Project 50,Segment 2,Executable,Aug,Q3,2026,1040000.0,False,Q3,False,False,False,False,False,Forward pipeline
+356,Division 2,Customer 18,Project 18,Segment 2,Executable,Aug,Q3,2026,106000.0,False,Q3,False,False,False,False,False,Forward pipeline
+357,Division 2,Customer 18,Project 46,Segment 2,Go-Get,Aug,Q3,2026,250000.0,False,Q3,False,False,False,False,False,Forward pipeline
+358,Division 2,Customer 18,Project 58,Unknown,Forecasted,Aug,Q3,2026,40000.0,False,Q3,False,False,False,False,False,Forward pipeline
+359,Division 2,Customer 6,Project 59,Segment 2,Go-Get,Aug,Q3,2026,90909.09090909093,False,Q3,False,False,False,False,False,Forward pipeline
+360,Division 1,Customer 1,Project 1,Segment 1,Contracted (unclassified),Sep,Q3,2026,150000.0,False,Q3,False,False,False,False,True,Forward pipeline
+361,Division 1,Customer 2,Project 1,Segment 2,Executable,Sep,Q3,2026,75000.0,False,Q3,False,False,False,False,False,Forward pipeline
+362,Division 1,Customer 1,Project 2,Segment 1,Contracted (unclassified),Sep,Q3,2026,600000.0,False,Q3,False,False,False,False,False,Forward pipeline
+363,Division 1,Customer 1,Project 3,Segment 1,Forecasted,Sep,Q3,2026,75000.0,False,Q3,False,False,False,False,False,Forward pipeline
+364,Division 1,Customer 1,Project 4,Segment 1,Contracted (unclassified),Sep,Q3,2026,70000.0,False,Q3,False,False,False,False,False,Forward pipeline
+365,Division 1,Customer 1,Project 4,Segment 1,Go-Get,Sep,Q3,2026,50000.0,False,Q3,False,False,False,False,False,Forward pipeline
+366,Division 1,Customer 1,Project 5,Segment 1,Contracted (unclassified),Sep,Q3,2026,250000.0,False,Q3,False,False,False,False,False,Forward pipeline
+367,Division 1,Customer 1,Project 6,Segment 1,Contracted (unclassified),Sep,Q3,2026,150000.0,False,Q3,False,False,False,False,True,Forward pipeline
+368,Division 1,Customer 1,Project 6,Segment 1,Go-Get,Sep,Q3,2026,130000.0,False,Q3,False,False,False,False,False,Forward pipeline
+369,Division 1,Customer 3,Project 7,Segment 1,Executable,Sep,Q3,2026,75000.0,False,Q3,False,False,False,False,False,Forward pipeline
+370,Division 1,Customer 3,Project 8,Segment 1,Forecasted,Sep,Q3,2026,60000.0,False,Q3,False,False,False,False,False,Forward pipeline
+371,Division 1,Customer 4,Project 10,Segment 1,Forecasted,Sep,Q3,2026,50000.0,False,Q3,False,False,False,False,False,Forward pipeline
+372,Division 1,Customer 5,Project 11,Segment 1,Forecasted,Sep,Q3,2026,140000.0,False,Q3,False,False,False,False,False,Forward pipeline
+373,Division 2,Customer 6,Project 12,Segment 2,Executable,Sep,Q3,2026,276000.0,False,Q3,False,False,False,False,False,Forward pipeline
+374,Division 2,Customer 2,Project 14,Segment 2,Executable,Sep,Q3,2026,29000.0,False,Q3,False,False,False,False,False,Forward pipeline
+375,Division 2,Customer 8,Project 15,Segment 2,Go-Get,Sep,Q3,2026,25000.0,False,Q3,False,False,False,False,False,Forward pipeline
+376,Division 2,Customer 9,Project 15,Segment 1,Forecasted,Sep,Q3,2026,54000.0,False,Q3,False,False,False,False,False,Forward pipeline
+377,Division 2,Customer 1,Project 15,Segment 1,Executable,Sep,Q3,2026,75000.0,False,Q3,False,False,False,False,False,Forward pipeline
+378,Division 2,Customer 6,Project 55,Segment 2,Forecasted,Sep,Q3,2026,15000.0,False,Q3,False,False,False,False,False,Forward pipeline
+379,Division 2,Customer 6,Project 56,Segment 2,Executable,Sep,Q3,2026,42000.0,False,Q3,False,False,False,False,False,Forward pipeline
+380,Division 2,Customer 6,Project 57,Segment 2,Executable,Sep,Q3,2026,13000.0,False,Q3,False,False,False,False,False,Forward pipeline
+381,Division 2,Customer 6,Project 16,Segment 2,Executable,Sep,Q3,2026,287000.0,False,Q3,False,False,False,False,False,Forward pipeline
+382,Division 2,Customer 12,Project 19,Segment 2,Forecasted,Sep,Q3,2026,596000.0,False,Q3,False,False,False,False,False,Forward pipeline
+383,Division 2,Customer 12,Project 20,Segment 2,Go-Get,Sep,Q3,2026,250000.0,False,Q3,False,False,False,False,False,Forward pipeline
+384,Division 2,Customer 12,Project 21,Segment 2,Forecasted,Sep,Q3,2026,375000.0,False,Q3,False,False,False,False,False,Forward pipeline
+385,Division 2,Customer 13,Project 22,Segment 2,Go-Get,Sep,Q3,2026,10000.0,False,Q3,False,False,False,False,False,Forward pipeline
+386,Division 2,Customer 22,Project 50,Segment 2,Executable,Sep,Q3,2026,1483666.666666667,False,Q3,False,False,False,False,False,Forward pipeline
+387,Division 2,Customer 18,Project 18,Segment 2,Executable,Sep,Q3,2026,133000.0,False,Q3,False,False,False,False,False,Forward pipeline
+388,Division 2,Customer 18,Project 46,Segment 2,Forecasted,Sep,Q3,2026,250000.0,False,Q3,False,False,False,False,False,Forward pipeline
+389,Division 2,Customer 18,Project 58,Segment 2,Go-Get,Sep,Q3,2026,40000.0,False,Q3,False,False,False,False,False,Forward pipeline
+390,Division 2,Customer 6,Project 60,Segment 2,Contracted (unclassified),Sep,Q3,2026,710000.0,False,Q3,False,False,False,False,False,Forward pipeline
+391,Division 2,Customer 6,Project 61,Segment 2,Forecasted,Sep,Q3,2026,150000.0,False,Q3,False,False,False,False,True,Forward pipeline
+392,Division 2,Customer 6,Project 59,Segment 2,Go-Get,Sep,Q3,2026,90909.09090909093,False,Q3,False,False,False,False,False,Forward pipeline
+393,Division 1,Customer 1,Project 1,Segment 1,Go-Get,Oct,Q4,2026,150000.0,False,Q4,False,False,False,False,True,Forward pipeline
+394,Division 1,Customer 2,Project 1,Segment 2,Executable,Oct,Q4,2026,50000.0,False,Q4,False,False,False,False,False,Forward pipeline
+395,Division 1,Customer 1,Project 2,Segment 1,Contracted (unclassified),Oct,Q4,2026,500000.0,False,Q4,False,False,False,False,False,Forward pipeline
+396,Division 1,Customer 1,Project 3,Segment 1,Go-Get,Oct,Q4,2026,65000.0,False,Q4,False,False,False,False,False,Forward pipeline
+397,Division 1,Customer 1,Project 4,Segment 1,Forecasted,Oct,Q4,2026,150000.0,False,Q4,False,False,False,False,True,Forward pipeline
+398,Division 1,Customer 1,Project 5,Segment 1,Forecasted,Oct,Q4,2026,200000.0,False,Q4,False,False,False,False,False,Forward pipeline
+399,Division 1,Customer 1,Project 6,Segment 1,Go-Get,Oct,Q4,2026,200000.0,False,Q4,False,False,False,False,False,Forward pipeline
+400,Division 1,Customer 3,Project 7,Segment 1,Contracted (unclassified),Oct,Q4,2026,30000.0,False,Q4,False,False,False,False,False,Forward pipeline
+401,Division 1,Customer 3,Project 7,Segment 1,Forecasted,Oct,Q4,2026,15000.0,False,Q4,False,False,False,False,False,Forward pipeline
+402,Division 1,Customer 3,Project 8,Segment 1,Go-Get,Oct,Q4,2026,45000.0,False,Q4,False,False,False,False,False,Forward pipeline
+403,Division 1,Customer 4,Project 10,Segment 1,Forecasted,Oct,Q4,2026,50000.0,False,Q4,False,False,False,False,False,Forward pipeline
+404,Division 1,Customer 5,Project 11,Segment 1,Forecasted,Oct,Q4,2026,100000.0,False,Q4,False,False,False,False,False,Forward pipeline
+405,Division 2,Customer 2,Project 14,Segment 2,Executable,Oct,Q4,2026,23000.0,False,Q4,False,False,False,False,False,Forward pipeline
+406,Division 2,Customer 8,Project 15,Segment 2,Go-Get,Oct,Q4,2026,20000.0,False,Q4,False,False,False,False,False,Forward pipeline
+407,Division 2,Customer 9,Project 15,Segment 1,Forecasted,Oct,Q4,2026,44000.0,False,Q4,False,False,False,False,False,Forward pipeline
+408,Division 2,Customer 1,Project 15,Segment 1,Executable,Oct,Q4,2026,54000.0,False,Q4,False,False,False,False,False,Forward pipeline
+409,Division 2,Customer 6,Project 55,Segment 2,Forecasted,Oct,Q4,2026,10000.0,False,Q4,False,False,False,False,False,Forward pipeline
+410,Division 2,Customer 6,Project 56,Segment 2,Executable,Oct,Q4,2026,34000.0,False,Q4,False,False,False,False,False,Forward pipeline
+411,Division 2,Customer 12,Project 19,Segment 2,Forecasted,Oct,Q4,2026,500000.0,False,Q4,False,False,False,False,False,Forward pipeline
+412,Division 2,Customer 12,Project 20,Segment 2,Go-Get,Oct,Q4,2026,192500.0,False,Q4,False,False,False,False,False,Forward pipeline
+413,Division 2,Customer 12,Project 21,Segment 2,Forecasted,Oct,Q4,2026,300000.0,False,Q4,False,False,False,False,False,Forward pipeline
+414,Division 2,Customer 13,Project 22,Segment 2,Forecasted,Oct,Q4,2026,10000.0,False,Q4,False,False,False,False,False,Forward pipeline
+415,Division 2,Customer 22,Project 50,Segment 2,Executable,Oct,Q4,2026,1323666.666666667,False,Q4,False,False,False,False,False,Forward pipeline
+416,Division 2,Customer 18,Project 46,Segment 2,Go-Get,Oct,Q4,2026,250000.0,False,Q4,False,False,False,False,False,Forward pipeline
+417,Division 2,Customer 18,Project 58,Segment 2,Go-Get,Oct,Q4,2026,40000.0,False,Q4,False,False,False,False,False,Forward pipeline
+418,Division 2,Customer 6,Project 60,Segment 2,Contracted (unclassified),Oct,Q4,2026,1136000.0,False,Q4,False,False,False,False,False,Forward pipeline
+419,Division 2,Customer 6,Project 61,Segment 2,Go-Get,Oct,Q4,2026,150000.0,False,Q4,False,False,False,False,True,Forward pipeline
+420,Division 2,Customer 6,Project 59,Segment 2,Forecasted,Oct,Q4,2026,113636.3636363636,False,Q4,False,False,False,False,False,Forward pipeline
+421,Division 1,Customer 1,Project 1,Segment 1,Go-Get,Nov,Q4,2026,150000.0,False,Q4,False,False,False,False,True,Forward pipeline
+422,Division 1,Customer 2,Project 1,Segment 2,Executable,Nov,Q4,2026,50000.0,False,Q4,False,False,False,False,False,Forward pipeline
+423,Division 1,Customer 1,Project 2,Segment 1,Go-Get,Nov,Q4,2026,400000.0,False,Q4,False,False,False,False,False,Forward pipeline
+424,Division 1,Customer 1,Project 3,Segment 1,Forecasted,Nov,Q3,2026,60000.0,False,Q4,True,False,False,False,False,Forward pipeline
+425,Division 1,Customer 1,Project 4,Segment 1,Go-Get,Nov,Q4,2026,150000.0,False,Q4,False,False,False,False,True,Forward pipeline
+426,Division 1,Customer 1,Project 5,Segment 1,Forecasted,Nov,Q4,2026,175000.0,False,Q4,False,False,False,False,False,Forward pipeline
+427,Division 1,Customer 1,Project 6,Segment 1,Go-Get,Nov,Q4,2026,200000.0,False,Q4,False,False,False,False,False,Forward pipeline
+428,Division 1,Customer 3,Project 7,Segment 1,Go-Get,Nov,Q4,2026,40000.0,False,Q4,False,False,False,False,False,Forward pipeline
+429,Division 1,Customer 3,Project 8,Segment 1,Go-Get,Nov,Q4,2026,45000.0,False,Q4,False,False,False,False,False,Forward pipeline
+430,Division 1,Customer 4,Project 10,Segment 1,Go-Get,Nov,Q4,2026,50000.0,False,Q4,False,False,False,False,False,Forward pipeline
+431,Division 1,Customer 5,Project 11,Segment 1,Forecasted,Nov,Q4,2026,100000.0,False,Q4,False,False,False,False,False,Forward pipeline
+432,Division 2,Customer 8,Project 15,Segment 2,Go-Get,Nov,Q4,2026,20000.0,False,Q4,False,False,False,False,False,Forward pipeline
+433,Division 2,Customer 9,Project 15,Segment 1,Go-Get,Nov,Q4,2026,44000.0,False,Q4,False,False,False,False,False,Forward pipeline
+434,Division 2,Customer 1,Project 15,Segment 1,Executable,Nov,Q4,2026,40000.0,False,Q4,False,False,False,False,False,Forward pipeline
+435,Division 2,Customer 6,Project 55,Segment 2,Go-Get,Nov,Q4,2026,10000.0,False,Q4,False,False,False,False,False,Forward pipeline
+436,Division 2,Customer 6,Project 56,Segment 2,Executable,Nov,Q4,2026,34000.0,False,Q4,False,False,False,False,False,Forward pipeline
+437,Division 2,Customer 12,Project 19,Segment 2,Forecasted,Nov,Q4,2026,500000.0,False,Q4,False,False,False,False,False,Forward pipeline
+438,Division 2,Customer 12,Project 20,Segment 2,Forecasted,Nov,Q4,2026,192500.0,False,Q4,False,False,False,False,False,Forward pipeline
+439,Division 2,Customer 12,Project 21,Segment 2,Go-Get,Nov,Q4,2026,300000.0,False,Q4,False,False,False,False,False,Forward pipeline
+440,Division 2,Customer 13,Project 22,Segment 2,Forecasted,Nov,Q4,2026,10000.0,False,Q4,False,False,False,False,False,Forward pipeline
+441,Division 2,Customer 22,Project 50,Segment 2,Executable,Nov,Q4,2026,1323282.666666667,False,Q4,False,False,False,False,False,Forward pipeline
+442,Division 2,Customer 18,Project 46,Segment 2,Forecasted,Nov,Q4,2026,250000.0,False,Q4,False,False,False,False,False,Forward pipeline
+443,Division 2,Customer 18,Project 58,Segment 2,Forecasted,Nov,Q4,2026,40000.0,False,Q4,False,False,False,False,False,Forward pipeline
+444,Division 2,Customer 6,Project 60,Segment 2,Contracted (unclassified),Nov,Q4,2026,1136000.0,False,Q4,False,False,False,False,False,Forward pipeline
+445,Division 2,Customer 6,Project 59,Segment 2,Go-Get,Nov,Q4,2026,90909.09090909093,False,Q4,False,False,False,False,False,Forward pipeline
+446,Division 1,Customer 1,Project 1,Segment 1,Go-Get,Dec,Q4,2026,150000.0,False,Q4,False,False,False,False,True,Forward pipeline
+447,Division 1,Customer 1,Project 2,Segment 1,Go-Get,Dec,Q4,2026,400000.0,False,Q4,False,False,False,False,False,Forward pipeline
+448,Division 1,Customer 1,Project 3,Segment 1,Forecasted,Dec,Q4,2026,60000.0,False,Q4,False,False,False,False,False,Forward pipeline
+449,Division 1,Customer 1,Project 4,Segment 1,Forecasted,Dec,Q4,2026,150000.0,False,Q4,False,False,False,False,True,Forward pipeline
+450,Division 1,Customer 1,Project 5,Segment 1,Go-Get,Dec,Q4,2026,150000.0,False,Q4,False,False,False,False,True,Forward pipeline
+451,Division 1,Customer 1,Project 6,Segment 1,Go-Get,Dec,Q4,2026,200000.0,False,Q4,False,False,False,False,False,Forward pipeline
+452,Division 1,Customer 3,Project 7,Segment 1,Forecasted,Dec,Q4,2026,40000.0,False,Q4,False,False,False,False,False,Forward pipeline
+453,Division 1,Customer 3,Project 8,Segment 1,Forecasted,Dec,Q4,2026,45000.0,False,Q4,False,False,False,False,False,Forward pipeline
+454,Division 1,Customer 4,Project 10,Segment 1,Go-Get,Dec,Q4,2026,50000.0,False,Q4,False,False,False,False,False,Forward pipeline
+455,Division 1,Customer 5,Project 11,Segment 1,Go-Get,Dec,Q4,2026,100000.0,False,Q4,False,False,False,False,False,Forward pipeline
+456,Division 2,Customer 8,Project 15,Segment 2,Go-Get,Dec,Q4,2026,25000.0,False,Q4,False,False,False,False,False,Forward pipeline
+457,Division 2,Customer 9,Project 15,Segment 1,Go-Get,Dec,Q4,2026,54000.0,False,Q4,False,False,False,False,False,Forward pipeline
+458,Division 2,Customer 1,Project 15,Segment 1,Executable,Dec,Q4,2026,25000.0,False,Q4,False,False,False,False,False,Forward pipeline
+459,Division 2,Customer 6,Project 55,Segment 2,Go-Get,Dec,Q4,2026,10000.0,False,Q4,False,False,False,False,False,Forward pipeline
+460,Division 2,Customer 6,Project 56,Segment 2,Executable,Dec,Q4,2026,42000.0,False,Q4,False,False,False,False,False,Forward pipeline
+461,Division 2,Customer 12,Project 19,Segment 2,Forecasted,Dec,Q4,2026,446400.0,False,Q4,False,False,False,False,False,Forward pipeline
+462,Division 2,Customer 12,Project 20,Segment 2,Go-Get,Dec,Q4,2026,165000.0,False,Q4,False,False,False,False,False,Forward pipeline
+463,Division 2,Customer 12,Project 21,Segment 2,Go-Get,Dec,Q4,2026,281250.0,False,Q4,False,False,False,False,False,Forward pipeline
+464,Division 2,Customer 13,Project 22,Segment 2,Go-Get,Dec,Q4,2026,6000.0,False,Q4,False,False,False,False,False,Forward pipeline
+465,Division 2,Customer 22,Project 50,Segment 2,Executable,Dec,Q4,2026,780000.0,False,Q4,False,False,False,False,False,Forward pipeline
+466,Division 2,Customer 18,Project 46,Segment 2,Go-Get,Dec,Q4,2026,250000.0,False,Q4,False,False,False,False,False,Forward pipeline
+467,Division 2,Customer 18,Project 58,Segment 2,Go-Get,Dec,Q4,2026,40000.0,False,Q4,False,False,False,False,False,Forward pipeline
+468,Division 2,Customer 6,Project 60,Segment 2,Contracted (unclassified),Dec,Q4,2026,852000.0,False,Q4,False,False,False,False,False,Forward pipeline
+469,Division 2,Customer 6,Project 59,Segment 2,Forecasted,Dec,Q3,2026,90909.09090909093,False,Q4,True,False,False,False,False,Forward pipeline
+470,Division 1,Customer 1,Project 1,Segment 1,Forecasted,Q1,Q1,2027,600000.0,False,Q1,False,False,False,False,False,Forward pipeline
+471,Division 1,Customer 1,Project 2,Segment 1,Forecasted,Q1,Q1,2027,1000000.0,False,Q1,False,False,False,False,False,Forward pipeline
+472,Division 1,Customer 1,Project 3,Segment 1,Forecasted,Q1,Q1,2027,200000.0,False,Q1,False,False,False,False,False,Forward pipeline
+473,Division 1,Customer 1,Project 4,Segment 1,Forecasted,Q1,Q1,2027,600000.0,False,Q1,False,False,False,False,False,Forward pipeline
+474,Division 1,Customer 1,Project 5,Segment 1,Forecasted,Q1,Q1,2027,650000.0,False,Q1,False,False,False,False,False,Forward pipeline
+475,Division 1,Customer 1,Project 6,Segment 1,Forecasted,Q1,Q1,2027,800000.0,False,Q1,False,False,False,False,False,Forward pipeline
+476,Division 1,Customer 3,Project 7,Segment 1,Forecasted,Q1,Q1,2027,150000.0,False,Q1,False,False,False,False,True,Forward pipeline
+477,Division 1,Customer 3,Project 8,Segment 1,Forecasted,Q1,Q1,2027,150000.0,False,Q1,False,False,False,False,True,Forward pipeline
+478,Division 1,Customer 4,Project 10,Segment 1,Forecasted,Q1,Q1,2027,120000.0,False,Q1,False,False,False,False,False,Forward pipeline
+479,Division 1,Customer 5,Project 11,Segment 1,Forecasted,Q1,Q1,2027,500000.0,False,Q1,False,False,False,False,False,Forward pipeline
+480,Division 2,Customer 9,Project 15,Segment 1,Go-Get,Q1,Q1,2027,100000.0,False,Q1,False,False,False,False,False,Forward pipeline
+481,Division 2,Customer 1,Project 15,Segment 1,Go-Get,Q1,Q1,2027,155279.75,False,Q1,False,False,False,False,False,Forward pipeline
+482,Division 2,Customer 12,Project 19,Segment 2,Go-Get,Q1,Q1,2027,1500000.0,False,Q1,False,False,False,False,False,Forward pipeline
+483,Division 2,Customer 12,Project 20,Segment 2,Go-Get,Q1,Q1,2027,75000.0,False,Q1,False,False,False,False,False,Forward pipeline
+484,Division 2,Customer 12,Project 21,Segment 2,Go-Get,Q1,Q1,2027,575000.0,False,Q1,False,False,False,False,False,Forward pipeline
+485,Division 2,Customer 22,Project 50,Segment 2,Executable,Q1,Q1,2027,3860000.0,False,Q1,False,False,False,False,False,Forward pipeline
+486,Division 2,Customer 18,Project 46,Segment 2,Go-Get,Q1,Q1,2027,1100000.0,False,Q1,False,False,False,False,False,Forward pipeline
+487,Division 2,Customer 18,Project 58,Segment 2,Go-Get,Q1,Q1,2027,1100000.0,False,Q1,False,False,False,False,False,Forward pipeline
+488,Division 2,Customer 6,Project 60,Segment 2,Contracted (unclassified),Q1,Q1,2027,1415307.692307692,False,Q1,False,False,False,False,False,Forward pipeline
+489,Division 2,Customer 6,Project 55,Segment 2,Forecasted,Q1,Q1,2027,30000.0,False,Q1,False,False,False,False,False,Forward pipeline
+490,Division 2,Customer 8,Project 15,Segment 2,Go-Get,Q1,Q1,2027,27500.0,False,Q1,False,False,False,False,False,Forward pipeline
+491,Division 2,Customer 13,Project 62,Segment 2,Forecasted,Q1,Q1,2027,500000.0,False,Q1,False,False,False,False,False,Forward pipeline
+492,Division 2,Customer 6,Project 59,Segment 2,Forecasted,Q1,Q1,2027,625000.0,False,Q1,False,False,False,False,False,Forward pipeline
+493,Division 1,Customer 1,Project 1,Segment 1,Forecasted,Q2,Q2,2027,750000.0,False,Q2,False,False,False,False,False,Forward pipeline
+494,Division 1,Customer 1,Project 2,Segment 1,Forecasted,Q2,Q2,2027,1400000.0,False,Q2,False,False,False,False,False,Forward pipeline
+495,Division 1,Customer 1,Project 3,Segment 1,Forecasted,Q2,Q2,2027,300000.0,False,Q2,False,False,False,False,False,Forward pipeline
+496,Division 1,Customer 1,Project 4,Segment 1,Forecasted,Q2,Q2,2027,700000.0,False,Q2,False,False,False,False,False,Forward pipeline
+497,Division 1,Customer 1,Project 5,Segment 1,Forecasted,Q2,Q2,2027,800000.0,False,Q2,False,False,False,False,False,Forward pipeline
+498,Division 1,Customer 1,Project 6,Segment 1,Forecasted,Q2,Q2,2027,1000000.0,False,Q2,False,False,False,False,False,Forward pipeline
+499,Unknown,Customer 3,Project 7,Segment 1,Forecasted,Q2,Q2,2027,200000.0,False,Q2,False,False,False,False,False,Forward pipeline
+500,Division 1,Customer 3,Project 8,Segment 1,Forecasted,Q2,Q2,2027,150000.0,False,Q2,False,False,False,False,True,Forward pipeline
+501,Division 1,Customer 4,Project 10,Segment 1,Forecasted,Q2,Q2,2027,120000.0,False,Q2,False,False,False,False,False,Forward pipeline
+502,Division 1,Customer 5,Project 11,Segment 1,Forecasted,Q2,Q2,2027,600000.0,False,Q2,False,False,False,False,False,Forward pipeline
+503,Division 2,Customer 9,Project 15,Segment 1,Go-Get,Q2,Q2,2027,100000.0,False,Q2,False,False,False,False,False,Forward pipeline
+504,Division 2,Customer 1,Project 15,Segment 1,Go-Get,Q2,Q2,2027,155279.75,False,Q2,False,False,False,False,False,Forward pipeline
+505,Division 2,Customer 12,Project 19,Segment 2,Forecasted,Q2,Q2,2027,1500000.0,False,Q2,False,False,False,False,False,Forward pipeline
+506,Division 2,Customer 12,Project 20,Segment 2,Go-Get,Q2,Q2,2027,75000.0,False,Q2,False,False,False,False,False,Forward pipeline
+507,Division 2,Customer 12,Project 21,Segment 2,Go-Get,Q2,Q2,2027,575000.0,False,Q2,False,False,False,False,False,Forward pipeline
+508,Division 2,Customer 18,Project 46,Segment 2,Go-Get,Q2,Q2,2027,1200000.0,False,Q2,False,False,False,False,False,Forward pipeline
+509,Division 2,Customer 18,Project 58,Segment 2,Forecasted,Q2,Q2,2027,1200000.0,False,Q2,False,False,False,False,False,Forward pipeline
+510,Division 2,Customer 6,Project 60,Segment 2,Contracted (unclassified),Q2,Q2,2027,3616897.435897436,False,Q2,False,False,False,False,False,Forward pipeline
+511,Division 2,Customer 6,Project 55,Segment 2,Go-Get,Q2,Q2,2027,30000.0,False,Q2,False,False,False,False,False,Forward pipeline
+512,Division 2,Customer 13,Project 62,Segment 2,Forecasted,Q2,Q2,2027,500000.0,False,Q2,False,False,False,False,False,Forward pipeline
+513,Division 2,Customer 6,Project 18,Segment 2,Contracted Pipeline,Q2,Q2,2027,1333333.333333333,False,Q2,False,False,False,False,False,Forward pipeline
+514,Division 2,Customer 6,Project 59,Segment 2,Forecasted,Q2,Q2,2027,625000.0,False,Q2,False,False,False,False,False,Forward pipeline
+515,Division 2,Customer 24,Project 63,Segment 2,Go-Get,Q2,Q2,2027,1000000.0,False,Q2,False,False,False,False,False,Forward pipeline
+516,Division 1,Customer 1,Project 1,Segment 1,Forecasted,Q3,Q3,2027,850000.0,False,Q3,False,False,False,False,False,Forward pipeline
+517,Division 1,Customer 1,Project 2,Segment 1,YTD,Q3,Q3,2027,1400000.0,False,Q3,False,True,False,False,False,Future YTD exception
+518,Division 1,Customer 1,Project 3,Segment 1,Forecasted,Q3,Q3,2027,300000.0,False,Q3,False,False,False,False,False,Forward pipeline
+519,Division 1,Customer 1,Project 4,Segment 1,Forecasted,Q3,Q3,2027,700000.0,False,Q3,False,False,False,False,False,Forward pipeline
+520,Division 1,Customer 1,Project 5,Segment 1,Forecasted,Q3,Q3,2027,800000.0,False,Q3,False,False,False,False,False,Forward pipeline
+521,Division 1,Customer 1,Project 6,Segment 1,Forecasted,Q3,Q3,2027,1000000.0,False,Q3,False,False,False,False,False,Forward pipeline
+522,Division 1,Customer 3,Project 7,Segment 1,Forecasted,Q3,Q3,2027,200000.0,False,Q3,False,False,False,False,False,Forward pipeline
+523,Division 1,Customer 3,Project 8,Segment 1,Forecasted,Q3,Q3,2027,150000.0,False,Q3,False,False,False,False,True,Forward pipeline
+524,Division 1,Customer 4,Project 10,Segment 1,Forecasted,Q3,Q3,2027,120000.0,False,Q3,False,False,False,False,False,Forward pipeline
+525,Division 1,Customer 5,Project 11,Segment 1,Forecasted,Q3,Q3,2027,600000.0,False,Q3,False,False,False,False,False,Forward pipeline
+526,Division 2,Customer 9,Project 15,Segment 1,Go-Get,Q3,Q3,2027,100000.0,False,Q3,False,False,False,False,False,Forward pipeline
+527,Division 2,Customer 1,Project 15,Segment 1,Forecasted,Q3,Q3,2027,155279.75,False,Q3,False,False,False,False,False,Forward pipeline
+528,Division 2,Customer 12,Project 19,Segment 2,Forecasted,Q3,Q3,2027,1500000.0,False,Q3,False,False,False,False,False,Forward pipeline
+529,Division 2,Customer 12,Project 20,Segment 2,Go-Get,Q3,Q3,2027,75000.0,False,Q3,False,False,False,False,False,Forward pipeline
+530,Division 2,Customer 12,Project 21,Segment 2,Forecasted,Q3,Q3,2027,575000.0,False,Q3,False,False,False,False,False,Forward pipeline
+531,Division 2,Customer 18,Project 46,Segment 2,Forecasted,Q3,Q3,2027,1200000.0,False,Q3,False,False,False,False,False,Forward pipeline
+532,Division 2,Customer 18,Project 58,Segment 2,Go-Get,Q3,Q3,2027,1200000.0,False,Q3,False,False,False,False,False,Forward pipeline
+533,Division 2,Customer 6,Project 60,Segment 2,Contracted (unclassified),Q3,Q3,2027,3616897.435897436,False,Q3,False,False,False,False,False,Forward pipeline
+534,Division 2,Customer 6,Project 60,Segment 2,Contracted (unclassified),Q4,Q4,2027,3616897.11965812,False,Q4,False,False,False,False,False,Forward pipeline
+535,Division 2,Customer 6,Project 55,Segment 2,Go-Get,Q3,Q3,2027,30000.0,False,Q3,False,False,False,False,False,Forward pipeline
+536,Division 2,Customer 13,Project 62,Segment 2,Go-Get,Q3,Q3,2027,500000.0,False,Q3,False,False,False,False,False,Forward pipeline
+537,Division 2,Customer 6,Project 18,Segment 2,Contracted Pipeline,Q3,Q3,2027,1333333.333333333,False,Q3,False,False,False,False,False,Forward pipeline
+538,Division 2,Customer 6,Project 59,Segment 2,Forecasted,Q3,Q3,2027,625000.0,False,Q3,False,False,False,False,False,Forward pipeline
+539,Division 2,Customer 24,Project 63,Segment 2,Go-Get,Q3,Q3,2027,1000000.0,False,Q3,False,False,False,False,False,Forward pipeline
+540,Division 1,Customer 1,Project 1,Segment 1,Forecasted,Q4,Q4,2027,700000.0,False,Q4,False,False,False,False,False,Forward pipeline
+541,Division 1,Customer 1,Project 2,Segment 1,Forecasted,Q4,Q4,2027,1200000.0,False,Q4,False,False,False,False,False,Forward pipeline
+542,Division 1,Customer 1,Project 3,Segment 1,Forecasted,Q4,Q4,2027,250000.0,False,Q4,False,False,False,False,False,Forward pipeline
+543,Division 1,Customer 1,Project 4,Segment 1,Forecasted,Q4,Q4,2027,600000.0,False,Q4,False,False,False,False,False,Forward pipeline
+544,Division 1,Customer 1,Project 5,Segment 1,Forecasted,Q4,Q4,2027,650000.0,False,Q4,False,False,False,False,False,Forward pipeline
+545,Division 1,Customer 1,Project 6,Segment 1,Forecasted,Q4,Q4,2027,800000.0,False,Q4,False,False,False,False,False,Forward pipeline
+546,Division 1,Customer 3,Project 7,Segment 1,Forecasted,Q4,Q4,2027,150000.0,False,Q4,False,False,False,False,True,Forward pipeline
+547,Division 1,Customer 3,Project 8,Segment 1,Forecasted,Q4,Q4,2027,150000.0,False,Q4,False,False,False,False,True,Forward pipeline
+548,Division 1,Customer 4,Project 10,Segment 1,Forecasted,Q4,Q4,2027,120000.0,False,Q4,False,False,False,False,False,Forward pipeline
+549,Division 1,Customer 5,Project 11,Segment 1,Forecasted,Q4,Q4,2027,500000.0,False,Q4,False,False,False,False,False,Forward pipeline
+550,Division 2,Customer 9,Project 15,Segment 1,Forecasted,Q4,Q4,2027,100000.0,False,Q4,False,False,False,False,False,Forward pipeline
+551,Unknown,Customer 1,Project 15,Segment 1,Forecasted,Q4,Q4,2027,155279.75,False,Q4,False,False,False,False,False,Forward pipeline
+552,Division 2,Customer 12,Project 19,Segment 2,Go-Get,Q4,Q4,2027,1500000.0,False,Q4,False,False,False,False,False,Forward pipeline
+553,Division 2,Customer 12,Project 20,Segment 2,Go-Get,Q4,Q4,2027,75000.0,False,Q4,False,False,False,False,False,Forward pipeline
+554,Division 2,Customer 12,Project 21,Segment 2,Forecasted,Q4,Q4,2027,575000.0,False,Q4,False,False,False,False,False,Forward pipeline
+555,Division 2,Customer 18,Project 46,Segment 2,Go-Get,Q4,Q4,2027,1200000.0,False,Q4,False,False,False,False,False,Forward pipeline
+556,Division 2,Customer 18,Project 58,Segment 2,Go-Get,Q4,Q4,2027,1200000.0,False,Q4,False,False,False,False,False,Forward pipeline
+557,Division 2,Customer 6,Project 55,Segment 2,Forecasted,Q4,Q4,2027,30000.0,False,Q4,False,False,False,False,False,Forward pipeline
+558,Division 2,Customer 8,Project 15,Segment 2,Go-Get,Q4,Q4,2027,27500.0,False,Q4,False,False,False,False,False,Forward pipeline
+559,Division 2,Customer 13,Project 62,Segment 2,Go-Get,Q4,Q4,2027,500000.0,False,Q4,False,False,False,False,False,Forward pipeline
+560,Division 2,Customer 6,Project 18,Segment 2,Contracted Pipeline,Q4,Q4,2027,1333333.333333333,False,Q4,False,False,False,False,False,Forward pipeline
+561,Division 2,Customer 6,Project 59,Segment 2,Forecasted,Q4,Q4,2027,625000.0,False,Q4,False,False,False,False,False,Forward pipeline
+562,Division 2,Customer 24,Project 63,Segment 2,Go-Get,Q4,Q4,2027,1000000.0,False,Q4,False,False,False,False,False,Forward pipeline
+563,Division 4,Customer 25,Project 64,Segment 2,YTD,Jan,Q1,2026,96298.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+564,Division 4,Customer 2,Not provided,Segment 2,YTD,Jan,Q1,2026,57142.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+565,Division 4,Customer 2,Not provided,Segment 2,YTD,Jan,Q1,2026,98687.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+566,Division 4,Customer 25,Project 64,Segment 2,YTD,Jan,Q1,2026,44405.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+567,Division 4,Customer 2,Project 65,Segment 2,YTD,Jan,Q1,2026,6141.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+568,Division 4,Customer 18,Project 66,Segment 2,YTD,Jan,Q1,2026,5789.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+569,Division 4,Customer 2,Project 67,Segment 2,YTD,Jan,Q1,2026,80473.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+570,Division 4,Customer 6,Project 68,Segment 2,YTD,Jan,Q1,2026,124341.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+571,Division 4,Customer 1,Project 67,Segment 2,YTD,Jan,Q1,2026,81765.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+572,Division 4,Customer 26,Not provided,Segment 5,YTD,Jan,Q1,2026,40053.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+573,Division 4,Customer 27,Not provided,Segment 1,YTD,Jan,Q1,2026,48471.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+574,Division 4,Customer 2,Not provided,Segment 2,YTD,Jan,Q1,2026,9343.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+575,Division 4,Customer 18,Not provided,Segment 2,YTD,Jan,Q1,2026,392791.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+576,Division 4,Customer 27,Project 69,Segment 1,YTD,Jan,Q1,2026,218499.2766885014,False,Q1,False,False,False,False,False,FY26 YTD actual
+577,Division 4,Customer 27,Project 70,Segment 1,YTD,Jan,Q1,2026,91877.78345954655,False,Q1,False,False,False,False,False,FY26 YTD actual
+578,Division 4,Customer 18,Project 71,Segment 2,YTD,Jan,Q1,2026,61959.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+579,Division 4,Customer 2,Not provided,Segment 2,YTD,Jan,Q1,2026,92540.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+580,Division 4,Customer 24,Not provided,Segment 1,YTD,Jan,Q1,2026,5421.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+581,Division 4,Customer 25,Project 64,Segment 2,YTD,Feb,Q1,2026,104176.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+582,Division 4,Customer 2,Project 65,Segment 2,YTD,Feb,Q1,2026,76850.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+583,Division 4,Customer 2,Not provided,Segment 2,YTD,Feb,Q1,2026,50022.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+584,Division 4,Customer 2,Not provided,Segment 2,YTD,Feb,Q1,2026,71278.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+585,Division 4,Customer 25,Project 64,Segment 2,YTD,Feb,Q1,2026,75950.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+586,Division 4,Customer 6,Project 68,Segment 2,YTD,Feb,Q1,2026,75782.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+587,Division 4,Customer 1,Project 67,Segment 2,YTD,Feb,Q1,2026,293686.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+588,Division 4,Customer 26,Not provided,Segment 5,YTD,Feb,Q1,2026,74142.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+589,Division 4,Customer 18,Not provided,Segment 2,YTD,Feb,Q1,2026,291475.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+590,Division 4,Customer 27,Project 69,Segment 1,YTD,Feb,Q1,2026,285884.7351237653,False,Q1,False,False,False,False,False,FY26 YTD actual
+591,Division 4,Customer 27,Project 70,Segment 1,YTD,Feb,Q1,2026,173398.3705713732,False,Q1,False,False,False,False,False,FY26 YTD actual
+592,Division 4,Customer 18,Project 71,Segment 2,YTD,Feb,Q1,2026,77114.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+593,Division 4,Customer 2,Not provided,Segment 2,YTD,Feb,Q1,2026,32063.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+594,Division 4,Customer 24,Not provided,Segment 1,YTD,Feb,Q1,2026,4160.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+595,Division 4,Customer 25,Project 64,Segment 2,YTD,Mar,Q1,2026,196160.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+596,Division 4,Customer 2,Project 65,Segment 2,YTD,Mar,Q1,2026,89711.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+597,Division 4,Customer 2,Not provided,Segment 2,YTD,Mar,Q1,2026,66392.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+598,Division 4,Customer 2,Not provided,Segment 2,YTD,Mar,Q1,2026,138748.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+599,Division 4,Customer 2,Project 65,Segment 2,YTD,Mar,Q1,2026,28906.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+600,Division 4,Customer 2,Project 67,Segment 2,YTD,Mar,Q1,2026,97144.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+601,Division 4,Customer 6,Project 68,Segment 2,YTD,Mar,Q1,2026,134589.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+602,Division 4,Customer 1,Project 67,Segment 2,YTD,Mar,Q1,2026,224969.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+603,Division 4,Customer 24,Project 72,Segment 1,YTD,Mar,Q1,2026,7418.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+604,Division 4,Customer 26,Not provided,Segment 5,YTD,Mar,Q1,2026,75195.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+605,Division 4,Customer 2,Not provided,Segment 2,YTD,Mar,Q1,2026,18107.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+606,Division 4,Customer 18,Not provided,Segment 2,YTD,Mar,Q1,2026,400653.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+607,Division 4,Customer 27,Project 69,Segment 1,YTD,Mar,Q1,2026,426631.9832418698,False,Q1,False,False,False,False,False,FY26 YTD actual
+608,Division 4,Customer 27,Project 70,Segment 1,YTD,Mar,Q1,2026,616435.242686324,False,Q1,False,False,False,False,False,FY26 YTD actual
+609,Division 4,Customer 18,Project 71,Segment 2,YTD,Mar,Q1,2026,66852.0,False,Q1,False,False,False,False,False,FY26 YTD actual
+610,Division 4,Customer 2,Not provided,Segment 2,YTD,Mar,Q1,2026,50289.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+611,Division 4,Customer 24,Not provided,Segment 1,YTD,Mar,Q1,2026,20282.0,True,Q1,False,False,False,False,False,FY26 YTD actual
+612,Division 4,Customer 25,Project 64,Segment 2,YTD,Apr,Q2,2026,166192.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+613,Division 4,Customer 2,Project 65,Segment 2,YTD,Apr,Q2,2026,156318.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+614,Division 4,Customer 2,Not provided,Segment 2,YTD,Apr,Q2,2026,50089.0,True,Q2,False,False,False,False,False,FY26 YTD actual
+615,Division 4,Customer 2,Not provided,Segment 2,YTD,Apr,Q2,2026,110170.0,True,Q2,False,False,False,False,False,FY26 YTD actual
+616,Division 4,Customer 25,Project 64,Segment 2,YTD,Apr,Q2,2026,31256.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+617,Division 4,Customer 2,Project 65,Segment 2,YTD,Apr,Q2,2026,102653.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+618,Division 4,Customer 6,Project 68,Segment 2,YTD,Apr,Q2,2026,214060.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+619,Division 4,Customer 1,Project 67,Segment 2,YTD,Apr,Q2,2026,213047.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+620,Division 4,Customer 26,Not provided,Segment 5,YTD,Apr,Q2,2026,63765.0,True,Q2,False,False,False,False,False,FY26 YTD actual
+621,Division 4,Customer 2,Not provided,Segment 2,YTD,Apr,Q2,2026,32613.0,True,Q2,False,False,False,False,False,FY26 YTD actual
+622,Division 4,Customer 18,Not provided,Segment 2,YTD,Apr,Q2,2026,484730.0,True,Q2,False,False,False,False,False,FY26 YTD actual
+623,Division 4,Customer 27,Project 69,Segment 1,YTD,Apr,Q2,2026,458748.537574182,False,Q2,False,False,False,False,False,FY26 YTD actual
+624,Division 4,Customer 27,Project 70,Segment 1,YTD,Apr,Q2,2026,436421.6062915687,False,Q2,False,False,False,False,False,FY26 YTD actual
+625,Division 4,Customer 18,Project 73,Segment 2,YTD,Apr,Q2,2026,23075.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+626,Division 4,Customer 18,Project 71,Segment 2,YTD,Apr,Q2,2026,85248.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+627,Division 4,Customer 2,Not provided,Segment 2,YTD,Apr,Q2,2026,104783.0,True,Q2,False,False,False,False,False,FY26 YTD actual
+628,Division 4,Customer 24,Not provided,Segment 1,YTD,Apr,Q2,2026,12145.0,True,Q2,False,False,False,False,False,FY26 YTD actual
+629,Division 4,Customer 25,Project 64,Segment 2,YTD,May,Q2,2026,239614.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+630,Division 4,Customer 2,Project 65,Segment 2,YTD,May,Q2,2026,115660.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+631,Division 4,Customer 2,Not provided,Segment 2,YTD,May,Q2,2026,76856.0,True,Q2,False,False,False,False,False,FY26 YTD actual
+632,Division 4,Customer 2,Not provided,Segment 2,YTD,May,Q2,2026,107899.0,True,Q2,False,False,False,False,False,FY26 YTD actual
+633,Division 4,Customer 25,Project 64,Segment 2,YTD,May,Q2,2026,75809.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+634,Division 4,Customer 2,Project 65,Segment 2,YTD,May,Q2,2026,48889.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+635,Division 4,Customer 2,Project 67,Segment 2,YTD,May,Q2,2026,24898.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+636,Division 4,Customer 6,Project 68,Segment 2,YTD,May,Q2,2026,315708.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+637,Division 4,Customer 1,Project 67,Segment 2,YTD,May,Q2,2026,235667.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+638,Division 4,Customer 24,Project 72,Segment 1,YTD,May,Q2,2026,10463.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+639,Division 4,Customer 26,Not provided,Segment 5,YTD,May,Q2,2026,-7607.0,True,Q2,False,False,True,False,False,FY26 YTD actual
+640,Division 4,Customer 18,Not provided,Segment 2,YTD,May,Q2,2026,447673.0,True,Q2,False,False,False,False,False,FY26 YTD actual
+641,Division 4,Customer 27,Project 69,Segment 1,YTD,May,Q2,2026,655728.1843087544,False,Q2,False,False,False,False,False,FY26 YTD actual
+642,Division 4,Customer 27,Project 70,Segment 1,YTD,May,Q2,2026,41487.38112318692,False,Q2,False,False,False,False,False,FY26 YTD actual
+643,Division 4,Customer 18,Project 71,Segment 2,YTD,May,Q2,2026,85211.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+644,Division 4,Customer 24,Not provided,Segment 1,YTD,May,Q2,2026,15668.0,True,Q2,False,False,False,False,False,FY26 YTD actual
+645,Division 4,Customer 25,Project 64,Segment 2,YTD,Jun,Q2,2026,277409.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+646,Division 4,Customer 2,Project 65,Segment 2,YTD,Jun,Q2,2026,120360.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+647,Division 4,Customer 2,Not provided,Segment 2,YTD,Jun,Q2,2026,82990.0,True,Q2,False,False,False,False,False,FY26 YTD actual
+648,Division 4,Customer 2,Not provided,Segment 2,YTD,Jun,Q2,2026,142904.0,True,Q2,False,False,False,False,False,FY26 YTD actual
+649,Division 4,Customer 25,Project 64,Segment 2,YTD,Jun,Q2,2026,131513.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+650,Division 4,Customer 2,Project 65,Segment 2,YTD,Jun,Q2,2026,42564.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+651,Division 4,Customer 2,Project 67,Segment 2,YTD,Jun,Q2,2026,3702.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+652,Division 4,Customer 6,Project 68,Segment 2,YTD,Jun,Q2,2026,109915.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+653,Division 4,Customer 1,Project 67,Segment 2,YTD,Jun,Q2,2026,219338.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+654,Division 4,Customer 18,Not provided,Segment 2,YTD,Jun,Q2,2026,609654.0,True,Q2,False,False,False,False,False,FY26 YTD actual
+655,Division 4,Customer 27,Project 69,Segment 1,YTD,Jun,Q2,2026,469844.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+656,Division 4,Customer 27,Project 70,Segment 1,YTD,Jun,Q2,2026,501588.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+657,Division 4,Customer 18,Project 71,Segment 2,YTD,Jun,Q2,2026,36144.0,False,Q2,False,False,False,False,False,FY26 YTD actual
+658,Division 4,Customer 2,Not provided,Segment 2,YTD,Jun,Q2,2026,10815.0,True,Q2,False,False,False,False,False,FY26 YTD actual
+659,Division 4,Customer 24,Not provided,Segment 1,YTD,Jun,Q2,2026,5440.0,True,Q2,False,False,False,False,False,FY26 YTD actual
+660,Division 4,Customer 25,Project 64,Segment 2,Executable,Jul,Q3,2026,207265.21,False,Q3,False,False,False,False,False,Forward pipeline
+661,Division 4,Customer 2,Project 65,Segment 2,Executable,Jul,Q3,2026,67483.52,False,Q3,False,False,False,False,False,Forward pipeline
+662,Division 4,Customer 2,Not provided,Segment 2,Executable,Jul,Q3,2026,91630.57,True,Q3,False,False,False,False,False,Forward pipeline
+663,Division 4,Customer 2,Not provided,Segment 2,Executable,Jul,Q3,2026,146456.11,True,Q3,False,False,False,False,False,Forward pipeline
+664,Division 4,Customer 25,Project 64,Segment 2,Executable,Jul,Q3,2026,115582.84,False,Q3,False,False,False,False,False,Forward pipeline
+665,Division 4,Customer 2,Project 65,Segment 2,Executable,Jul,Q3,2026,15576.93,False,Q3,False,False,False,False,False,Forward pipeline
+666,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Jul,Q3,2026,56662.35,False,Q3,False,False,False,False,False,Forward pipeline
+667,Division 4,Customer 1,Project 67,Segment 2,Forecasted,Jul,Q3,2026,193146.9,False,Q3,False,False,False,False,False,Forward pipeline
+668,Division 4,Customer 18,Not provided,Segment 2,Executable,Jul,Q3,2026,441523.0,True,Q3,False,False,False,False,False,Forward pipeline
+669,Division 4,Customer 27,Project 69,Segment 1,Contracted (unclassified),Jul,Q3,2026,454576.6,False,Q3,False,False,False,False,False,Forward pipeline
+670,Division 4,Customer 27,Project 70,Segment 1,Executable,Jul,Q3,2026,317979.49,False,Q3,False,False,False,False,False,Forward pipeline
+671,Division 4,Customer 18,Project 73,Segment 2,Executable,Jul,Q3,2026,241201.78,False,Q3,False,False,False,False,False,Forward pipeline
+672,Division 4,Customer 18,Project 71,Segment 2,Executable,Jul,Q3,2026,78913.0,False,Q3,False,False,False,False,False,Forward pipeline
+673,Division 4,Customer 25,Project 64,Segment 2,Go-Get,Aug,Q3,2026,198423.25,False,Q3,False,False,False,False,False,Forward pipeline
+674,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Aug,Q3,2026,154884.75,False,Q3,False,False,False,False,False,Forward pipeline
+675,Division 4,Customer 2,Not provided,Segment 2,Forecasted,Aug,Q3,2026,66392.0,True,Q3,False,False,False,False,False,Forward pipeline
+676,Division 4,Customer 2,Not provided,Segment 2,Forecasted,Aug,Q3,2026,114323.2,True,Q3,False,False,False,False,False,Forward pipeline
+677,Division 4,Customer 25,Project 64,Segment 2,Forecasted,Aug,Q3,2026,118018.35,False,Q3,False,False,False,False,False,Forward pipeline
+678,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Aug,Q3,2026,73980.9,False,Q3,False,False,False,False,False,Forward pipeline
+679,Division 4,Customer 1,Not provided,Segment 2,Go-Get,Aug,Q3,2026,25000.0,True,Q3,False,False,False,False,False,Forward pipeline
+680,Division 4,Customer 2,Project 67,Segment 2,Contracted (unclassified),Aug,Q3,2026,8571.42857142857,False,Q3,False,False,False,False,False,Forward pipeline
+681,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Aug,Q3,2026,71428.57142857143,False,Q3,False,False,False,False,False,Forward pipeline
+682,Division 4,Customer 2,Project 74,Segment 2,Forecasted,Aug,Q3,2026,125714.2857142857,False,Q3,False,False,False,False,False,Forward pipeline
+683,Division 4,Customer 1,Project 67,Segment 2,Go-Get,Aug,Q3,2026,20428.57142857142,False,Q3,False,False,False,False,False,Forward pipeline
+684,Division 4,Customer 18,Not provided,Segment 2,Executable,Aug,Q3,2026,400000.0,True,Q3,False,False,False,False,False,Forward pipeline
+685,Division 4,Customer 27,Project 69,Segment 1,Contracted (unclassified),Aug,Q3,2026,250000.0,False,Q3,False,False,False,False,False,Forward pipeline
+686,Division 4,Customer 27,Project 70,Segment 1,Executable,Aug,Q3,2026,450000.0,False,Q3,False,False,False,False,False,Forward pipeline
+687,Division 4,Customer 18,Project 71,Segment 2,Executable,Aug,Q3,2026,75000.0,False,Q3,False,False,False,False,False,Forward pipeline
+688,Division 4,Customer 25,Project 64,Segment 2,Forecasted,Sep,Q3,2026,220000.0,False,Q3,False,False,False,False,False,Forward pipeline
+689,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Sep,Q3,2026,179884.75,False,Q3,False,False,False,False,False,Forward pipeline
+690,Division 4,Customer 2,Not provided,Segment 2,Forecasted,Sep,Q3,2026,82990.0,True,Q3,False,False,False,False,False,Forward pipeline
+691,Division 4,Customer 2,Not provided,Segment 2,Forecasted,Sep,Q3,2026,142904.0,True,Q3,False,False,False,False,False,Forward pipeline
+692,Division 4,Customer 25,Project 64,Segment 2,Forecasted,Sep,Q3,2026,141622.02,False,Q3,False,False,False,False,False,Forward pipeline
+693,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Sep,Q3,2026,73980.9,False,Q3,False,False,False,False,False,Forward pipeline
+694,Division 4,Customer 1,Not provided,Segment 2,Go-Get,Sep,Q3,2026,50000.0,True,Q3,False,False,False,False,False,Forward pipeline
+695,Division 4,Customer 2,Project 67,Segment 2,Contracted (unclassified),Sep,Q3,2026,8571.42857142857,False,Q3,False,False,False,False,False,Forward pipeline
+696,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Sep,Q3,2026,85714.28571428571,False,Q3,False,False,False,False,False,Forward pipeline
+697,Division 4,Customer 2,Project 74,Segment 2,Forecasted,Sep,Q3,2026,137142.8571428571,False,Q3,False,False,False,False,False,Forward pipeline
+698,Division 4,Customer 1,Project 67,Segment 2,Forecasted,Sep,Q3,2026,125000.0,False,Q3,False,False,False,False,False,Forward pipeline
+699,Division 4,Customer 18,Not provided,Segment 2,Executable,Sep,Q3,2026,450000.0,True,Q3,False,False,False,False,False,Forward pipeline
+700,Division 4,Customer 27,Project 69,Segment 1,Contracted (unclassified),Sep,Q3,2026,150000.0,False,Q3,False,False,False,False,True,Forward pipeline
+701,Division 4,Customer 27,Project 70,Segment 1,Executable,Sep,Q3,2026,375000.0,False,Q3,False,False,False,False,False,Forward pipeline
+702,Division 4,Customer 18,Project 71,Segment 2,Executable,Sep,Q3,2026,100000.0,False,Q3,False,False,False,False,False,Forward pipeline
+703,Division 4,Customer 25,Project 64,Segment 2,Forecasted,Oct,Q4,2026,182549.39,False,Q4,False,False,False,False,False,Forward pipeline
+704,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Oct,Q4,2026,179884.75,False,Q4,False,False,False,False,False,Forward pipeline
+705,Division 4,Customer 2,Not provided,Segment 2,Forecasted,Oct,Q4,2026,66392.0,True,Q4,False,False,False,False,False,Forward pipeline
+706,Division 4,Customer 2,Not provided,Segment 2,Forecasted,Oct,Q4,2026,114323.2,True,Q4,False,False,False,False,False,Forward pipeline
+707,Division 4,Customer 25,Project 64,Segment 2,Forecasted,Oct,Q4,2026,98348.625,False,Q4,False,False,False,False,False,Forward pipeline
+708,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Oct,Q4,2026,79265.25,False,Q4,False,False,False,False,False,Forward pipeline
+709,Division 4,Customer 1,Not provided,Segment 2,Forecasted,Oct,Q4,2026,55000.00000000001,True,Q4,False,False,False,False,False,Forward pipeline
+710,Division 4,Customer 2,Project 67,Segment 2,Contracted (unclassified),Oct,Q4,2026,8571.42857142857,False,Q4,False,False,False,False,False,Forward pipeline
+711,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Oct,Q4,2026,62857.14285714286,False,Q4,False,False,False,False,False,Forward pipeline
+712,Division 4,Customer 2,Project 74,Segment 2,Forecasted,Oct,Q4,2026,162285.7142857143,False,Q4,False,False,False,False,False,Forward pipeline
+713,Division 4,Customer 1,Project 67,Segment 2,Go-Get,Oct,Q4,2026,175000.0,False,Q4,False,False,False,False,False,Forward pipeline
+714,Division 4,Customer 1,Project 67,Segment 2,Go-Get,Oct,Q4,2026,46750.0,False,Q4,False,False,False,False,False,Forward pipeline
+715,Division 4,Customer 18,Not provided,Segment 2,Go-Get,Oct,Q4,2026,35000.0,True,Q4,False,False,False,False,False,Forward pipeline
+716,Division 4,Customer 18,Not provided,Segment 2,Executable,Oct,Q4,2026,500000.0,True,Q4,False,False,False,False,False,Forward pipeline
+717,Division 4,Customer 27,Project 69,Segment 1,Contracted (unclassified),Oct,Q4,2026,150000.0,False,Q4,False,False,False,False,True,Forward pipeline
+718,Division 4,Customer 27,Project 70,Segment 1,Executable,Oct,Q4,2026,337500.0,False,Q4,False,False,False,False,False,Forward pipeline
+719,Division 4,Customer 18,Project 71,Segment 2,Executable,Oct,Q4,2026,125000.0,False,Q4,False,False,False,False,False,Forward pipeline
+720,Division 4,Customer 25,Project 64,Segment 2,Go-Get,Nov,Q4,2026,178580.925,False,Q4,False,False,False,False,False,Forward pipeline
+721,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Nov,Q4,2026,154884.75,False,Q4,False,False,False,False,False,Forward pipeline
+722,Division 4,Customer 2,Not provided,Segment 2,Forecasted,Nov,Q4,2026,66392.0,True,Q4,False,False,False,False,False,Forward pipeline
+723,Division 4,Customer 2,Not provided,Segment 2,Forecasted,Nov,Q4,2026,114323.2,True,Q4,False,False,False,False,False,Forward pipeline
+724,Division 4,Customer 25,Project 64,Segment 2,Go-Get,Nov,Q4,2026,78678.9,False,Q4,False,False,False,False,False,Forward pipeline
+725,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Nov,Q4,2026,63412.2,False,Q4,False,False,False,False,False,Forward pipeline
+726,Division 4,Customer 1,Not provided,Segment 2,Forecasted,Nov,Q3,2026,45000.0,True,Q4,True,False,False,False,False,Forward pipeline
+727,Division 4,Customer 2,Project 67,Segment 2,Contracted (unclassified),Nov,Q4,2026,8571.42857142857,False,Q4,False,False,False,False,False,Forward pipeline
+728,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Nov,Q4,2026,51428.57142857143,False,Q4,False,False,False,False,False,Forward pipeline
+729,Division 4,Customer 2,Project 74,Segment 2,Forecasted,Nov,Q4,2026,154285.7142857143,False,Q4,False,False,False,False,False,Forward pipeline
+730,Division 4,Customer 1,Project 67,Segment 2,Forecasted,Nov,Q4,2026,225000.0,False,Q4,False,False,False,False,False,Forward pipeline
+731,Division 4,Customer 1,Project 67,Segment 2,Forecasted,Nov,Q4,2026,43714.28571428572,False,Q4,False,False,False,False,False,Forward pipeline
+732,Division 4,Customer 18,Not provided,Segment 2,Go-Get,Nov,Q4,2026,35000.0,True,Q4,False,False,False,False,False,Forward pipeline
+733,Division 4,Customer 18,Not provided,Segment 2,Executable,Nov,Q4,2026,450000.0,True,Q4,False,False,False,False,False,Forward pipeline
+734,Division 4,Customer 27,Project 69,Segment 1,Contracted (unclassified),Nov,Q4,2026,100000.0,False,Q4,False,False,False,False,False,Forward pipeline
+735,Division 4,Customer 27,Project 70,Segment 1,Executable,Nov,Q4,2026,318750.0,False,Q4,False,False,False,False,False,Forward pipeline
+736,Division 4,Customer 18,Project 71,Segment 2,Executable,Nov,Q4,2026,100000.0,False,Q4,False,False,False,False,False,Forward pipeline
+737,Division 4,Customer 25,Project 64,Segment 2,Go-Get,Dec,Q4,2026,178580.925,False,Q4,False,False,False,False,False,Forward pipeline
+738,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Dec,Q4,2026,154884.75,False,Q4,False,False,False,False,False,Forward pipeline
+739,Division 4,Customer 2,Not provided,Segment 2,Forecasted,Dec,Q4,2026,82990.0,True,Q4,False,False,False,False,False,Forward pipeline
+740,Division 4,Customer 2,Not provided,Segment 2,Forecasted,Dec,Q4,2026,142904.0,True,Q4,False,False,False,False,False,Forward pipeline
+741,Division 4,Customer 25,Project 64,Segment 2,Forecasted,Dec,Q4,2026,78678.9,False,Q4,False,False,False,False,False,Forward pipeline
+742,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Dec,Q4,2026,63412.2,False,Q4,False,False,False,False,False,Forward pipeline
+743,Division 4,Customer 1,Not provided,Segment 2,Go-Get,Dec,Q4,2026,45000.0,True,Q4,False,False,False,False,False,Forward pipeline
+744,Division 4,Customer 2,Project 67,Segment 2,Contracted (unclassified),Dec,Q4,2026,8571.42857142857,False,Q4,False,False,False,False,False,Forward pipeline
+745,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Dec,Q4,2026,51428.57142857143,False,Q4,False,False,False,False,False,Forward pipeline
+746,Division 4,Customer 2,Project 74,Segment 2,Forecasted,Dec,Q4,2026,154285.7142857143,False,Q4,False,False,False,False,False,Forward pipeline
+747,Division 4,Customer 1,Project 67,Segment 2,Forecasted,Dec,Q4,2026,225000.0,False,Q4,False,False,False,False,False,Forward pipeline
+748,Division 4,Customer 1,Project 67,Segment 2,Forecasted,Dec,Q4,2026,43714.28571428572,False,Q4,False,False,False,False,False,Forward pipeline
+749,Division 4,Customer 18,Not provided,Segment 2,Go-Get,Dec,Q4,2026,35000.0,True,Q4,False,False,False,False,False,Forward pipeline
+750,Division 4,Customer 18,Not provided,Segment 2,Executable,Dec,Q4,2026,450000.0,True,Q4,False,False,False,False,False,Forward pipeline
+751,Division 4,Customer 27,Project 69,Segment 1,Contracted (unclassified),Dec,Q4,2026,100000.0,False,Q4,False,False,False,False,False,Forward pipeline
+752,Division 4,Customer 27,Project 70,Segment 1,Executable,Dec,Q4,2026,318750.0,False,Q4,False,False,False,False,False,Forward pipeline
+753,Division 4,Customer 18,Project 71,Segment 2,Executable,Dec,Q4,2026,100000.0,False,Q4,False,False,False,False,False,Forward pipeline
+754,Division 4,Customer 25,Project 64,Segment 2,Forecasted,Q1,Q1,2027,1025.0,False,Q1,False,False,False,False,False,Forward pipeline
+755,Division 4,Customer 2,Project 75,Segment 2,Forecasted,Q1,Q1,2027,225.0,False,Q1,False,False,False,False,False,Forward pipeline
+756,Division 4,Customer 2,Project 76,Segment 2,Forecasted,Q1,Q1,2027,400.0,False,Q1,False,False,False,False,False,Forward pipeline
+757,Division 4,Customer 25,Project 64,Segment 2,Forecasted,Q1,Q1,2027,280.0,False,Q1,False,False,False,False,False,Forward pipeline
+758,Division 4,Customer 2,Project 67,Segment 2,Forecasted,Q1,Q1,2027,771.0,False,Q1,False,False,False,False,False,Forward pipeline
+759,Division 4,Customer 27,Project 77,Segment 1,Forecasted,Q1,Q1,2027,50.0,False,Q1,False,False,False,False,False,Forward pipeline
+760,Division 4,Customer 18,Project 78,Segment 2,Executable,Q1,Q1,2027,1600.0,False,Q1,False,False,False,False,False,Forward pipeline
+761,Division 4,Customer 27,Project 69,Segment 1,Forecasted,Q1,Q1,2027,950.0,False,Q1,False,False,False,False,False,Forward pipeline
+762,Division 4,Customer 27,Project 70,Segment 1,Forecasted,Q1,Q1,2027,1462.5,False,Q1,False,False,False,False,False,Forward pipeline
+763,Division 4,Customer 25,Project 64,Segment 2,Forecasted,Q2,Q2,2027,1025.0,False,Q2,False,False,False,False,False,Forward pipeline
+764,Division 4,Customer 2,Project 75,Segment 2,Forecasted,Q2,Q2,2027,225.0,False,Q2,False,False,False,False,False,Forward pipeline
+765,Division 4,Customer 2,Project 76,Segment 2,Forecasted,Q2,Q2,2027,400.0,False,Q2,False,False,False,False,False,Forward pipeline
+766,Division 4,Customer 25,Project 64,Segment 2,Forecasted,Q2,Q2,2027,280.0,False,Q2,False,False,False,False,False,Forward pipeline
+767,Division 4,Customer 2,Project 67,Segment 2,Forecasted,Q2,Q2,2027,629.0,False,Q2,False,False,False,False,False,Forward pipeline
+768,Division 4,Customer 27,Project 77,Segment 1,Forecasted,Q2,Q2,2027,75.0,False,Q2,False,False,False,False,False,Forward pipeline
+769,Division 4,Customer 18,Project 78,Segment 2,Executable,Q2,Q2,2027,1600.0,False,Q2,False,False,False,False,False,Forward pipeline
+770,Division 4,Customer 27,Project 69,Segment 1,Forecasted,Q2,Q2,2027,950.0,False,Q2,False,False,False,False,False,Forward pipeline
+771,Division 4,Customer 27,Project 70,Segment 1,Forecasted,Q2,Q2,2027,1462.5,False,Q2,False,False,False,False,False,Forward pipeline
+772,Division 4,Customer 25,Project 64,Segment 2,Forecasted,Q3,Q3,2027,1025.0,False,Q3,False,False,False,False,False,Forward pipeline
+773,Division 4,Customer 2,Project 75,Segment 2,Forecasted,Q3,Q3,2027,225.0,False,Q3,False,False,False,False,False,Forward pipeline
+774,Division 4,Customer 2,Project 76,Segment 2,Forecasted,Q3,Q3,2027,400.0,False,Q3,False,False,False,False,False,Forward pipeline
+775,Division 4,Customer 25,Project 64,Segment 2,Forecasted,Q3,Q3,2027,280.0,False,Q3,False,False,False,False,False,Forward pipeline
+776,Division 4,Customer 2,Project 67,Segment 2,Forecasted,Q3,Q3,2027,629.0,False,Q3,False,False,False,False,False,Forward pipeline
+777,Division 4,Customer 27,Project 77,Segment 1,Forecasted,Q3,Q3,2027,75.0,False,Q3,False,False,False,False,False,Forward pipeline
+778,Division 4,Customer 18,Project 78,Segment 2,Executable,Q3,Q3,2027,1600.0,False,Q3,False,False,False,False,False,Forward pipeline
+779,Division 4,Customer 27,Project 69,Segment 1,Forecasted,Q3,Q3,2027,950.0,False,Q3,False,False,False,False,False,Forward pipeline
+780,Division 4,Customer 27,Project 70,Segment 1,Forecasted,Q3,Q3,2027,1462.5,False,Q3,False,False,False,False,False,Forward pipeline
+781,Division 4,Customer 25,Project 64,Segment 2,Forecasted,Q4,Q4,2027,1025.0,False,Q4,False,False,False,False,False,Forward pipeline
+782,Division 4,Customer 2,Project 75,Segment 2,Forecasted,Q4,Q4,2027,225.0,False,Q4,False,False,False,False,False,Forward pipeline
+783,Division 4,Customer 2,Project 76,Segment 2,Forecasted,Q4,Q4,2027,400.0,False,Q4,False,False,False,False,False,Forward pipeline
+784,Division 4,Customer 25,Project 64,Segment 2,Forecasted,Q4,Q4,2027,280.0,False,Q4,False,False,False,False,False,Forward pipeline
+785,Division 4,Customer 2,Project 67,Segment 2,Forecasted,Q4,Q4,2027,629.0,False,Q4,False,False,False,False,False,Forward pipeline
+786,Division 4,Customer 27,Project 77,Segment 1,Forecasted,Q4,Q4,2027,50.0,False,Q4,False,False,False,False,False,Forward pipeline
+787,Division 4,Customer 18,Project 78,Segment 2,Executable,Q4,Q4,2027,1600.0,False,Q4,False,False,False,False,False,Forward pipeline
+788,Division 4,Customer 27,Project 69,Segment 1,Forecasted,Q4,Q4,2027,950.0,False,Q4,False,False,False,False,False,Forward pipeline
+789,Division 4,Customer 27,Project 70,Segment 1,Forecasted,Q4,Q4,2027,1462.5,False,Q4,False,False,False,False,False,Forward pipeline
+790,Division 3,Customer 2,Not provided,Segment 2,2025,2025,2025,2025,26229987.0,True,2025,False,False,False,False,False,Historical actual
+791,Division 3,Customer 14,Not provided,Segment 2,2025,2025,2025,2025,11861701.0,True,2025,False,False,False,False,False,Historical actual
+792,Division 3,Customer 23,Not provided,Segment 2,2025,2025,2025,2025,4223126.87,True,2025,False,False,False,False,False,Historical actual
+793,Division 3,Customer 15,Not provided,Segment 4,2025,2025,2025,2025,580693.0,True,2025,False,False,False,False,False,Historical actual
+794,Division 3,Customer 19,Not provided,Segment 2,2025,2025,2025,2025,6176557.0,True,2025,False,False,False,False,False,Historical actual
+795,Division 3,Customer 16,Not provided,Segment 2,2025,2025,2025,2025,1159261.0,True,2025,False,False,False,False,False,Historical actual
+796,Division 2,Customer 12,Not provided,Segment 2,2025,2025,2025,2025,12680392.509,True,2025,False,False,False,False,False,Historical actual
+797,Division 2,Customer 6,Not provided,Segment 2,2025,2025,2025,2025,7706000.470000001,True,2025,False,False,False,False,False,Historical actual
+798,Division 2,Customer 7,Not provided,Segment 2,2025,2025,2025,2025,8686428.140999997,True,2025,False,False,False,False,False,Historical actual
+799,Division 2,Customer 18,Not provided,Segment 2,2025,2025,2025,2025,1180396.0,True,2025,False,False,False,False,False,Historical actual
+800,Division 2,Customer 11,Not provided,Segment 2,2025,2025,2025,2025,981760.07,True,2025,False,False,False,False,False,Historical actual
+801,Division 2,Customer 28,Not provided,Segment 2,2025,2025,2025,2025,1210579.52,True,2025,False,False,False,False,False,Historical actual
+802,Division 2,Customer 8,Not provided,Segment 2,2025,2025,2025,2025,1153621.71,True,2025,False,False,False,False,False,Historical actual
+803,Division 2,Customer 10,Not provided,Segment 1,2025,2025,2025,2025,1379375.89,True,2025,False,False,False,False,False,Historical actual
+804,Division 2,Customer 1,Not provided,Segment 1,2025,2025,2025,2025,789899.6100000001,True,2025,False,False,False,False,False,Historical actual
+805,Division 2,Customer 29,Not provided,Segment 1,2025,2025,2025,2025,292929.75,True,2025,False,False,False,False,False,Historical actual
+806,Division 2,Customer 9,Not provided,Segment 1,2025,2025,2025,2025,523907.8699999999,True,2025,False,False,False,False,False,Historical actual
+807,Division 2,Customer 30,Not provided,Segment 1,2025,2025,2025,2025,414297.77,True,2025,False,False,False,False,False,Historical actual
+808,Division 2,Customer 31,Not provided,Segment 1,2025,2025,2025,2025,244834.2,True,2025,False,False,False,False,False,Historical actual
+809,Division 2,Customer 32,Not provided,Segment 1,2025,2025,2025,2025,27582.15,True,2025,False,False,False,False,False,Historical actual
+810,Division 2,Customer 4,Not provided,Segment 1,2025,2025,2025,2025,3188.0,True,2025,False,False,False,False,False,Historical actual
+811,Division 4,Customer 2,Not provided,Segment 2,2025,2025,2025,2025,28303684.0,True,2025,False,False,False,False,False,Historical actual
+812,Division 4,Customer 18,Not provided,Segment 2,2025,2025,2025,2025,6189545.0,True,2025,False,False,False,False,False,Historical actual
+813,Division 4,Customer 27,Not provided,Segment 1,2025,2025,2025,2025,1830468.0,True,2025,False,False,False,False,False,Historical actual
+814,Division 4,Customer 1,Not provided,Segment 2,2025,2025,2025,2025,1726869.0,True,2025,False,False,False,False,False,Historical actual
+815,Division 4,Customer 6,Not provided,Segment 2,2025,2025,2025,2025,1536566.0,True,2025,False,False,False,False,False,Historical actual
+816,Division 4,Customer 25,Not provided,Segment 2,2025,2025,2025,2025,1258312.0,True,2025,False,False,False,False,False,Historical actual
+817,Division 4,Customer 33,Not provided,Segment 2,2025,2025,2025,2025,1861659.0,True,2025,False,False,False,False,False,Historical actual
+818,Division 4,Customer 10,Not provided,Segment 1,2025,2025,2025,2025,54738.0,True,2025,False,False,False,False,False,Historical actual
+819,Division 4,Customer 34,Not provided,Segment 1,2025,2025,2025,2025,24436.0,True,2025,False,False,False,False,False,Historical actual
+820,Division 4,Customer 35,Not provided,Segment 1,2025,2025,2025,2025,9360.0,True,2025,False,False,False,False,False,Historical actual
+821,Division 4,Customer 36,Not provided,Segment 1,2025,2025,2025,2025,8589.0,True,2025,False,False,False,False,False,Historical actual
+822,Division 4,Customer 37,Not provided,Segment 1,2025,2025,2025,2025,3704.0,True,2025,False,False,False,False,False,Historical actual
+823,Division 1,Customer 1,Not provided,Segment 1,2025,2025,2025,2025,14260140.0549,True,2025,False,False,False,False,False,Historical actual
+824,Division 1,Customer 3,Not provided,Segment 1,2025,2025,2025,2025,2824355.2,True,2025,False,False,False,False,False,Historical actual
+825,Division 1,Customer 5,Not provided,Segment 1,2025,2025,2025,2025,787861.25,True,2025,False,False,False,False,False,Historical actual
+826,Division 1,Customer 2,Not provided,Segment 2,2025,2025,2025,2025,593470.8999999999,True,2025,False,False,False,False,False,Historical actual
+827,Division 1,Customer 4,Not provided,Segment 1,2025,2025,2025,2025,611900.3396000001,True,2025,False,False,False,False,False,Historical actual
+828,Division 1,Customer 38,Not provided,Segment 1,2025,2025,2025,2025,21146.66,True,2025,False,False,False,False,False,Historical actual
+829,Division 1,Customer 39,Not provided,Segment 1,2025,2025,2025,2025,58959.17,True,2025,False,False,False,False,False,Historical actual
+830,Division 3,Customer 2,Not provided,Segment 2,2024,2024,2024,2024,13160259.0,True,2024,False,False,False,False,False,Historical actual
+831,Division 3,Customer 14,Not provided,Segment 2,2024,2024,2024,2024,8575415.0,True,2024,False,False,False,False,False,Historical actual
+832,Division 3,Customer 23,Not provided,Segment 2,2024,2024,2024,2024,5748617.0,True,2024,False,False,False,False,False,Historical actual
+833,Division 3,Customer 16,Not provided,Segment 2,2024,2024,2024,2024,1015615.0,True,2024,False,False,False,False,False,Historical actual
+834,Division 3,Customer 40,Not provided,Unknown,2024,2024,2024,2024,1056094.0,True,2024,False,False,False,False,False,Historical actual
+835,Division 2,Customer 12,Not provided,Segment 2,2024,2024,2024,2024,12393871.94968226,True,2024,False,False,False,False,False,Historical actual
+836,Division 2,Customer 6,Not provided,Segment 2,2024,2024,2024,2024,6633864.220317746,True,2024,False,False,False,False,False,Historical actual
+837,Division 2,Customer 18,Not provided,Segment 2,2024,2024,2024,2024,174321.25,True,2024,False,False,False,False,False,Historical actual
+838,Division 2,Customer 11,Not provided,Segment 2,2024,2024,2024,2024,1022048.82,True,2024,False,False,False,False,False,Historical actual
+839,Division 2,Customer 28,Not provided,Segment 2,2024,2024,2024,2024,1531234.99,True,2024,False,False,False,False,False,Historical actual
+840,Division 2,Customer 8,Not provided,Segment 2,2024,2024,2024,2024,389263.51,True,2024,False,False,False,False,False,Historical actual
+841,Division 2,Customer 29,Not provided,Segment 1,2024,2024,2024,2024,837482.9,True,2024,False,False,False,False,False,Historical actual
+842,Division 2,Customer 9,Not provided,Segment 1,2024,2024,2024,2024,148771.91,True,2024,False,False,False,False,False,Historical actual
+843,Division 2,Customer 30,Not provided,Segment 1,2024,2024,2024,2024,503448.75,True,2024,False,False,False,False,False,Historical actual
+844,Division 2,Customer 41,Not provided,Unknown,2024,2024,2024,2024,817133.7000000001,True,2024,False,False,False,False,False,Historical actual
+845,Division 2,Customer 20,Not provided,Segment 2,2024,2024,2024,2024,244747.74,True,2024,False,False,False,False,False,Historical actual
+846,Division 2,Customer 42,Not provided,Unknown,2024,2024,2024,2024,222119.4,True,2024,False,False,False,False,False,Historical actual
+847,Division 2,Customer 43,Not provided,Unknown,2024,2024,2024,2024,153784.8,True,2024,False,False,False,False,False,Historical actual
+848,Division 2,Customer 44,Not provided,Unknown,2024,2024,2024,2024,21668.0,True,2024,False,False,False,False,False,Historical actual
+849,Division 2,Customer 45,Not provided,Unknown,2024,2024,2024,2024,16420.0,True,2024,False,False,False,False,False,Historical actual
+850,Division 2,Customer 46,Not provided,Unknown,2024,2024,2024,2024,9818.06,True,2024,False,False,False,False,False,Historical actual
+851,Division 4,Customer 2,Not provided,Segment 2,2024,2024,2024,2024,61764778.0,True,2024,False,False,False,False,False,Historical actual
+852,Division 4,Customer 18,Not provided,Segment 2,2024,2024,2024,2024,7385324.75,True,2024,False,False,False,False,False,Historical actual
+853,Division 4,Customer 6,Not provided,Segment 2,2024,2024,2024,2024,774338.4199999999,True,2024,False,False,False,False,False,Historical actual
+854,Division 4,Customer 40,Not provided,Unknown,2024,2024,2024,2024,2019218.319999993,True,2024,False,False,False,False,False,Historical actual
+855,Division 1,Customer 1,Not provided,Segment 1,2024,2024,2024,2024,21190111.83284226,True,2024,False,False,False,False,False,Historical actual
+856,Division 1,Customer 3,Not provided,Segment 1,2024,2024,2024,2024,9565000.0,True,2024,False,False,False,False,False,Historical actual
+857,Division 1,Customer 2,Not provided,Segment 2,2024,2024,2024,2024,315000.0,True,2024,False,False,False,False,False,Historical actual
+858,Division 1,Customer 27,Not provided,Segment 1,2024,2024,2024,2024,755000.0,True,2024,False,False,False,False,False,Historical actual
+859,Division 1,Customer 47,Not provided,Segment 2,2024,2024,2024,2024,582000.0,True,2024,False,False,False,False,False,Historical actual
+860,Division 1,Customer 40,Not provided,Unknown,2024,2024,2024,2024,463888.1671577357,True,2024,False,False,False,False,False,Historical actual
+861,Division 1,Customer 38,Not provided,Segment 1,2024,2024,2024,2024,356000.0,True,2024,False,False,False,False,False,Historical actual
+862,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Q1,Q1,2027,50.0,False,Q1,False,False,False,False,False,Forward pipeline
+863,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Q2,Q2,2027,50.0,False,Q2,False,False,False,False,False,Forward pipeline
+864,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Q3,Q3,2027,50.0,False,Q3,False,False,False,False,False,Forward pipeline
+865,Division 4,Customer 2,Project 65,Segment 2,Forecasted,Q4,Q4,2027,50.0,False,Q4,False,False,False,False,False,Forward pipeline
+866,Division 4,Customer 1,Not provided,Segment 2,Forecasted,Q1,Q1,2027,170.0,True,Q1,False,False,False,False,False,Forward pipeline
+867,Division 4,Customer 1,Not provided,Segment 2,Forecasted,Q2,Q2,2027,170.0,True,Q2,False,False,False,False,False,Forward pipeline
+868,Division 4,Customer 1,Not provided,Segment 2,Forecasted,Q3,Q3,2027,170.0,True,Q3,False,False,False,False,False,Forward pipeline
+869,Division 4,Customer 1,Not provided,Segment 2,Forecasted,Q4,Q4,2027,170.0,True,Q4,False,False,False,False,False,Forward pipeline
+870,Division 4,Customer 1,Project 67,Segment 2,Forecasted,Q1,Q1,2027,429.0,False,Q1,False,False,False,False,False,Forward pipeline
+871,Division 4,Customer 1,Project 67,Segment 2,Forecasted,Q2,Q2,2027,571.0,False,Q2,False,False,False,False,False,Forward pipeline
+872,Division 4,Customer 1,Project 67,Segment 2,Forecasted,Q3,Q3,2027,571.0,False,Q3,False,False,False,False,False,Forward pipeline
+873,Division 4,Customer 1,Project 67,Segment 2,Forecasted,Q4,Q4,2027,571.0,False,Q4,False,False,False,False,False,Forward pipeline
+874,Division 4,Customer 6,Not provided,Segment 2,Forecasted,Q1,Q1,2027,50.0,True,Q1,False,False,False,False,False,Forward pipeline
+875,Division 4,Customer 6,Not provided,Segment 2,Forecasted,Q2,Q2,2027,50.0,True,Q2,False,False,False,False,False,Forward pipeline
+876,Division 4,Customer 6,Not provided,Segment 2,Forecasted,Q3,Q3,2027,50.0,True,Q3,False,False,False,False,False,Forward pipeline
+877,Division 4,Customer 6,Not provided,Segment 2,Forecasted,Q4,Q4,2027,50.0,True,Q4,False,False,False,False,False,Forward pipeline
+878,Division 4,Customer 37,Not provided,Segment 1,Forecasted,Q1,Q1,2027,50.0,True,Q1,False,False,False,False,False,Forward pipeline
+879,Division 4,Customer 37,Not provided,Segment 1,Forecasted,Q2,Q2,2027,50.0,True,Q2,False,False,False,False,False,Forward pipeline
+880,Division 4,Customer 37,Not provided,Segment 1,Forecasted,Q3,Q3,2027,50.0,True,Q3,False,False,False,False,False,Forward pipeline
+881,Division 4,Customer 37,Not provided,Segment 1,Forecasted,Q4,Q4,2027,50.0,True,Q4,False,False,False,False,False,Forward pipeline
+882,Division 4,Customer 2,Project 74,Segment 2,Forecasted,Q1,Q1,2027,250.0,False,Q1,False,False,False,False,False,Forward pipeline
+883,Division 4,Customer 2,Project 74,Segment 2,Forecasted,Q2,Q2,2027,250.0,False,Q2,False,False,False,False,False,Forward pipeline
+884,Division 4,Customer 2,Project 74,Segment 2,Forecasted,Q3,Q3,2027,250.0,False,Q3,False,False,False,False,False,Forward pipeline
+885,Division 4,Customer 2,Project 74,Segment 2,Forecasted,Q4,Q4,2027,250.0,False,Q4,False,False,False,False,False,Forward pipeline
+886,Division 3,Customer 2,Project 44,Segment 2,Executable,Jul,Q3,2026,892213.26,False,Q3,False,False,False,False,False,Forward pipeline
+887,Division 3,Customer 2,Project 51,Segment 2,Executable,Jul,Q3,2026,151767.25,False,Q3,False,False,False,False,False,Forward pipeline
+888,Division 3,Customer 2,Project 24,Segment 2,Contracted (unclassified),Jul,Q3,2026,260990.6,False,Q3,False,False,False,False,False,Forward pipeline
+889,Division 3,Customer 14,Project 25,Segment 2,Executable,Jul,Q3,2026,314675.08,False,Q3,False,False,False,False,False,Forward pipeline
+890,Division 3,Customer 14,Project 26,Segment 2,Contracted (unclassified),Jul,Q3,2026,400327.0,False,Q3,False,False,False,False,False,Forward pipeline
+891,Division 3,Customer 14,Project 27,Segment 2,Contracted Backlog,Jul,Q3,2026,146724.65,False,Q3,False,False,False,False,False,Forward pipeline
+892,Division 3,Customer 15,Project 28,Segment 4,Executable,Jul,Q3,2026,591458.23,False,Q3,False,False,False,False,False,Forward pipeline
+893,Division 3,Customer 21,Project 45,Segment 4,Executable,Jul,Q3,2026,743464.9199999999,False,Q3,False,False,False,False,False,Forward pipeline
+894,Division 3,Customer 23,Project 52,Segment 2,Executable,Jul,Q3,2026,98855.75,False,Q3,False,False,False,False,False,Forward pipeline
+895,Division 3,Customer 23,Project 53,Segment 2,Executable,Jul,Q3,2026,153440.36,False,Q3,False,False,False,False,False,Forward pipeline
+896,Division 3,Customer 19,Project 79,Segment 2,Executable,Jul,Q3,2026,108592.48,False,Q3,False,False,False,False,False,Forward pipeline
+897,Division 3,Customer 16,Project 29,Segment 2,Contracted (unclassified),Jul,Q3,2026,84576.0,False,Q3,False,False,False,False,False,Forward pipeline
+898,Division 3,Customer 16,Project 43,Segment 2,Executable,Jul,Q3,2026,375898.0599999999,False,Q3,False,False,False,False,False,Forward pipeline
+899,Division 3,Customer 2,Project 30,Segment 2,Go-Get,Jul,Q3,2026,12183.1,False,Q3,False,False,False,False,False,Forward pipeline
+900,Division 3,Customer 2,Project 48,Segment 2,Executable,Jul,Q3,2026,4063.1,False,Q3,False,False,False,False,False,Forward pipeline
+901,Division 3,Customer 2,Project 31,Segment 2,Executable,Jul,Q3,2026,110735.685,False,Q3,False,False,False,False,False,Forward pipeline
+902,Division 3,Customer 2,Project 32,Segment 2,Executable,Jul,Q3,2026,150412.84,False,Q3,False,False,False,False,False,Forward pipeline
+903,Division 3,Customer 2,Project 33,Segment 2,Executable,Jul,Q3,2026,124451.485,False,Q3,False,False,False,False,False,Forward pipeline
+904,Division 3,Customer 2,Project 34,Segment 2,Executable,Jul,Q3,2026,107697.02,False,Q3,False,False,False,False,False,Forward pipeline
+905,Division 3,Customer 2,Project 35,Segment 2,Contracted Backlog,Jul,Q3,2026,86485.61,False,Q3,False,False,False,False,False,Forward pipeline
+906,Division 3,Customer 2,Project 36,Segment 2,Contracted (unclassified),Jul,Q3,2026,28041.31,False,Q3,False,False,False,False,False,Forward pipeline
+907,Division 3,Customer 2,Project 37,Segment 2,Contracted (unclassified),Jul,Q3,2026,25590.84,False,Q3,False,False,False,False,False,Forward pipeline
+908,Division 3,Customer 17,Project 38,Segment 4,Contracted (unclassified),Jul,Q3,2026,22389.6,False,Q3,False,False,False,False,False,Forward pipeline
+909,Division 3,Customer 2,Project 40,Segment 2,Contracted (unclassified),Jul,Q3,2026,44313.60000000001,False,Q3,False,False,False,False,False,Forward pipeline
+910,Division 3,Customer 2,Project 41,Segment 2,Contracted (unclassified),Jul,Q3,2026,99196.85,False,Q3,False,False,False,False,False,Forward pipeline
+911,Division 3,Customer 2,Project 44,Segment 2,Executable,Aug,Q3,2026,563863.82,False,Q3,False,False,False,False,False,Forward pipeline
+912,Division 3,Customer 2,Project 24,Segment 2,Contracted (unclassified),Aug,Q3,2026,265121.47,False,Q3,False,False,False,False,False,Forward pipeline
+913,Division 3,Customer 14,Project 25,Segment 2,Executable,Aug,Q3,2026,307136.54,False,Q3,False,False,False,False,False,Forward pipeline
+914,Division 3,Customer 14,Project 26,Segment 2,Contracted (unclassified),Aug,Q3,2026,540470.0,False,Q3,False,False,False,False,False,Forward pipeline
+915,Division 3,Customer 14,Project 27,Segment 2,Contracted (unclassified),Aug,Q3,2026,267705.1,False,Q3,False,False,False,False,False,Forward pipeline
+916,Division 3,Customer 14,Project 47,Segment 2,Executable,Aug,Q3,2026,135585.82,False,Q3,False,False,False,False,False,Forward pipeline
+917,Division 3,Customer 15,Project 28,Segment 4,Executable,Aug,Q3,2026,732804.0700000001,False,Q3,False,False,False,False,False,Forward pipeline
+918,Division 3,Customer 21,Project 45,Segment 4,Executable,Aug,Q3,2026,800635.0,False,Q3,False,False,False,False,False,Forward pipeline
+919,Division 3,Customer 23,Project 52,Segment 2,Executable,Aug,Q3,2026,104291.75,False,Q3,False,False,False,False,False,Forward pipeline
+920,Division 3,Customer 23,Project 53,Segment 2,Executable,Aug,Q3,2026,58227.4,False,Q3,False,False,False,False,False,Forward pipeline
+921,Division 3,Customer 16,Project 29,Segment 2,Contracted (unclassified),Aug,Q3,2026,64071.0,False,Q3,False,False,False,False,False,Forward pipeline
+922,Division 3,Customer 16,Project 43,Segment 2,Executable,Aug,Q3,2026,191660.4,False,Q3,False,False,False,False,False,Forward pipeline
+923,Division 3,Customer 2,Project 30,Segment 2,Forecasted,Aug,Q3,2026,3016.0,False,Q3,False,False,False,False,False,Forward pipeline
+924,Division 3,Customer 2,Project 48,Segment 2,Executable,Aug,Q3,2026,16261.3,False,Q3,False,False,False,False,False,Forward pipeline
+925,Division 3,Customer 2,Project 31,Segment 2,Executable,Aug,Q3,2026,110595.99,False,Q3,False,False,False,False,False,Forward pipeline
+926,Division 3,Customer 2,Project 32,Segment 2,Executable,Aug,Q3,2026,157969.87,False,Q3,False,False,False,False,False,Forward pipeline
+927,Division 3,Customer 2,Project 33,Segment 2,Executable,Aug,Q3,2026,125242.95,False,Q3,False,False,False,False,False,Forward pipeline
+928,Division 3,Customer 2,Project 34,Segment 2,Executable,Aug,Q3,2026,81181.84999999999,False,Q3,False,False,False,False,False,Forward pipeline
+929,Division 3,Customer 2,Project 35,Segment 2,Contracted (unclassified),Aug,Q3,2026,83225.16,False,Q3,False,False,False,False,False,Forward pipeline
+930,Division 3,Customer 2,Project 36,Segment 2,Contracted Backlog,Aug,Q3,2026,39449.35,False,Q3,False,False,False,False,False,Forward pipeline
+931,Division 3,Customer 2,Project 37,Segment 2,Contracted (unclassified),Aug,Q3,2026,36755.79,False,Q3,False,False,False,False,False,Forward pipeline
+932,Division 3,Customer 2,Project 80,Segment 2,Contracted Backlog,Aug,Q3,2026,6449.530000000001,False,Q3,False,False,False,False,False,Forward pipeline
+933,Division 3,Customer 2,Project 39,Segment 2,Contracted (unclassified),Aug,Q3,2026,3416.0,False,Q3,False,False,False,False,False,Forward pipeline
+934,Division 3,Customer 17,Project 38,Segment 4,Contracted (unclassified),Aug,Q3,2026,26329.6,False,Q3,False,False,False,False,False,Forward pipeline
+935,Division 3,Customer 2,Project 40,Segment 2,Contracted (unclassified),Aug,Q3,2026,53545.6,False,Q3,False,False,False,False,False,Forward pipeline
+936,Division 3,Customer 2,Project 41,Segment 2,Contracted (unclassified),Aug,Q3,2026,92800.1,False,Q3,False,False,False,False,False,Forward pipeline
+937,Division 3,Customer 2,Project 51,Segment 2,Executable,Sep,Q3,2026,500000.0,False,Q3,False,False,False,False,False,Forward pipeline
+938,Division 3,Customer 2,Project 24,Segment 2,Contracted (unclassified),Sep,Q3,2026,250000.0,False,Q3,False,False,False,False,False,Forward pipeline
+939,Division 3,Customer 14,Project 25,Segment 2,Executable,Sep,Q3,2026,420000.0,False,Q3,False,False,False,False,False,Forward pipeline
+940,Division 3,Customer 14,Project 26,Segment 2,Contracted (unclassified),Sep,Q3,2026,600000.0,False,Q3,False,False,False,False,False,Forward pipeline
+941,Division 3,Customer 14,Project 27,Segment 2,Contracted (unclassified),Sep,Q3,2026,106978.6923076923,False,Q3,False,False,False,False,False,Forward pipeline
+942,Division 3,Customer 14,Project 47,Segment 2,Executable,Sep,Q3,2026,1000000.0,False,Q3,False,False,False,False,False,Forward pipeline
+943,Division 3,Customer 15,Project 28,Segment 4,Executable,Sep,Q3,2026,737591.0,False,Q3,False,False,False,False,False,Forward pipeline
+944,Division 3,Customer 21,Project 45,Segment 4,Executable,Sep,Q3,2026,925000.0,False,Q3,False,False,False,False,False,Forward pipeline
+945,Division 3,Customer 48,Project 81,Segment 4,Executable,Sep,Q3,2026,150000.0,False,Q3,False,False,False,False,True,Forward pipeline
+946,Division 3,Customer 23,Project 52,Segment 2,Executable,Sep,Q3,2026,125000.0,False,Q3,False,False,False,False,False,Forward pipeline
+947,Division 3,Customer 23,Project 53,Segment 2,Executable,Sep,Q3,2026,100110.0,False,Q3,False,False,False,False,False,Forward pipeline
+948,Division 3,Customer 16,Project 29,Segment 2,Contracted Backlog,Sep,Q3,2026,103846.1538461538,False,Q3,False,False,False,False,False,Forward pipeline
+949,Division 3,Customer 16,Project 43,Segment 2,Executable,Sep,Q3,2026,104482.0,False,Q3,False,False,False,False,False,Forward pipeline
+950,Division 3,Customer 2,Project 30,Segment 2,Go-Get,Sep,Q3,2026,10000.0,False,Q3,False,False,False,False,False,Forward pipeline
+951,Division 3,Customer 2,Project 48,Segment 2,Executable,Sep,Q3,2026,20459.9,False,Q3,False,False,False,False,False,Forward pipeline
+952,Division 3,Customer 2,Project 31,Segment 2,Executable,Sep,Q3,2026,115000.0,False,Q3,False,False,False,False,False,Forward pipeline
+953,Division 3,Customer 2,Project 32,Segment 2,Executable,Sep,Q3,2026,180000.0,False,Q3,False,False,False,False,False,Forward pipeline
+954,Division 3,Customer 2,Project 33,Segment 2,Executable,Sep,Q3,2026,165000.0,False,Q3,False,False,False,False,False,Forward pipeline
+955,Division 3,Customer 2,Project 34,Segment 2,Executable,Sep,Q3,2026,132137.75,False,Q3,False,False,False,False,False,Forward pipeline
+956,Division 3,Customer 2,Project 35,Segment 2,Contracted (unclassified),Sep,Q3,2026,90000.0,False,Q3,False,False,False,False,False,Forward pipeline
+957,Division 3,Customer 2,Project 36,Segment 2,Contracted (unclassified),Sep,Q3,2026,55000.0,False,Q3,False,False,False,False,False,Forward pipeline
+958,Division 3,Customer 2,Project 37,Segment 2,Contracted (unclassified),Sep,Q3,2026,32500.0,False,Q3,False,False,False,False,False,Forward pipeline
+959,Division 3,Customer 2,Project 80,Segment 2,Contracted (unclassified),Sep,Q3,2026,15400.0,False,Q3,False,False,False,False,False,Forward pipeline
+960,Division 3,Customer 17,Project 38,Segment 4,Contracted (unclassified),Sep,Q3,2026,40000.0,False,Q3,False,False,False,False,False,Forward pipeline
+961,Division 3,Customer 2,Project 40,Segment 2,Contracted Backlog,Sep,Q3,2026,66000.0,False,Q3,False,False,False,False,False,Forward pipeline
+962,Division 3,Customer 2,Project 41,Segment 2,Contracted (unclassified),Sep,Q3,2026,115000.0,False,Q3,False,False,False,False,False,Forward pipeline
+963,Division 3,Customer 24,Project 82,Segment 4,Go-Get,Sep,Q3,2026,220000.0,False,Q3,False,False,False,False,False,Forward pipeline
+964,Division 3,Customer 2,Project 23,Segment 2,Go-Get,Oct,Q4,2026,44739.0,False,Q4,False,False,False,False,False,Forward pipeline
+965,Division 3,Customer 2,Project 44,Segment 2,Executable,Oct,Q4,2026,1000000.0,False,Q4,False,False,False,False,False,Forward pipeline
+966,Division 3,Customer 2,Project 51,Segment 2,Executable,Oct,Q4,2026,198233.0,False,Q4,False,False,False,False,False,Forward pipeline
+967,Division 3,Customer 2,Project 24,Segment 2,Contracted Backlog,Oct,Q4,2026,184615.3846153846,False,Q4,False,False,False,False,False,Forward pipeline
+968,Division 3,Customer 14,Project 25,Unknown,Executable,Oct,Q4,2026,180000.0,False,Q4,False,False,False,False,False,Forward pipeline
+969,Division 3,Customer 14,Project 25,Segment 2,Contracted (unclassified),Oct,Q4,2026,320000.0,False,Q4,False,False,False,False,False,Forward pipeline
+970,Division 3,Customer 14,Project 26,Segment 2,Contracted (unclassified),Oct,Q4,2026,400000.0,False,Q4,False,False,False,False,False,Forward pipeline
+971,Division 3,Customer 14,Project 27,Segment 2,Contracted (unclassified),Oct,Q4,2026,93517.15384615384,False,Q4,False,False,False,False,False,Forward pipeline
+972,Division 3,Customer 14,Project 47,Segment 2,Executable,Oct,Q4,2026,1550000.0,False,Q4,False,False,False,False,False,Forward pipeline
+973,Division 3,Customer 15,Project 28,Segment 4,Executable,Oct,Q4,2026,400000.0,False,Q4,False,False,False,False,False,Forward pipeline
+974,Division 3,Customer 21,Project 45,Segment 4,Executable,Oct,Q4,2026,400000.0,False,Q4,False,False,False,False,False,Forward pipeline
+975,Division 3,Customer 48,Project 81,Segment 4,Executable,Oct,Q4,2026,1000000.0,False,Q4,False,False,False,False,False,Forward pipeline
+976,Division 3,Customer 49,Project 83,Segment 4,Contracted (unclassified),Oct,Q4,2026,200000.0,False,Q4,False,False,False,False,False,Forward pipeline
+977,Division 3,Customer 23,Project 52,Segment 2,Executable,Oct,Q4,2026,39054.0,False,Q4,False,False,False,False,False,Forward pipeline
+978,Division 3,Customer 23,Project 53,Segment 2,Executable,Oct,Q4,2026,100000.0,False,Q4,False,False,False,False,False,Forward pipeline
+979,Division 3,Customer 16,Project 29,Segment 2,Contracted (unclassified),Oct,Q4,2026,51692.3076923077,False,Q4,False,False,False,False,False,Forward pipeline
+980,Division 3,Customer 2,Project 30,Segment 2,Go-Get,Oct,Q4,2026,10000.0,False,Q4,False,False,False,False,False,Forward pipeline
+981,Division 3,Customer 2,Project 48,Segment 2,Executable,Oct,Q4,2026,16391.92,False,Q4,False,False,False,False,False,Forward pipeline
+982,Division 3,Customer 2,Project 31,Segment 2,Executable,Oct,Q4,2026,92000.0,False,Q4,False,False,False,False,False,Forward pipeline
+983,Division 3,Customer 2,Project 32,Segment 2,Executable,Oct,Q4,2026,144000.0,False,Q4,False,False,False,False,False,Forward pipeline
+984,Division 3,Customer 2,Project 33,Segment 2,Executable,Oct,Q4,2026,132000.0,False,Q4,False,False,False,False,False,Forward pipeline
+985,Division 3,Customer 2,Project 34,Segment 2,Executable,Oct,Q4,2026,105710.2,False,Q4,False,False,False,False,False,Forward pipeline
+986,Division 3,Customer 2,Project 35,Segment 2,Contracted (unclassified),Oct,Q4,2026,66153.84615384616,False,Q4,False,False,False,False,False,Forward pipeline
+987,Division 3,Customer 2,Project 36,Segment 2,Contracted (unclassified),Oct,Q4,2026,36000.0,False,Q4,False,False,False,False,False,Forward pipeline
+988,Division 3,Customer 2,Project 37,Segment 2,Contracted (unclassified),Oct,Q4,2026,26000.0,False,Q4,False,False,False,False,False,Forward pipeline
+989,Division 3,Customer 2,Project 80,Segment 2,Contracted Backlog,Oct,Q4,2026,12320.0,False,Q4,False,False,False,False,False,Forward pipeline
+990,Division 3,Customer 17,Project 38,Segment 4,Contracted (unclassified),Oct,Q4,2026,33000.0,False,Q4,False,False,False,False,False,Forward pipeline
+991,Division 3,Customer 2,Project 40,Segment 2,Contracted (unclassified),Oct,Q4,2026,52800.0,False,Q4,False,False,False,False,False,Forward pipeline
+992,Division 3,Customer 2,Project 41,Segment 2,Contracted (unclassified),Oct,Q4,2026,92000.0,False,Q4,False,False,False,False,False,Forward pipeline
+993,Division 3,Customer 24,Project 82,Segment 4,Go-Get,Oct,Q4,2026,25000.0,False,Q4,False,False,False,False,False,Forward pipeline
+994,Division 3,Customer 2,Project 23,Segment 2,Go-Get,Nov,Q4,2026,44739.0,False,Q4,False,False,False,False,False,Forward pipeline
+995,Division 3,Customer 2,Project 44,Segment 2,Executable,Nov,Q4,2026,1150000.0,False,Q4,False,False,False,False,False,Forward pipeline
+996,Division 3,Customer 2,Project 24,Segment 2,Contracted (unclassified),Nov,Q4,2026,184615.3846153846,False,Q4,False,False,False,False,False,Forward pipeline
+997,Division 3,Customer 14,Project 25,Segment 2,Contracted (unclassified),Nov,Q4,2026,520000.0,False,Q4,False,False,False,False,False,Forward pipeline
+998,Division 3,Customer 14,Project 26,Unknown,Contracted (unclassified),Nov,Q4,2026,312000.0,False,Q4,False,False,False,False,False,Forward pipeline
+999,Division 3,Customer 14,Project 27,Segment 2,Contracted (unclassified),Nov,Q4,2026,93517.15384615384,False,Q4,False,False,False,False,False,Forward pipeline
+1000,Division 3,Customer 14,Project 47,Segment 2,Executable,Nov,Q4,2026,1350000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1001,Division 3,Customer 15,Project 28,Segment 4,Go-Get,Nov,Q4,2026,421000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1002,Division 3,Customer 21,Project 45,Segment 4,Executable,Nov,Q4,2026,400000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1003,Division 3,Customer 48,Project 81,Segment 4,Executable,Nov,Q4,2026,750000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1004,Division 3,Customer 49,Project 83,Segment 4,Contracted (unclassified),Nov,Q4,2026,300000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1005,Division 3,Customer 23,Project 53,Segment 2,Executable,Nov,Q4,2026,75000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1006,Division 3,Customer 16,Project 29,Segment 2,Contracted (unclassified),Nov,Q4,2026,51692.3076923077,False,Q4,False,False,False,False,False,Forward pipeline
+1007,Division 3,Customer 2,Project 48,Segment 2,Executable,Nov,Q4,2026,16391.92,False,Q4,False,False,False,False,False,Forward pipeline
+1008,Division 3,Customer 2,Project 31,Segment 2,Executable,Nov,Q4,2026,80000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1009,Division 3,Customer 2,Project 32,Segment 2,Executable,Nov,Q4,2026,92000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1010,Division 3,Customer 2,Project 33,Segment 2,Executable,Nov,Q4,2026,46154.0,False,Q4,False,False,False,False,False,Forward pipeline
+1011,Division 3,Customer 2,Project 34,Segment 2,Executable,Nov,Q4,2026,105710.2,False,Q4,False,False,False,False,False,Forward pipeline
+1012,Division 3,Customer 2,Project 35,Segment 2,Contracted (unclassified),Nov,Q4,2026,66153.84615384616,False,Q4,False,False,False,False,False,Forward pipeline
+1013,Division 3,Customer 2,Project 36,Segment 2,Contracted (unclassified),Nov,Q4,2026,36000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1014,Division 3,Customer 2,Project 37,Segment 2,Contracted (unclassified),Nov,Q4,2026,26000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1015,Division 3,Customer 2,Project 80,Segment 2,Contracted (unclassified),Nov,Q4,2026,12320.0,False,Q4,False,False,False,False,False,Forward pipeline
+1016,Division 3,Customer 17,Project 38,Segment 4,Contracted (unclassified),Nov,Q4,2026,33000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1017,Division 3,Customer 2,Project 40,Segment 2,Contracted (unclassified),Nov,Q4,2026,52800.0,False,Q4,False,False,False,False,False,Forward pipeline
+1018,Division 3,Customer 2,Project 41,Segment 2,Contracted (unclassified),Nov,Q4,2026,92000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1019,Division 3,Customer 24,Project 82,Segment 4,Go-Get,Nov,Q4,2026,25000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1047,Division 3,Customer 2,Project 44,Segment 2,Executable,Dec,Q4,2026,1250000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1048,Division 3,Customer 2,Project 24,Segment 2,Contracted (unclassified),Dec,Q4,2026,230794.0,False,Q4,False,False,False,False,False,Forward pipeline
+1049,Division 3,Customer 14,Project 25,Segment 2,Contracted (unclassified),Dec,Q4,2026,400000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1050,Division 3,Customer 14,Project 26,Segment 2,Contracted (unclassified),Dec,Q4,2026,271500.0,False,Q4,False,False,False,False,False,Forward pipeline
+1051,Division 3,Customer 14,Project 27,Segment 2,Contracted (unclassified),Dec,Q4,2026,106679.0,False,Q4,False,False,False,False,False,Forward pipeline
+1052,Division 3,Customer 14,Project 47,Segment 2,Executable,Dec,Q4,2026,194115.1799999997,False,Q4,False,False,False,False,False,Forward pipeline
+1053,Division 3,Customer 14,Project 47,Segment 2,Contracted (unclassified),Dec,Q4,2026,1363599.82,False,Q4,False,False,False,False,False,Forward pipeline
+1054,Division 3,Customer 15,Project 28,Segment 4,Forecasted,Dec,Q4,2026,60497.0,False,Q4,False,False,False,False,False,Forward pipeline
+1055,Division 3,Customer 21,Project 45,Segment 4,Executable,Dec,Q4,2026,274739.0,False,Q4,False,False,False,False,False,Forward pipeline
+1056,Division 3,Customer 48,Project 81,Segment 4,Executable,Dec,Q4,2026,100000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1057,Division 3,Customer 49,Project 83,Segment 4,Contracted Backlog,Dec,Q4,2026,500000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1058,Division 3,Customer 23,Project 53,Segment 2,Executable,Dec,Q3,2026,75000.0,False,Q4,True,False,False,False,False,Forward pipeline
+1059,Division 3,Customer 16,Project 29,Segment 2,Contracted (unclassified),Dec,Q4,2026,64615.38461538462,False,Q4,False,False,False,False,False,Forward pipeline
+1060,Division 3,Customer 2,Project 48,Segment 2,Executable,Dec,Q4,2026,20459.9,False,Q4,False,False,False,False,False,Forward pipeline
+1061,Division 3,Customer 2,Project 31,Segment 2,Executable,Dec,Q4,2026,71137.0,False,Q4,False,False,False,False,False,Forward pipeline
+1062,Division 3,Customer 2,Project 32,Segment 2,Executable,Dec,Q4,2026,115000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1063,Division 3,Customer 2,Project 33,Segment 2,Executable,Dec,Q4,2026,57692.3076923077,False,Q4,False,False,False,False,False,Forward pipeline
+1064,Division 3,Customer 2,Project 34,Segment 2,Executable,Dec,Q4,2026,132137.75,False,Q4,False,False,False,False,False,Forward pipeline
+1065,Division 3,Customer 2,Project 35,Segment 2,Contracted (unclassified),Dec,Q4,2026,82692.30769230769,False,Q4,False,False,False,False,False,Forward pipeline
+1066,Division 3,Customer 2,Project 36,Segment 2,Contracted (unclassified),Dec,Q4,2026,45000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1067,Division 3,Customer 2,Project 37,Segment 2,Contracted (unclassified),Dec,Q4,2026,32500.0,False,Q4,False,False,False,False,False,Forward pipeline
+1068,Division 3,Customer 2,Project 80,Segment 2,Contracted (unclassified),Dec,Q4,2026,15400.0,False,Q4,False,False,False,False,False,Forward pipeline
+1069,Division 3,Customer 17,Project 38,Segment 4,Contracted (unclassified),Dec,Q4,2026,5710.0,False,Q4,False,False,False,False,False,Forward pipeline
+1070,Division 3,Customer 2,Project 40,Segment 2,Contracted (unclassified),Dec,Q4,2026,66000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1071,Division 3,Customer 2,Project 41,Segment 2,Contracted (unclassified),Dec,Q4,2026,92000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1072,Division 3,Customer 24,Project 82,Segment 4,Go-Get,Dec,Q4,2026,34611.84654849023,False,Q4,False,False,False,False,False,Forward pipeline
+1073,Division 3,Customer 2,Project 23,Segment 2,Go-Get,Q1,Q1,2027,150000.0,False,Q1,False,False,False,False,True,Forward pipeline
+1074,Division 3,Customer 2,Project 84,Segment 2,Go-Get,Q1,Q1,2027,202869.5,False,Q1,False,False,False,False,False,Forward pipeline
+1075,Division 3,Customer 2,Project 44,Segment 2,Executable,Q1,Q1,2027,761250.0,False,Q1,False,False,False,False,False,Forward pipeline
+1076,Division 3,Customer 2,Project 51,Segment 2,Forecasted,Q1,Q1,2027,1350000.0,False,Q1,False,False,False,False,False,Forward pipeline
+1077,Division 3,Customer 2,Project 24,Segment 2,Contracted (unclassified),Q1,Q1,2027,540000.0,False,Q1,False,False,False,False,False,Forward pipeline
+1078,Division 3,Customer 14,Project 25,Segment 2,Contracted (unclassified),Q1,Q1,2027,2600000.0,False,Q1,False,False,False,False,False,Forward pipeline
+1079,Division 3,Customer 14,Project 26,Segment 2,Contracted (unclassified),Q1,Q1,2027,1105000.0,False,Q1,False,False,False,False,False,Forward pipeline
+1080,Division 3,Customer 14,Project 27,Segment 2,Contracted (unclassified),Q1,Q1,2027,520000.0,False,Q1,False,False,False,False,False,Forward pipeline
+1081,Division 3,Customer 14,Project 47,Segment 2,Contracted Pipeline,Q1,Q1,2027,26000000.0,False,Q1,False,False,False,True,False,Forward pipeline
+1082,Division 3,Customer 15,Project 28,Segment 4,Contracted Pipeline,Q1,Q1,2027,2939630.5,False,Q1,False,False,False,False,False,Forward pipeline
+1083,Division 3,Customer 21,Project 45,Segment 4,Executable,Q1,Q1,2027,1332500.0,False,Q1,False,False,False,False,False,Forward pipeline
+1084,Division 3,Customer 48,Project 81,Segment 4,Contracted Pipeline,Q1,Q1,2027,799500.0,False,Q1,False,False,False,False,False,Forward pipeline
+1085,Division 3,Customer 16,Project 29,Segment 2,Forecasted,Q1,Q1,2027,253500.0,False,Q1,False,False,False,False,False,Forward pipeline
+1086,Division 3,Customer 2,Project 48,Segment 2,Go-Get,Q1,Q1,2027,156000.0,False,Q1,False,False,False,False,False,Forward pipeline
+1087,Division 3,Customer 2,Project 31,Segment 2,Forecasted,Q1,Q1,2027,299000.0,False,Q1,False,False,False,False,False,Forward pipeline
+1088,Division 3,Customer 2,Project 32,Segment 2,Forecasted,Q1,Q1,2027,468000.0,False,Q1,False,False,False,False,False,Forward pipeline
+1089,Division 3,Customer 2,Project 33,Segment 2,Go-Get,Q1,Q1,2027,403000.0,False,Q1,False,False,False,False,False,Forward pipeline
+1090,Division 3,Customer 2,Project 34,Segment 2,Go-Get,Q1,Q1,2027,377000.0,False,Q1,False,False,False,False,False,Forward pipeline
+1091,Division 3,Customer 2,Project 35,Segment 2,Contracted (unclassified),Q1,Q1,2027,234000.0,False,Q1,False,False,False,False,False,Forward pipeline
+1092,Division 3,Customer 2,Project 36,Segment 2,Contracted (unclassified),Q1,Q1,2027,143000.0,False,Q1,False,False,False,False,False,Forward pipeline
+1093,Division 3,Customer 2,Project 37,Segment 2,Contracted (unclassified),Q1,Q1,2027,84500.0,False,Q1,False,False,False,False,False,Forward pipeline
+1094,Division 3,Customer 2,Project 85,Segment 2,Go-Get,Q1,Q1,2027,32500.0,False,Q1,False,False,False,False,False,Forward pipeline
+1095,Division 3,Customer 2,Project 40,Segment 2,Forecasted,Q1,Q1,2027,171600.0,False,Q1,False,False,False,False,False,Forward pipeline
+1096,Division 3,Customer 2,Project 41,Segment 2,Contracted (unclassified),Q1,Q1,2027,325000.0,False,Q1,False,False,False,False,False,Forward pipeline
+1097,Division 3,Customer 24,Project 82,Segment 4,Go-Get,Q1,Q1,2027,750000.0,False,Q1,False,False,False,False,False,Forward pipeline
+1098,Division 3,Customer 2,Project 23,Segment 2,Go-Get,Q2,Q2,2027,150000.0,False,Q2,False,False,False,False,True,Forward pipeline
+1099,Division 3,Customer 2,Project 84,Segment 2,Go-Get,Q2,Q2,2027,202869.5,False,Q2,False,False,False,False,False,Forward pipeline
+1100,Division 3,Customer 2,Project 44,Segment 2,Executable,Q2,Q2,2027,761250.0,False,Q2,False,False,False,False,False,Forward pipeline
+1101,Division 3,Customer 2,Project 51,Segment 2,Go-Get,Q2,Q2,2027,1350000.0,False,Q2,False,False,False,False,False,Forward pipeline
+1102,Division 3,Customer 2,Project 24,Segment 2,Contracted Backlog,Q2,Q2,2027,540000.0,False,Q2,False,False,False,False,False,Forward pipeline
+1103,Division 3,Customer 14,Project 25,Segment 2,Contracted (unclassified),Q2,Q2,2027,2600000.0,False,Q2,False,False,False,False,False,Forward pipeline
+1104,Division 3,Customer 14,Project 26,Segment 2,Contracted (unclassified),Q2,Q2,2027,1105000.0,False,Q2,False,False,False,False,False,Forward pipeline
+1105,Division 3,Customer 14,Project 27,Segment 2,Contracted (unclassified),Q2,Q2,2027,520000.0,False,Q2,False,False,False,False,False,Forward pipeline
+1106,Division 3,Customer 14,Project 47,Segment 2,Contracted Pipeline,Q2,Q2,2027,2600000.0,False,Q2,False,False,False,False,False,Forward pipeline
+1107,Division 3,Customer 15,Project 28,Segment 4,Contracted Pipeline,Q2,Q2,2027,2939630.5,False,Q2,False,False,False,False,False,Forward pipeline
+1108,Division 3,Customer 21,Project 45,Segment 4,Executable,Q2,Q2,2027,1332500.0,False,Q2,False,False,False,False,False,Forward pipeline
+1109,Division 3,Customer 48,Project 81,Segment 4,Contracted Pipeline,Q2,Q2,2027,799500.0,False,Q2,False,False,False,False,False,Forward pipeline
+1110,Division 3,Customer 16,Project 29,Segment 2,Forecasted,Q2,Q2,2027,253500.0,False,Q2,False,False,False,False,False,Forward pipeline
+1111,Division 3,Customer 2,Project 48,Segment 2,Go-Get,Q2,Q2,2027,156000.0,False,Q2,False,False,False,False,False,Forward pipeline
+1112,Division 3,Customer 2,Project 31,Segment 2,Forecasted,Q2,Q2,2027,299000.0,False,Q2,False,False,False,False,False,Forward pipeline
+1113,Division 3,Customer 2,Project 32,Segment 2,Forecasted,Q2,Q2,2027,468000.0,False,Q2,False,False,False,False,False,Forward pipeline
+1114,Division 3,Customer 2,Project 33,Segment 2,Go-Get,Q2,Q2,2027,403000.0,False,Q2,False,False,False,False,False,Forward pipeline
+1115,Division 3,Customer 2,Project 34,Segment 2,Go-Get,Q2,Q2,2027,377000.0,False,Q2,False,False,False,False,False,Forward pipeline
+1116,Division 3,Customer 2,Project 35,Segment 2,Contracted (unclassified),Q2,Q2,2027,234000.0,False,Q2,False,False,False,False,False,Forward pipeline
+1117,Division 3,Customer 2,Project 36,Segment 2,Contracted Backlog,Q2,Q2,2027,143000.0,False,Q2,False,False,False,False,False,Forward pipeline
+1118,Division 3,Customer 2,Project 37,Segment 2,Contracted (unclassified),Q2,Q2,2027,84500.0,False,Q2,False,False,False,False,False,Forward pipeline
+1119,Division 3,Customer 2,Project 85,Segment 2,Forecasted,Q2,Q2,2027,32500.0,False,Q2,False,False,False,False,False,Forward pipeline
+1120,Division 3,Customer 2,Project 40,Segment 2,Forecasted,Q2,Q2,2027,171600.0,False,Q2,False,False,False,False,False,Forward pipeline
+1121,Division 3,Customer 2,Project 41,Segment 2,Contracted (unclassified),Q2,Q2,2027,325000.0,False,Q2,False,False,False,False,False,Forward pipeline
+1122,Division 3,Customer 24,Project 82,Segment 4,Go-Get,Q2,Q2,2027,750000.0,False,Q2,False,False,False,False,False,Forward pipeline
+1123,Division 3,Customer 2,Project 23,Segment 2,Go-Get,Q3,Q3,2027,150000.0,False,Q3,False,False,False,False,True,Forward pipeline
+1124,Division 3,Customer 2,Project 84,Segment 2,Go-Get,Q3,Q3,2027,150000.0,False,Q3,False,False,False,False,True,Forward pipeline
+1125,Division 3,Customer 2,Project 44,Segment 2,Executable,Q3,Q3,2027,761250.0,False,Q3,False,False,False,False,False,Forward pipeline
+1126,Division 3,Customer 2,Project 51,Segment 2,Forecasted,Q3,Q3,2027,1350000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1127,Division 3,Customer 2,Project 24,Segment 2,Contracted (unclassified),Q3,Q3,2027,540000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1128,Division 3,Customer 14,Project 25,Segment 2,Contracted (unclassified),Q3,Q3,2027,2600000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1129,Division 3,Customer 14,Project 26,Segment 2,Contracted (unclassified),Q3,Q3,2027,1105000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1130,Division 3,Customer 14,Project 27,Segment 2,Contracted (unclassified),Q3,Q3,2027,520000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1131,Division 3,Customer 14,Project 47,Segment 2,Contracted Pipeline,Q3,Q3,2027,2600000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1132,Division 3,Customer 15,Project 28,Segment 4,YTD,Q3,Q3,2027,2600000.0,False,Q3,False,True,False,False,False,Future YTD exception
+1133,Division 3,Customer 21,Project 45,Segment 4,Executable,Q3,Q3,2027,975000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1134,Division 3,Customer 48,Project 81,Segment 4,Contracted Pipeline,Q3,Q3,2027,799500.0,False,Q3,False,False,False,False,False,Forward pipeline
+1135,Division 3,Customer 16,Project 29,Segment 2,Go-Get,Q3,Q3,2027,253500.0,False,Q3,False,False,False,False,False,Forward pipeline
+1136,Division 3,Customer 2,Project 48,Segment 2,Go-Get,Q3,Q3,2027,156000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1137,Division 3,Customer 2,Project 31,Segment 2,Forecasted,Q3,Q3,2027,299000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1138,Division 3,Customer 2,Project 32,Segment 2,Forecasted,Q3,Q3,2027,468000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1139,Division 3,Customer 2,Project 33,Segment 2,Forecasted,Q3,Q3,2027,403000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1140,Division 3,Customer 2,Project 34,Segment 2,Go-Get,Q3,Q3,2027,377000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1141,Division 3,Customer 2,Project 35,Segment 2,Contracted (unclassified),Q3,Q3,2027,234000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1142,Division 3,Customer 2,Project 36,Segment 2,Contracted (unclassified),Q3,Q3,2027,143000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1143,Division 3,Customer 2,Project 37,Segment 2,Contracted (unclassified),Q3,Q3,2027,84500.0,False,Q3,False,False,False,False,False,Forward pipeline
+1144,Division 3,Customer 2,Project 85,Segment 2,Go-Get,Q3,Q3,2027,32500.0,False,Q3,False,False,False,False,False,Forward pipeline
+1145,Division 3,Customer 2,Project 40,Segment 2,Go-Get,Q3,Q3,2027,171600.0,False,Q3,False,False,False,False,False,Forward pipeline
+1146,Division 3,Customer 2,Project 41,Segment 2,Contracted (unclassified),Q3,Q3,2027,325000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1147,Division 3,Customer 24,Project 82,Segment 4,Go-Get,Q3,Q3,2027,1500000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1148,Division 3,Customer 2,Project 23,Segment 2,Go-Get,Q4,Q4,2027,150000.0,False,Q4,False,False,False,False,True,Forward pipeline
+1149,Division 3,Customer 2,Project 84,Segment 2,Go-Get,Q4,Q4,2027,150000.0,False,Q4,False,False,False,False,True,Forward pipeline
+1150,Division 3,Customer 2,Project 44,Segment 2,Executable,Q4,Q4,2027,761250.0,False,Q4,False,False,False,False,False,Forward pipeline
+1151,Division 3,Customer 2,Project 51,Segment 2,Go-Get,Q4,Q4,2027,1350000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1152,Division 3,Customer 2,Project 24,Segment 2,Contracted (unclassified),Q4,Q4,2027,540000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1153,Division 3,Customer 14,Project 25,Segment 2,Contracted (unclassified),Q4,Q4,2027,2600000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1154,Division 3,Customer 14,Project 26,Segment 2,Contracted (unclassified),Q4,Q4,2027,1105000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1155,Division 3,Customer 14,Project 27,Segment 2,Contracted (unclassified),Q4,Q4,2027,520000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1156,Division 3,Customer 14,Project 47,Segment 2,Contracted Pipeline,Q4,Q4,2027,2600000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1157,Unknown,Customer 15,Project 28,Segment 4,Contracted Pipeline,Q4,Q4,2027,2600000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1158,Division 3,Customer 21,Project 45,Segment 4,Executable,Q4,Q4,2027,975000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1159,Division 3,Customer 48,Project 81,Segment 4,Contracted Pipeline,Q4,Q4,2027,799500.0,False,Q4,False,False,False,False,False,Forward pipeline
+1160,Division 3,Customer 16,Project 29,Segment 2,Go-Get,Q4,Q4,2027,253500.0,False,Q4,False,False,False,False,False,Forward pipeline
+1161,Division 3,Customer 2,Project 48,Segment 2,Go-Get,Q4,Q4,2027,156000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1162,Division 3,Customer 2,Project 31,Segment 2,Go-Get,Q4,Q4,2027,299000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1163,Division 3,Customer 2,Project 32,Segment 2,Forecasted,Q4,Q4,2027,468000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1164,Division 3,Customer 2,Project 33,Segment 2,Go-Get,Q4,Q4,2027,403000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1165,Division 3,Customer 2,Project 34,Segment 2,Forecasted,Q4,Q4,2027,377000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1166,Division 3,Customer 2,Project 35,Segment 2,Contracted (unclassified),Q4,Q4,2027,234000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1167,Division 3,Customer 2,Project 36,Segment 2,Contracted (unclassified),Q4,Q4,2027,143000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1168,Division 3,Customer 2,Project 37,Segment 2,Contracted (unclassified),Q4,Q4,2027,84500.0,False,Q4,False,False,False,False,False,Forward pipeline
+1169,Division 3,Customer 2,Project 85,Segment 2,Forecasted,Q4,Q4,2027,32500.0,False,Q4,False,False,False,False,False,Forward pipeline
+1170,Division 3,Customer 2,Project 40,Segment 2,Go-Get,Q4,Q4,2027,171600.0,False,Q4,False,False,False,False,False,Forward pipeline
+1171,Division 3,Customer 2,Project 41,Segment 2,Contracted (unclassified),Q4,Q4,2027,325000.0,False,Q4,False,False,False,False,False,Forward pipeline
+1172,Division 3,Customer 24,Project 82,Segment 4,Go-Get,Q4,Q4,2027,1500000.0,False,Q4,False,False,False,False,False,Forward pipeline

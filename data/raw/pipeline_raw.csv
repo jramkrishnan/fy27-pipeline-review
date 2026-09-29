@@ -1,0 +1,1173 @@
+Division,Customer,Project,Segment,Under Contract,Month,Quarter,Year,Revenue
+Division 1,Customer 1,Project 1,Segment 1,YTD,Jan,Q1,2026,183530.01
+Division 1,Customer 2,Project 1,Segment 2,YTD,Jan,Q1,2026,45222.6
+Division 1,Customer 1,Project 2,Segment 1,YTD,Jan,Q1,2026,101391.37
+Division 1,Customer 1,Project 3,Segment 1,YTD,Jan,Q1,2026,40558.92
+Division 1,Customer 1,Project 4,Segment 1,YTD,Jan,Q1,2026,132640.36
+Division 1,Customer 1,Project 5,Segment 1,YTD,Jan,Q1,2026,216841.3
+Division 1,Customer 1,Project 6,Segment 1,YTD,Jan,Q1,2026,125864.02
+Division 1,Customer 3,Project 7,Segment 1,YTD,Jan,Q1,2026,40267.575
+Division 1,Customer 3,Project 8,Segment 1,YTD,Jan,Q1,2026,44703.249
+Division 1,Customer 3,Project 9,Segment 1,YTD,Jan,Q1,2026,46510.23699999999
+Division 1,Customer 4,Project 10,Segment 1,YTD,Jan,Q1,2026,14365.26
+Division 1,Customer 5,Project 11,Segment 1,YTD,Jan,Q1,2026,153122
+Division 2,Customer 6,Project 12,Segment 2,YTD,Jan,Q1,2026,710036.1
+Division 2,Customer 7,Project 13,Segment 2,YTD,Jan,Q1,2026,141814.94
+Division 2,customer 2,Project 14,Segment 2,YTD,Jan,Q1,2026,13475
+Division 2,Customer 8,Project 15,Segment 2,YTD,Jan,Q1,2026,4691.3
+Division 2,Customer 9,Project 15,Segment 1,YTD,Jan,Q1,2026,40917.41
+Division 2,Customer 1,Project 15,Segment 1,YTD,Jan,Q1,2026,48629.64
+Division 2,Customer 10,Project 15,Segment 1,YTD,Jan,Q1,2026,62343.92
+Division 2,Customer 11,Project 15,Segment 2,YTD,Jan,Q1,2026,83059.13
+Division 2,Customer 6,Project 16,Segment 2,YTD,Jan,Q1,2026,396113.09
+Division 2,Customer 7,Project 17,Segment 2,YTD,Jan,Q1,2026,924952.24
+Division 2,Customer 11,Project 18,Segment 2,YTD,Jan,Q1,2026,142576.1
+Division 2,Customer 12,Project 19,Segment 2,YTD,Jan,Q1,2026,381718.38
+Division 2,Customer 12,Project 20,Segment 2,YTD,Jan,Q1,2026,98723.81
+Division 2,Customer 12,Project 21,Segment 2,YTD,Jan,Q1,2026,347051.73
+Division 2,Customer 13,Project 22,Segment 2,YTD,Jan,Q1,2026,6702
+Division 3,Customer 2,Project 23,Segment 2,YTD,Jan,Q1,2026,149357
+Division 3,Customer 2,Project 24,Segment 2,YTD,Jan,Q1,2026,196303
+Division 3,Customer 14,Project 25,Segment 2,YTD,Jan,Q1,2026,343891.06
+Division 3,Customer 14,Project 26,Segment 2,YTD,Jan,Q1,2026,287257
+Division 3,Customer 14,Project 27,Segment 2,YTD,Jan,Q1,2026,108428
+Division 3,Customer 15,Project 28,Segment 4,YTD,Jan,Q1,2026,269030.0135604399
+Division 3,Customer 16,Project 29,Segment 2,YTD,Jan,Q1,2026,109710
+Division 3,Customer 2,Project 30,Segment 2,YTD,Jan,Q1,2026,11615
+Division 3,Customer 2,Project 31,Segment 2,YTD,Jan,Q1,2026,59764.92
+Division 3,Customer 2,Project 32,Segment 2,YTD,Jan,Q1,2026,127898.81
+Division 3,Customer 2,Project 33,Segment 2,YTD,Jan,Q1,2026,45741.43
+Division 3,Customer 2,Project 34,Segment 2,YTD,Jan,Q1,2026,52180.39
+Division 3 ,Customer 2,Project 35,Segment 2,YTD,Jan,Q1,2026,55369.53999999999
+Division 3,Customer 2,Project 36,Segment 2,YTD,Jan,Q1,2026,32749.25999999999
+Division 3,Customer 2,Project 37,Segment 2,YTD,Jan,Q1,2026,25168.68
+Division 3,Customer 17,Project 38,Segment 4,YTD,Jan,Q1,2026,22568
+Division 3,Customer 2,Project 39,Segment 2,YTD,Jan,Q1,2026,13780.15
+Division 3,Customer 2,Project 40,Segment 2,YTD,Jan,Q1,2026,45698.4
+Division 3,Customer 2,Project 41,Segment 2,YTD,Jan,Q1,2026,129342.15
+Division 1,Customer 1,Project 1,Segment 1,YTD,Feb,Q1,2026,169448.82
+Division 1,Customer 2,Project 1,Segment 2,YTD,Feb,Q1,2026,52243.6
+Division 1,Customer 1,Project 2,Segment 1,YTD,Feb,Q1,2026,232995.36
+Division 1,Customer 1,Project 3,Segment 1,YTD,Feb,Q1,2026,67732.65000000001
+Division 1,Customer 1,Project 4,Segment 1,YTD,Feb,Q1,2026,177591.48
+Division 1,Customer 1,Project 5,Segment 1,YTD,Feb,Q1,2026,136397.12
+Division 1,Customer 1,Project 6,Segment 1,YTD,Feb,Q1,2026,159459.61
+Division 1,Customer 3,Project 7,Segment 1,YTD,Feb,Q1,2026,3395.25
+Division 1,Customer 3,Project 8,Segment 1,YTD,Feb,Q1,2026,27314.391
+Division 1,Customer 3,Project 9,Segment 1,YTD,Feb,Q1,2026,52804.521
+Division 1,Customer 4,Project 10,Segment 1,YTD,Feb,Q1,2026,196.56
+Division 1,Customer 5,Project 11,Segment 1,YTD,Feb,Q1,2026,112653.4
+Division 2,Customer 6,Project 12,Segment 2,YTD,Feb,Q1,2026,1221177.8
+Division 2,Customer 7,Project 13,Segment 2,YTD,Feb,Q1,2026,110092
+Division 2,Customer 8,Project 15,Segment 2,YTD,Feb,Q1,2026,32623.92
+Division 2,Customer 9,Project 15,Segment 1,YTD,Feb,Q1,2026,43858.33
+Division 2,Customer 1,Project 15,Segment 1,YTD,Feb,Q1,2026,47280.99
+Division 2,Customer 10,Project 15,Segment 1,YTD,Feb,Q1,2026,62352.75
+Division 2,Customer 11,Project 15,Segment 2,YTD,Feb,Q1,2026,88569.02
+Division 2,Customer 6,Project 16,Segment 2,YTD,Feb,Q1,2026,73844.44
+Division 2,Customer 7,Project 17,Segment 2,YTD,Feb,Q1,2026,824541.36
+Division 2,Customer 11,Project 18,Segment 2,YTD,Feb,Q1,2026,63338.81
+Division 2,Customer 12,Project 19,Segment 2,YTD,Feb,Q1,2026,416253.53
+Division 2,Customer 12,Project 20,Segment 2,YTD,Feb,Q1,2026,119435.72
+Division 2,Customer 12,Project 21,Segment 2,YTD,Feb,Q1,2026,"412,486"
+Division 2,Customer 13,Project 22,Segment 2,YTD,Feb,Q1,2026,59683.1
+Division 2,Customer 18,Project 18,Segment 2,YTD,Feb,Q1,2026,9020
+Division 3,Customer 2,Project 23,Segment 2,YTD,Feb,Q1,2026,24304.02
+Division 3,Customer 2,Project 24,Segment 2,YTD,Feb,Q1,2026,173917.4
+Division 3,Customer 14,Project 25,Segment 2,YTD,Feb,Q1,2026,648477.46
+Division 3,Customer 14,Project 26,Segment 2,YTD,Feb,Q1,2026,314823.9
+Division 3,Customer 14,Project 27,Segment 2,YTD,Feb,Q1,2026,104258.65
+Division 3,Customer 15,Project 28,Segment 4,YTD,Feb,Q1,2026,588130.8000000004
+Division 3,Customer 19,Project 42,Segment 2,YTD,Feb,Q1,2026,74016
+Division 3,Customer 16,Project 29,Segment 2,YTD,Feb,Q1,2026,46609
+Division 3,Customer 16,Project 43,Segment 2,YTD,Feb,Q1,2026,110000
+Division 3,Customer 2,Project 30,Segment 2,YTD,Feb,Q1,2026,10907.25
+Division 3,Customer 2,Project 31,Segment 2,YTD,Feb,Q1,2026,77284.21
+Division 3,Customer 2,Project 32,Segment 2,YTD,Feb,Q1,2026,157349.09
+Division 3,Customer 2,Project 33,Segment 2,YTD,Feb,Q1,2026,56530.02
+Division 3,Customer 2,Project 34,Segment 2,YTD,Feb,Q1,2026,93454.83
+Division 3,Customer 2,Project 35,Segment 2,YTD,Feb,Q1,2026,81763.18
+Division 3,Customer 2,Project 36,Segment 2,YTD,Feb,Q1,2026,36517.53
+Division 3,Customer 2,Project 37,Segment 2,YTD,Feb,Q1,2026,27746.46
+Division 3,Customer 17,Project 38,Segment 4,YTD,Feb,Q1,2026,30070.05
+Division 3,Customer 2,Project 39,Segment 2,YTD,Feb,Q1,2026,26092.68
+Division 3,Customer 2,Project 40,Segment 2,YTD,Feb,Q1,2026,53314.8
+Division 3,Customer 2,Project 41,Segment 2,YTD,Feb,Q1,2026,148582.63
+Division 1,Customer 1,Project 1,Segment 1,YTD,Mar,Q1,2026,244570.01
+Division 1,Customer 2,Project 1,Segment 2,YTD,Mar,Q1,2026,39560
+Division 1,Customer 1,Project 2,Segment 1,YTD,Mar,Q1,2026,495693.66
+Division 1,Customer 1,Project 3,Segment 1,YTD,Mar,Q1,2026,112835.13
+Division 1,Customer 1,Project 4,Segment 1,YTD,Mar,Q1,2026,172575.44
+Division 1,Customer 1,Project 5,Segment 1,YTD,Mar,Q1,2026,265707.18
+Division 1,Customer 1,Project 6,Segment 1,YTD,Mar,Q1,2026,271804.1799999999
+Division 1,Customer 3,Project 7,Segment 1,YTD,Mar,Q1,2026,57428.595
+Division 1,Customer 3,Project 8,Segment 1,YTD,Mar,Q1,2026,67042.39899999999
+Division 1,Customer 3,Project 9,Segment 1,YTD,Mar,Q1,2026,50810.40000000001
+Division 1,Customer 4,Project 10,Segment 1,YTD,Mar,Q1,2026,12542.21
+Division 1,Customer 5,Project 11,Segment 1,YTD,Mar,Q2,2026,225313.65
+Division 2,Customer 6,Project 12,Segment 2,YTD,Mar,Q1,2026,1078913.22
+Division 2,Customer 7,Project 13,Segment 2,YTD,Mar,Q1,2026,228859.72
+Division 2,Customer 8,Project 15,Segment 2,YTD,Mar,Q1,2026,-4691.3
+Division 2,Customer 9,Project 15,Segment 1,YTD,Mar,Q1,2026,27707
+Division 2,Customer 1,Project 15,Segment 1,YTD,Mar,Q1,2026,82190.68
+Division 2,Customer 10,Project 15,Segment 1,YTD,Mar,Q1,2026,84450
+Division 2,Customer 11,Project 15,Segment 2,YTD,Mar,Q1,2026,111372.48
+Division 2,Customer 6,Project 16,Segment 2,YTD,Mar,Q1,2026,421929.8
+Division 2,Customer 7,Project 17,Segment 2,YTD,Mar,Q1,2026,345553.33
+Division 2,Customer 11,Project 18,Segment 2,YTD,Mar,Q1,2026,-5077.23
+Division 2,Customer 20,Project 18,Segment 2,YTD,Mar,Q1,2026,29156.8
+Division 2,Customer 12,Project 19,Segment 2,YTD,Mar,Q1,2026,603779.84
+Division 2,Customer 12,Project 20,Segment 2,YTD,Mar,Q1,2026,190253.13
+Division 2,Customer 12,Project 21,Segment 2,YTD,Mar,Q1,2026,426733.01
+Division 2,Customer 13,Project 22,Segment 2,YTD,Mar,Q1,2026,14139.44
+Division 2,Customer 18,Project 18,Segment 2,YTD,Mar,Q1,2026,131484
+Division 3,Customer 2,Project 23,Segment 2,YTD,Mar,Q1,2026,149822.42
+Division 3,Customer 2,Project 44,Segment 2,YTD,Mar,Q1,2026,45000
+Division 3,Customer 2,Project 24,Segment 2,YTD,Mar,Q1,2026,321386.32
+Division 3,Customer 14,Project 25,Segment 2,YTD,Mar,Q1,2026,957318.26
+Division 3,Customer 14,Project 26,Segment 2,YTD,Mar,Q1,2026,524147.05
+Division 3,Customer 14,Project 27,Segment 2,YTD,Mar,Q1,2026,190209.05
+Division 3 ,Customer 15,Project 28,Segment 4,YTD,Mar,Q1,2026,764173.6800000004
+Division 3,Customer 21,Project 45,Segment 4,YTD,Mar,Q1,2026,112346.12
+Division 3,Customer 16,Project 29,Segment 2,YTD,Mar,Q1,2026,55306
+Division 3,Customer 16,Project 43,Segment 2,YTD,Mar,Q1,2026,458931.88
+Division 3,Customer 2,Project 30,Segment 2,YTD,Mar,Q1,2026,10038.97000000003
+Division 3,Customer 2,Project 31,Segment 2,YTD,Mar,Q1,2026,111084.36
+Division 3,Customer 2,Project 32,Segment 2,YTD,Mar,Q1,2026,202259.02
+Division 3,Customer 2,Project 33,Segment 2,YTD,Mar,Q1,2026,67464.98999999999
+Division 3 ,Customer 2,Project 34,Segment 2,YTD,Mar,Q1,2026,109160.23
+Division 3,Customer 2,Project 35,Segment 2,YTD,Mar,Q1,2026,119671.43
+Division 3,Customer 2,Project 36,Segment 2,YTD,Mar,Q1,2026,49953.91
+Division 3,Customer 2,Project 37,Segment 2,YTD,Mar,Q1,2026,45081.03
+Division 3,Customer 17,Project 38,Segment 4,YTD,Mar,Q1,2026,30999.4
+Division 3,Customer 2,Project 39,Segment 2,YTD,Mar,Q1,2026,20458.96
+Division 3,Customer 2,Project 40,Segment 2,YTD,Mar,Q1,2026,69240
+Division 3,Customer 2,Project 41,Segment 2,YTD,Mar,Q1,2026,130560.97
+Division 1,Customer 1,Project 1,Segment 1,YTD,Apr,Q2,2026,213785.44
+Division 1,Customer 2,Project 1,Segment 2,YTD,Apr,Q2,2026,65075.9
+Division 1,Customer 1,Project 2,Segment 1,YTD,Apr,Q2,2026,346858.43
+Division 1,Customer 1,Project 3,Segment 1,YTD,Apr,Q2,2026,107367.05
+Division 1,Customer 1,Project 4,Segment 1,YTD,Apr,Q2,2026,151032.14
+Division 1,Customer 1,Project 5,Segment 1,YTD,Apr,Q2,2026,267409.64
+Division 1,Customer 1,Project 6,Segment 1,YTD,Apr,Q2,2026,242487.15
+Division 1,Customer 3,Project 7,Segment 1,YTD,Apr,Q2,2026,122424.63
+Division 1,Customer 3,Project 8,Segment 1,YTD,Apr,Q2,2026,48260.736
+Division 1,Customer 3,Project 9,Segment 1,YTD,Apr,Q2,2026,45029.45
+Division 1,Customer 4,Project 10,Segment 1,YTD,Apr,Q2,2026,93338.07740000001
+Division 1,Customer 5,Project 11,Segment 1,YTD,Apr,Q2,2026,128455.25
+Division 2,Customer 6,Project 12,Segment 2,YTD,Apr,Q2,2026,778872.58
+Division 2,Customer 7,Project 13,Segment 2,YTD,Apr,Q2,2026,310874.41
+Division 2,customer 2,Project 14,Segment 2,YTD,Apr,Q2,2026,52564.99999999953
+Division 2,Customer 8,Project 15,Segment 2,YTD,Apr,Q2,2026,43750
+Division 2,Customer 9,Project 15,Segment 1,YTD,Apr,Q2,2026,560
+Division 2,Customer 1,Project 15,Segment 1,YTD,Apr,Q2,2026,70957.68
+Division 2,Customer 10,Project 15,Segment 1,YTD,Apr,Q2,2026,13508.5
+Division 2,Customer 11,Project 15,Segment 2,YTD,Apr,Q2,2026,27318.21
+Division 2,Customer 6,Project 16,Segment 2,YTD,Apr,Q2,2026,385451.71
+Division 2,Customer 7,Project 17,Segment 2,YTD,Apr,Q2,2026,534963.93
+Division 2,Customer 11,Project 18,Segment 2,YTD,Apr,Q2,2026,12596.7
+Division 2,Customer 12,Project 19,Segment 2,YTD,Apr,Q2,2026,505591.29
+Division 2,Customer 12,Project 20,Segment 2,YTD,Apr,Q2,2026,139259.35
+Division 2,Customer 12,Project 21,Segment 2,YTD,Apr,Q2,2026,602321.8200000001
+Division 2,Customer 13,Project 22,Segment 2,YTD,Apr,Q2,2026,273.36
+Division 2,Customer 18,Project 18,Segment 2,YTD,Apr,Q2,2026,19104
+Division 3,Customer 2,Project 23,Segment 2,YTD,Apr,Q2,2026,13203.28
+Division 3,Customer 2,Project 44,Segment 2,YTD,Apr,Q2,2026,15000
+Division 3,Customer 2,Project 24,Segment 2,YTD,Apr,Q2,2026,330377.8
+Division 3,Customer 14,Project 25,Segment 2,YTD,Apr,Q2,2026,578783.49
+Division 3,Customer 14,Project 26,Segment 2,YTD,Apr,Q2,2026,404907.45
+Division 3,Customer 14,Project 27,Segment 2,YTD,Apr,Q2,2026,100645.85
+Division 3,Customer 15,Project 28,Segment 4,YTD,Apr,Q2,2026,810610.1299999999
+Division 3,Customer 21,Project 45,Segment 4,YTD,Apr,Q2,2026,288924.61
+Division 3,Customer 19,Project 42,Segment 2,YTD,Apr,Q2,2026,40447
+Division 3,Customer 16,Project 29,Segment 2,YTD,Apr,Q2,2026,144080
+Division 3,Customer 16,Project 43,Segment 2,YTD,Apr,Q2,2026,402194.28
+Division 3,Customer 2,Project 30,Segment 2,YTD,Apr,Q2,2026,7598.53
+Division 3,Customer 2,Project 31,Segment 2,YTD,Apr,Q2,2026,92739.46
+Division 3,Customer 2,Project 32,Segment 2,YTD,Apr,Q2,2026,163229.69
+Division 3,Customer 2,Project 33,Segment 2,YTD,Apr,Q2,2026,55164.96000000001
+Division 3,Customer 2,Project 34,Segment 2,YTD,Apr,Q2,2026,92095.94999999997
+Division 3,Customer 2,Project 35,Segment 2,YTD,Apr,Q2,2026,69953.58
+Division 3,Customer 2,Project 36,Segment 2,YTD,Apr,Q2,2026,37477.86
+Division 3,Customer 2,Project 37,,YTD,Apr,Q2,2026,22367.88
+Division 3,Customer 17,Project 38,Segment 4,YTD,Apr,Q2,2026,32112.5
+Division 3,Customer 2,Project 39,Segment 2,YTD,Apr,Q2,2026,12154.75
+Division 3,Customer 2,Project 40,Segment 2,YTD,Apr,Q2,2026,52160.8
+Division 3,Customer 2,Project 41,Segment 2,YTD,Apr,Q2,2026,120794.5
+Division 1,Customer 1,Project 1,Segment 1,YTD,May,Q2,2026,340556.64
+Division 1,Customer 2,Project 1,Segment 2,YTD,May,Q2,2026,255903.4
+Division 1,Customer 1,Project 2,Segment 1,YTD,May,Q2,2026,378028.05
+Division 1,Customer 1,Project 3,Segment 1,YTD,May,Q2,2026,61214.01000000001
+Division 1,Customer 1,Project 4,Segment 1,YTD,May,Q1,2026,231562.22
+Division 1,Customer 1,Project 5,Segment 1,YTD,May,Q2,2026,180832.05
+Division 1,Customer 1,Project 6,Segment 1,YTD,May,Q2,2026,305958.9
+Division 1,Customer 3,Project 7,Segment 1,YTD,May,Q2,2026,83679.57
+Division 1,Customer 3,Project 8,Segment 1,YTD,May,Q2,2026,83063.47
+Division 1,Customer 3,Project 9,Segment 1,YTD,May,Q2,2026,21359.48
+Division 1,Customer 4,Project 10,Segment 1,YTD,May,Q2,2026,102485.6002
+Division 1,Customer 5,Project 11,Segment 1,YTD,May,Q2,2026,189391.6
+Division 2,Customer 6,Project 12,Segment 2,YTD,May,Q1,2026,705649.3500000001
+Division 2,Customer 7,Project 13,Segment 2,YTD,May,Q2,2026,144593
+Division 2,Customer 7,Project 17,Segment 2,YTD,May,Q2,2026,-1250000
+Division 2,customer 2,Project 14,Segment 2,YTD,May,Q2,2026,55685.58999999985
+Division 2,Customer 1,Project 15,Segment 1,YTD,May,Q2,2026,33059.62
+Division 2,Customer 10,Project 15,Segment 1,YTD,May,Q2,2026,29526.32
+Division 2,Customer 11,Project 15,Segment 2,YTD,May,Q2,2026,33778.25
+Division 2,Customer 6,Project 16,Segment 2,YTD,May,Q2,2026,292135.35
+Division 2,Customer 7,Project 17,Segment 2,YTD,May,Q2,2026,285760
+Division 2,Customer 11,Project 18,Segment 2,YTD,May,Q2,2026,33132.06
+Division 2,Customer 12,Project 19,Segment 2,YTD,May,Q2,2026,526097.93
+Division 2,Customer 12,Project 20,Segment 2,YTD,May,Q2,2026,139351
+Division 2,Customer 12,Project 21,Segment 2,YTD,May,Q2,2026,429784
+Division 2,Customer 13,Project 22,Segment 2,YTD,May,Q2,2026,34838
+Division 2,Customer 18,Project 18,Segment 2,YTD,May,Q2,2026,67191.505
+Division 2,Customer 18,Project 46,Segment 2,YTD,May,Q2,2026,37382.495
+Division 3,Customer 2,Project 23,Segment 2,YTD,May,Q2,2026,53553.95
+Division 3,Customer 2,Project 44,Segment 2,YTD,May,Q2,2026,571101.8
+Division 3,Customer 2,Project 24,Segment 2,YTD,May,Q2,2026,468482.68
+Division 3,Customer 14,Project 25,Segment 2,YTD,May,Q2,2026,704577.48
+Division 3,Customer 14,Project 26,Segment 2,YTD,May,Q2,2026,409116
+Division 3,Customer 14,Project 27,Segment 2,YTD,May,Q2,2026,56006.3
+Division 3,Customer 14,Project 47,Segment 2,YTD,May,Q2,2026,126977.55
+Division 3,Customer 15,Project 28,Segment 4,YTD,May,Q2,2026,1428590.439121836
+Division 3,Customer 21,Project 45,Segment 4,YTD,May,Q2,2026,149508.31
+Division 3,Customer 19,Project 42,Segment 2,YTD,May,Q2,2026,2062751.5
+Division 3,Customer 16,Project 29,Segment 2,YTD,May,Q2,2026,66531.5
+Division 3,Customer 16,Project 43,Segment 2,YTD,May,Q2,2026,474390.32
+Division 3,Customer 2,Project 30,Segment 2,YTD,May,Q2,2026,13971.10000000003
+Division 3,Customer 2,Project 48,Segment 2,YTD,May,Q2,2026,2043.2
+Division 3,Customer 2,Project 31,Segment 2,YTD,May,Q2,2026,91383.83000000002
+Division 3,Customer 2,Project 32,Segment 2,YTD,May,Q2,2026,148234.77
+Division 3,Customer 2,Project 33,Segment 2,YTD,May,Q2,2026,88977.83
+Division 3,Customer 2,Project 34,Segment 2,YTD,May,Q2,2026,125650
+Division 3,Customer 2,Project 35,Segment 2,YTD,May,Q2,2026,65680.53
+Division 3,Customer 2,Project 36,Segment 2,YTD,May,Q2,2026,31643.48
+Division 3 ,Customer 2,Project 37,Segment 2,YTD,May,Q2,2026,36079.45
+Division 3,Customer 17,Project 38,Segment 4,YTD,May,Q2,2026,28437.85
+Division 3,Customer 14,Project 49,Segment 2,YTD,May,Q2,2026,17596.04
+Division 3,Customer 2,Project 39,Segment 2,YTD,May,Q2,2026,2772
+Division 3,Customer 2,Project 40,Segment 2,YTD,May,Q2,2026,55392
+Division 3,Customer 2,Project 41,Segment 2,YTD,May,Q2,2026,90588.93000000001
+Division 1,Customer 1,Project 1,Segment 1,YTD,Jun,Q2,2026,258994.3
+Division 1,Customer 2,Project 1,Segment 2,YTD,Jun,Q2,2026,56075.4
+Division 1,Customer 1,Project 2,Segment 1,YTD,Jun,Q2,2026,748290.47
+Division 1,Customer 1,Project 3,Segment 1,YTD,Jun,Q2,2026,143875.01
+Division 1,Customer 1,Project 4,Segment 1,YTD,Jun,Q2,2026,223920.02
+Division 1,Customer 1,Project 5,Segment 1,YTD,Jun,Q2,2026,203886.24
+Division 1,Customer 1,Project 6,Segment 1,YTD,Jun,Q2,2026,356543.657
+Division 1,Customer 3,Project 7,Segment 1,YTD,Jun,Q2,2026,37023.75
+Division 1,Customer 3,Project 8,Segment 1,YTD,Jun,Q2,2026,117641.108
+Division 1,Customer 4,Project 10,Segment 1,YTD,Jun,Q2,2026,124747.7078
+Division 1,Customer 5,Project 11,Segment 1,YTD,Jun,Q2,2026,183566.36
+Division 2,Customer 6,Project 12,Segment 2,YTD,Jun,Q2,2026,874556.55
+Division 2,Customer 7,Project 13,Segment 2,YTD,Jun,Q2,2026,4266.24
+Division 2,customer 2,Project 14,Segment 2,YTD,Jun,Q2,2026,28436.71999999974
+Division 2,Customer 9,Project 15,Segment 1,YTD,Jun,Q2,2026,17680.47
+Division 2,Customer 1,Project 15,Segment 1,YTD,Jun,Q2,2026,36558.37
+Division 2,Customer 10,Project 15,Segment 1,YTD,Jun,Q2,2026,74295.3
+Division 2,Customer 11,Project 15,Segment 2,YTD,Jun,Q2,2026,80545
+Division 2,Customer 6,Project 16,Segment 2,YTD,Jun,Q2,2026,243284.58
+Division 2,Customer 18,Project 18,Segment 2,YTD,Jun,Q2,2026,9020
+Division 2,Customer 7,Project 17,Segment 2,YTD,Jun,Q2,2026,184340
+Division 2,Customer 20,Project 18,Segment 2,YTD,Jun,Q2,2026,16415
+Division 2,Customer 12,Project 19,Segment 2,YTD,Jun,Q2,2026,595778.9099999999
+Division 2,Customer 12,Project 20,Segment 2,YTD,Jun,Q2,2026,179014.4
+Division 2,Customer 12,Project 21,Segment 2,YTD,Jun,Q2,2026,480913.29
+Division 2,Customer 13,Project 22,Segment 2,YTD,Jun,Q2,2026,13080
+Division 2,Customer 22,Project 50,Segment 2,YTD,Jun,Q2,2026,749384.46
+Division 2,Customer 18,Project 18,Segment 2,YTD,Jun,Q2,2026,79904.125
+Division 2,Customer 18,Project 46,Segment 2,YTD,Jun,Q2,2026,37382.495
+Division 3,Customer 2,Project 44,Segment 2,YTD,Jun,Q2,2026,821358.7000000002
+Division 3,Customer 2,Project 51,Segment 2,YTD,Jun,Q2,2026,546428.3099999999
+Division 3,Customer 2,Project 24,Segment 2,YTD,Jun,Q2,2026,209762.41
+Division 3,Customer 14,Project 25,Segment 2,YTD,Jun,Q2,2026,418815.84
+Division 3,Customer 14,Project 26,Segment 2,YTD,Jun,Q2,2026,559828.4
+Division 3,Customer 14,Project 27,Segment 2,YTD,Jun,Q2,2026,370184.25
+Division 3,Customer 15,Project 28,Segment 4,YTD,Jun,Q2,2026,1012043.960000002
+Division 3,Customer 21,Project 45,Segment 4,YTD,Jun,Q2,2026,716747.91
+Division 3,Customer 23,Project 52,Segment 2,YTD,Jun,Q2,2026,129392.5
+Division 3,Customer 23,Project 53,Segment 2,YTD,Jun,Q2,2026,211003.75
+Division 3,Customer 19,Project 42,Segment 2,YTD,Jun,Q2,2026,708848.14
+Division 3,Customer 19,Project 54,Segment 2,YTD,Jun,Q2,2026,193558.41
+Division 3,Customer 16,Project 29,Segment 2,YTD,Jun,Q2,2026,75006
+Division 3,Customer 16,Project 43,Segment 2,YTD,Jun,Q2,2026,299226.77
+Division 3,Customer 2,Project 30,Segment 2,YTD,Jun,Q2,2026,41451.28999999996
+Division 3,Customer 2,Project 48,Segment 2,YTD,Jun,Q2,2026,938.8799999999999
+Division 3,Customer 2,Project 31,Segment 2,YTD,Jun,Q2,2026,121006.03
+Division 3,Customer 2,Project 32,Segment 2,YTD,Jun,Q2,2026,185093.5
+Division 3,Customer 2,Project 33,Segment 2,YTD,Jun,Q2,2026,151537.25
+Division 3,Customer 2,Project 34,Segment 2,YTD,Jun,Q2,2026,154722.81
+Division 3,Customer 2,Project 35,Segment 2,YTD,Jun,Q2,2026,88689.40000000001
+Division 3,Customer 2,Project 36,Segment 2,YTD,Jun,Q2,2026,49907.88
+Division 3,Customer 2,Project 37,Segment 2,YTD,Jun,Q2,2026,46988.8
+Division 3,Customer 17,Project 38,Segment 4,YTD,Jun,Q2,2026,26033.4
+Division 3,Customer 2,Project 40,Segment 2,YTD,Jun,Q2,2026,64162.4
+Division 3,Customer 2,Project 41,Segment 2,YTD,Jun,Q2,2026,136519.93
+Division 1,Customer 1,Project 1,Segment 1,Executable,Jul,Q3,2026,175000
+Division 1,Customer 2,Project 1,Segment 2,Executable,Jul,Q3,2026,75000
+Division 1,Customer 1,Project 2,Segment 1,Executable ,Jul,Q3,2026,600000
+Division 1,Customer 1,Project 3,Segment 1,Executable,Jul,Q3,2026,80000
+Division 1,Customer 1,Project 4,Segment 1,Executable,Jul,Q3,2026,140000
+Division 1,Customer 1,Project 5,Segment 1,Executable,Jul,Q3,2026,200000
+Division 1,Customer 1,Project 6,Segment 1,Executable,Jul,Q3,2026,250000
+Division 1,Customer 3,Project 7,Segment 1,Executable,Jul,Q3,2026,60000
+Division 1,Customer 3,Project 8,Segment 1,Executable,Jul,Q3,2026,45000
+Division 1,Customer 4,Project 10,Segment 1,Go Get,Jul,Q3,2026,50000
+Division 1,Customer 5,Project 11,Segment 1,Executable,Jul,Q3,2026,120000
+Division 2,Customer 6,Project 12,Segment 2,Executable ,Jul,Q3,2026,385000
+Division 2,Customer 8,Project 15,Segment 2,Executable,Jul,Q3,2026,40000
+Division 2,Customer 9,Project 15,Segment 1,Executable,Jul,Q3,2026,44000
+Division 2,Customer 1,Project 15,Segment 1,Executable,Jul,Q3,2026,60000
+Division 2,Customer 6,Project 55,Segment 2,Contracted,Jul,Q3,2026,25000
+Division 2,Customer 6,Project 56,Segment 2,Executable,Jul,Q3,2026,34000
+Division 2,Customer 6,Project 57,Segment 2,Executable,Jul,Q3,2026,45000
+Division 2,Customer 6,Project 16,,Executable,Jul,Q3,2026,160000
+Division 2,Customer 12,Project 19,Segment 2,Executable,Jul,Q3,2026,500000
+Division 2,Customer 12,Project 20,Segment 2,Executable,Jul,Q3,2026,150000
+Division 2,Customer 12,Project 21,Segment 2,Executable,Jul,Q3,2026,"430,000"
+Division 2,Customer 13,Project 22,Segment 2,Go Get,Jul,Q3,2026,10000
+Division 2,Customer 22,Project 50,Segment 2,Executable,Jul,Q3,2026,840000
+Division 2,Customer 18,Project 18,Segment 2,Executable,Jul,Q3,2026,106000
+Division 1,Customer 1,Project 1,Segment 1,Executable,Aug,Q3,2026,125000
+Division 1,Customer 2,Project 1,Segment 2,Executable,Aug,Q3,2026,75000
+Division 1,Customer 1,Project 2,Segment 1,Executable,Aug,Q3,2026,600000
+Division 1,Customer 1,Project 3,Segment 1,Executable,Aug,Q3,2026,80000
+Division 1,Customer 1,Project 4,Segment 1,Executable,Aug,Q3,2026,140000
+Division 1,Customer 1,Project 5,Segment 1,Executable,Aug,Q3,2026,200000
+Division 1,Customer 1,Project 6,Segment 1,Executable,Aug,Q3,2026,250000
+Division 1,Customer 3,Project 7,Segment 1,Executable,Aug,Q3,2026,60000
+Division 1,Customer 3,Project 8,Segment 1,Go Get,Aug,Q3,2026,45000
+Division 1,Customer 4,Project 10,Segment 1,Forecasted,Aug,Q3,2026,40000
+Division 1,Customer 5,Project 11,Segment 1,Contracted,Aug,Q3,2026,80000
+Division 1,Customer 5,Project 11,Segment 1,Forecasted,Aug,Q3,2026,40000
+Division 2,Customer 6,Project 12,Segment 2,Executable,Aug,Q3,2026,385000
+Division 2,Customer 2,Project 14,Segment 2,Executable,Aug,Q3,2026,23000
+Division 2,Customer 8,Project 15,Segment 2,Forecasted,Aug,Q3,2026,20000
+Division 2,Customer 9,Project 15,Segment 1,Forecasted,Aug,Q3,2026,44000
+Division 2,Customer 1,Project 15,Segment 1,Executable,Aug,Q3,2026,60000
+Division 2,Customer 6,Project 55,Segment 2,Go Get,Aug,Q3,2026,10000
+Division 2,Customer 6,Project 56,Segment 2,Executable,Aug,Q3,2026,34000
+Division 2,Customer 6,Project 57,Segment 2,Executable,Aug,Q3,2026,12000
+Division 2,Customer 6,Project 16,Segment 2,Executable,Aug,Q3,2026,247000
+Division 2,Customer 12,Project 19,Segment 2,Forecasted,Aug,Q3,2026,500000
+Division 2,Customer 12,Project 20,Segment 2,Forecasted,Aug,Q3,2026,175000
+Division 2,Customer 12,Project 21,Segment 2,Forecasted,Aug,Q3,2026,300000
+Division 2,Customer 13,Project 22,Segment 2,Go Get,Aug,Q3,2026,10000
+Division 2,Customer 22,Project 50,Segment 2,Executable,Aug,Q3,2026,1040000
+Division 2,Customer 18,Project 18,Segment 2,Executable,Aug,Q3,2026,106000
+Division 2,Customer 18,Project 46,Segment 2,Go Get,Aug,Q3,2026,250000
+Division 2,Customer 18,Project 58,,Forecasted,Aug,Q3,2026,40000
+Division 2,Customer 6,Project 59,Segment 2,Go Get,Aug,Q3,2026,90909.09090909091
+Division 1,Customer 1,Project 1,Segment 1,Contracted,Sep,Q3,2026,150000
+Division 1,Customer 2,Project 1,Segment 2,Executable,Sep,Q3,2026,75000
+Division 1,Customer 1,Project 2,Segment 1,Contracted,Sep,Q3,2026,600000
+Division 1,Customer 1,Project 3,Segment 1,Forecasted,Sep,Q3,2026,75000
+Division 1,Customer 1,Project 4,Segment 1,Contracted,Sep,Q3,2026,70000
+Division 1,Customer 1,Project 4,Segment 1,Go Get,Sep,Q3,2026,50000
+Division 1,Customer 1,Project 5,Segment 1,Contracted,Sep,Q3,2026,250000
+Division 1,Customer 1,Project 6,Segment 1,Contracted,Sep,Q3,2026,150000
+Division 1,Customer 1,Project 6,Segment 1,Go Get,Sep,Q3,2026,130000
+Division 1,Customer 3,Project 7,Segment 1,Executable,Sep,Q3,2026,75000
+Division 1,Customer 3,Project 8,Segment 1,Forecasted,Sep,Q3,2026,60000
+Division 1,Customer 4,Project 10,Segment 1,Forecasted,Sep,Q3,2026,50000
+Division 1,Customer 5,Project 11,Segment 1,Forecasted,Sep,Q3,2026,140000
+Division 2,Customer 6,Project 12,Segment 2,Executable,Sep,Q3,2026,276000
+Division 2,customer 2,Project 14,Segment 2,Executable,Sep,Q3,2026,29000
+Division 2,Customer 8,Project 15,Segment 2,Go Get,Sep,Q3,2026,25000
+Division 2,Customer 9,Project 15,Segment 1,Forecasted,Sep,Q3,2026,54000
+Division 2,Customer 1,Project 15,Segment 1,Executable,Sep,Q3,2026,75000
+Division 2,Customer 6,Project 55,Segment 2,Forecasted,Sep,Q3,2026,15000
+Division 2,Customer 6,Project 56,Segment 2,Executable,Sep,Q3,2026,42000
+Division 2,Customer 6,Project 57,Segment 2,Executable,Sep,Q3,2026,13000
+Division 2,Customer 6,Project 16,Segment 2,Executable,Sep,Q3,2026,287000
+Division 2,Customer 12,Project 19,Segment 2,Forecasted,Sep,Q3,2026,596000
+Division 2,Customer 12,Project 20,Segment 2,Go Get,Sep,Q3,2026,250000
+Division 2,Customer 12,Project 21,Segment 2,Forecasted,Sep,Q3,2026,375000
+Division 2,Customer 13,Project 22,Segment 2,Go Get,Sep,Q3,2026,10000
+Division 2,Customer 22,Project 50,Segment 2,Executable,Sep,Q3,2026,1483666.666666667
+Division 2,Customer 18,Project 18,Segment 2,Executable,Sep,Q3,2026,133000
+Division 2,Customer 18,Project 46,Segment 2,Forecasted,Sep,Q3,2026,250000
+Division 2,Customer 18,Project 58,Segment 2,Go Get,Sep,Q3,2026,40000
+Division 2,Customer 6,Project 60,Segment 2,Contracted,Sep,Q3,2026,710000
+Division 2,Customer 6,Project 61,Segment 2,Forecasted,Sep,Q3,2026,150000
+Division 2,Customer 6,Project 59,Segment 2,Go Get,Sep,Q3,2026,90909.09090909091
+Division 1,Customer 1,Project 1,Segment 1,Go Get,Oct,Q4,2026,150000
+Division 1,Customer 2,Project 1,Segment 2,Executable,Oct,Q4,2026,50000
+Division 1,Customer 1,Project 2,Segment 1,Contracted,Oct,Q4,2026,500000
+Division 1,Customer 1,Project 3,Segment 1,Go Get,Oct,Q4,2026,65000
+Division 1,Customer 1,Project 4,Segment 1,Forecasted,Oct,Q4,2026,150000
+Division 1,Customer 1,Project 5,Segment 1,Forecasted,Oct,Q4,2026,200000
+Division 1,Customer 1,Project 6,Segment 1,Go Get,Oct,Q4,2026,200000
+Division 1,Customer 3,Project 7,Segment 1,Contracted,Oct,Q4,2026,30000
+Division 1,Customer 3,Project 7,Segment 1,Forecasted,Oct,Q4,2026,15000
+Division 1,Customer 3,Project 8,Segment 1,Go Get,Oct,Q4,2026,45000
+Division 1,Customer 4,Project 10,Segment 1,Forecasted,Oct,Q4,2026,50000
+Division 1,Customer 5,Project 11,Segment 1,Forecasted,Oct,Q4,2026,100000
+Division 2,Customer 2,Project 14,Segment 2,Executable ,Oct,Q4,2026,23000
+Division 2,Customer 8,Project 15,Segment 2,Go Get,Oct,Q4,2026,20000
+Division 2,Customer 9,Project 15,Segment 1,Forecasted,Oct,Q4,2026,44000
+Division 2,Customer 1,Project 15,Segment 1,Executable ,Oct,Q4,2026,54000
+Division 2,Customer 6,Project 55,Segment 2,Forecasted,Oct,Q4,2026,10000
+Division 2,Customer 6,Project 56,Segment 2,Executable,Oct,Q4,2026,34000
+Division 2,Customer 12,Project 19,Segment 2,Forecasted,Oct,Q4,2026,500000
+Division 2,Customer 12,Project 20,Segment 2,Go Get,Oct,Q4,2026,192500
+Division 2,Customer 12,Project 21,Segment 2,Forecasted,Oct,Q4,2026,300000
+Division 2,Customer 13,Project 22,Segment 2,Forecasted,Oct,Q4,2026,10000
+Division 2,Customer 22,Project 50,Segment 2,Executable,Oct,Q4,2026,1323666.666666667
+Division 2,Customer 18,Project 46,Segment 2,Go Get,Oct,Q4,2026,250000
+Division 2,Customer 18,Project 58,Segment 2,Go Get,Oct,Q4,2026,40000
+Division 2,Customer 6,Project 60,Segment 2,Contracted,Oct,Q4,2026,1136000
+Division 2,Customer 6,Project 61,Segment 2,Go Get,Oct,Q4,2026,150000
+Division 2,Customer 6,Project 59,Segment 2,Forecasted,Oct,Q4,2026,113636.3636363636
+Division 1,Customer 1,Project 1,Segment 1,Go Get,Nov,Q4,2026,150000
+Division 1,Customer 2,Project 1,Segment 2,Executable,Nov,Q4,2026,50000
+Division 1,Customer 1,Project 2,Segment 1,Go Get,Nov,Q4,2026,400000
+Division 1,Customer 1,Project 3,Segment 1,Forecasted,Nov,Q3,2026,60000
+Division 1,Customer 1,Project 4,Segment 1,Go Get,Nov,Q4,2026,150000
+Division 1,Customer 1,Project 5,Segment 1,Forecasted,Nov,Q4,2026,175000
+Division 1,Customer 1,Project 6,Segment 1,Go Get,Nov,Q4,2026,200000
+Division 1,Customer 3,Project 7,Segment 1,Go Get,Nov,Q4,2026,40000
+Division 1,Customer 3,Project 8,Segment 1,Go Get,Nov,Q4,2026,45000
+Division 1,Customer 4,Project 10,Segment 1,Go Get,Nov,Q4,2026,50000
+Division 1,Customer 5,Project 11,Segment 1,forecasted,Nov,Q4,2026,100000
+Division 2,Customer 8,Project 15,Segment 2,Go Get,Nov,Q4,2026,20000
+Division 2,Customer 9,Project 15,Segment 1,Go Get,Nov,Q4,2026,44000
+Division 2,Customer 1,Project 15,Segment 1,Executable,Nov,Q4,2026,40000
+Division 2,Customer 6,Project 55,Segment 2,Go Get,Nov,Q4,2026,10000
+Division 2,Customer 6,Project 56,Segment 2,Executable,Nov,Q4,2026,34000
+Division 2,Customer 12,Project 19,Segment 2,Forecasted,Nov,Q4,2026,500000
+Division 2,Customer 12,Project 20,Segment 2,Forecasted,Nov,Q4,2026,192500
+Division 2,Customer 12,Project 21,Segment 2,Go Get,Nov,Q4,2026,300000
+Division 2,Customer 13,Project 22,Segment 2,Forecasted,Nov,Q4,2026,10000
+Division 2,Customer 22,Project 50,Segment 2,Executable ,Nov,Q4,2026,1323282.666666667
+Division 2,Customer 18,Project 46,Segment 2,Forecasted,Nov,Q4,2026,250000
+Division 2,Customer 18,Project 58,Segment 2,Forecasted,Nov,Q4,2026,40000
+Division 2,Customer 6,Project 60,Segment 2,Contracted,Nov,Q4,2026,1136000
+Division 2,Customer 6,Project 59,Segment 2,Go Get,Nov,Q4,2026,90909.09090909091
+Division 1,Customer 1,Project 1,Segment 1,Go Get,Dec,Q4,2026,150000
+Division 1,Customer 1,Project 2,Segment 1,Go Get,Dec,Q4,2026,400000
+Division 1,Customer 1,Project 3,Segment 1,Forecasted,Dec,Q4,2026,60000
+Division 1,Customer 1,Project 4,Segment 1,Forecasted,Dec,Q4,2026,150000
+Division 1,Customer 1,Project 5,Segment 1,Go Get,Dec,Q4,2026,150000
+Division 1,Customer 1,Project 6,Segment 1,Go Get,Dec,Q4,2026,200000
+Division 1,Customer 3,Project 7,Segment 1,Forecasted,Dec,Q4,2026,40000
+Division 1,Customer 3,Project 8,Segment 1,Forecasted,Dec,Q4,2026,45000
+Division 1,Customer 4,Project 10,Segment 1,Go Get,Dec,Q4,2026,50000
+Division 1,Customer 5,Project 11,Segment 1,Go Get,Dec,Q4,2026,100000
+Division 2,Customer 8,Project 15,Segment 2,Go Get,Dec,Q4,2026,25000
+Division 2,Customer 9,Project 15,Segment 1,Go Get,Dec,Q4,2026,54000
+Division 2,Customer 1,Project 15,Segment 1,Executable,Dec,Q4,2026,25000
+Division 2,Customer 6,Project 55,Segment 2,Go Get,Dec,Q4,2026,10000
+Division 2,Customer 6,Project 56,Segment 2,Executable,Dec,Q4,2026,42000
+Division 2,Customer 12,Project 19,Segment 2,Forecasted,Dec,Q4,2026,446400
+Division 2,Customer 12,Project 20,Segment 2,Go Get,Dec,Q4,2026,165000
+Division 2,Customer 12,Project 21,Segment 2,Go Get,Dec,Q4,2026,281250
+Division 2,Customer 13,Project 22,Segment 2,Go Get,Dec,Q4,2026,6000
+Division 2,Customer 22,Project 50,Segment 2,Executable,Dec,Q4,2026,780000
+Division 2,Customer 18,Project 46,Segment 2,Go Get,Dec,Q4,2026,250000
+Division 2,Customer 18,Project 58,Segment 2,Go Get,Dec,Q4,2026,40000
+Division 2,Customer 6,Project 60,Segment 2,Contracted,Dec,Q4,2026,852000
+Division 2,Customer 6,Project 59,Segment 2,Forecasted,Dec,Q3,2026,90909.09090909091
+Division 1,Customer 1,Project 1,Segment 1,Forecasted,Q1,Q1,2027,600000
+Division 1,Customer 1,Project 2,Segment 1,Forecasted,Q1,Q1,2027,1000000
+Division 1,Customer 1,Project 3,Segment 1,Forecasted,Q1,Q1,2027,200000
+Division 1,Customer 1,Project 4,Segment 1,Forecasted,Q1,Q1,2027,600000
+Division 1,Customer 1,Project 5,Segment 1,Forecasted,Q1,Q1,2027,650000
+Division 1,Customer 1,Project 6,Segment 1,Forecasted,Q1,Q1,2027,800000
+Division 1,Customer 3,Project 7,Segment 1,Forecasted,Q1,Q1,2027,150000
+Division 1,Customer 3,Project 8,Segment 1,Forecasted,Q1,Q1,2027,150000
+Division 1,Customer 4,Project 10,Segment 1,Forecasted,Q1,Q1,2027,120000
+Division 1,Customer 5,Project 11,Segment 1,Forecasted,Q1,Q1,2027,500000
+Division 2,Customer 9,Project 15,Segment 1,Go Get,Q1,Q1,2027,100000
+Division 2,Customer 1,Project 15,Segment 1,Go Get,Q1,Q1,2027,155279.75
+Division 2,Customer 12,Project 19,Segment 2,Go Get,Q1,Q1,2027,1500000
+Division 2,Customer 12,Project 20,Segment 2,Go Get,Q1,Q1,2027,75000
+Division 2,Customer 12,Project 21,Segment 2,Go Get,Q1,Q1,2027,575000
+Division 2,Customer 22,Project 50,Segment 2,Executable,Q1,Q1,2027,3860000
+Division 2,Customer 18,Project 46,Segment 2,Go Get,Q1,Q1,2027,1100000
+Division 2,Customer 18,Project 58,Segment 2,Go Get,Q1,Q1,2027,1100000
+Division 2,Customer 6,Project 60,Segment 2,Contracted,Q1,Q1,2027,1415307.692307692
+Division 2,Customer 6,Project 55,Segment 2,Forecasted,Q1,Q1,2027,30000
+Division 2,Customer 8,Project 15,Segment 2,Go Get,Q1,Q1,2027,27500
+Division 2,Customer 13,Project 62,Segment 2,Forecasted,Q1,Q1,2027,500000
+Division 2,Customer 6,Project 59,Segment 2,Forecasted,Q1,Q1,2027,"625,000"
+Division 1,Customer 1,Project 1,Segment 1,Forecasted,Q2,Q2,2027,750000
+Division 1,Customer 1,Project 2,Segment 1,Forecasted,Q2,Q2,2027,1400000
+Division 1,Customer 1,Project 3,Segment 1,Forecasted,Q2,Q2,2027,300000
+Division 1,Customer 1,Project 4,Segment 1,Forecasted,Q2,Q2,2027,700000
+Division 1,Customer 1,Project 5,Segment 1,Forecasted,Q2,Q2,2027,800000
+Division 1,Customer 1,Project 6,Segment 1,Forecasted,Q2,Q2,2027,1000000
+,Customer 3,Project 7,Segment 1,Forecasted,Q2,Q2,2027,200000
+Division 1,Customer 3,Project 8,Segment 1,Forecasted,Q2,Q2,2027,150000
+Division 1,Customer 4,Project 10,Segment 1,Forecasted,Q2,Q2,2027,120000
+Division 1,Customer 5,Project 11,Segment 1,Forecasted,Q2,Q2,2027,600000
+Division 2,Customer 9,Project 15,Segment 1,Go Get,Q2,Q2,2027,100000
+Division 2,Customer 1,Project 15,Segment 1,Go Get,Q2,Q2,2027,155279.75
+Division 2,Customer 12,Project 19,Segment 2,Forecasted,Q2,Q2,2027,1500000
+Division 2,Customer 12,Project 20,Segment 2,Go Get,Q2,Q2,2027,75000
+Division 2,Customer 12,Project 21,Segment 2,Go Get,Q2,Q2,2027,575000
+Division 2,Customer 18,Project 46,Segment 2,Go Get,Q2,Q2,2027,1200000
+Division 2,Customer 18,Project 58,Segment 2,Forecasted,Q2,Q2,2027,"1,200,000"
+Division 2,Customer 6,Project 60,Segment 2,Contracted,Q2,Q2,2027,3616897.435897436
+Division 2,Customer 6,Project 55,Segment 2,Go Get,Q2,Q2,2027,30000
+Division 2,Customer 13,Project 62,Segment 2,Forecasted,Q2,Q2,2027,500000
+Division 2,Customer 6,Project 18,Segment 2,Contracted Pipeline,Q2,Q2,2027,1333333.333333333
+Division 2,Customer 6,Project 59,Segment 2,Forecasted,Q2,Q2,2027,625000
+Division 2,Customer 24,Project 63,Segment 2,Go Get,Q2,Q2,2027,1000000
+Division 1,Customer 1,Project 1,Segment 1,Forecasted,Q3,Q3,2027,850000
+Division 1,Customer 1,Project 2,Segment 1,YTD,Q3,Q3,2027,1400000
+Division 1,Customer 1,Project 3,Segment 1,Forecasted,Q3,Q3,2027,300000
+Division 1,Customer 1,Project 4,Segment 1,Forecasted,Q3,Q3,2027,700000
+Division 1,Customer 1,Project 5,Segment 1,Forecasted,Q3,Q3,2027,800000
+Division 1,Customer 1,Project 6,Segment 1,Forecasted,Q3,Q3,2027,1000000
+Division 1,Customer 3,Project 7,Segment 1,Forecasted,Q3,Q3,2027,200000
+Division 1,Customer 3,Project 8,Segment 1,Forecasted,Q3,Q3,2027,150000
+Division 1,Customer 4,Project 10,Segment 1,Forecasted,Q3,Q3,2027,120000
+Division 1,Customer 5,Project 11,Segment 1,Forecasted,Q3,Q3,2027,600000
+Division 2,Customer 9,Project 15,Segment 1,Go Get,Q3,Q3,2027,100000
+Division 2,Customer 1,Project 15,Segment 1,Forecasted,Q3,Q3,2027,155279.75
+Division 2,Customer 12,Project 19,Segment 2,forecasted,Q3,Q3,2027,1500000
+Division 2,Customer 12,Project 20,Segment 2,Go Get,Q3,Q3,2027,75000
+Division 2,Customer 12,Project 21,Segment 2,Forecasted,Q3,Q3,2027,575000
+Division 2,Customer 18,Project 46,Segment 2,Forecasted,Q3,Q3,2027,1200000
+Division 2,Customer 18,Project 58,Segment 2,Go Get,Q3,Q3,2027,1200000
+Division 2,Customer 6,Project 60,Segment 2,Contracted,Q3,Q3,2027,3616897.435897436
+Division 2,Customer 6,Project 60,Segment 2,Contracted,Q4,Q4,2027,3616897.11965812
+Division 2,Customer 6,Project 55,Segment 2,Go Get,Q3,Q3,2027,30000
+Division 2,Customer 13,Project 62,Segment 2,Go Get,Q3,Q3,2027,500000
+Division 2,Customer 6,Project 18,Segment 2,Contracted Pipeline,Q3,Q3,2027,1333333.333333333
+Division 2,Customer 6,Project 59,Segment 2,Forecasted,Q3,Q3,2027,625000
+Division 2,Customer 24,Project 63,Segment 2,Go Get,Q3,Q3,2027,1000000
+Division 1,Customer 1,Project 1,Segment 1,Forecasted,Q4,Q4,2027,700000
+Division 1,Customer 1,Project 2,Segment 1,Forecasted,Q4,Q4,2027,1200000
+Division 1,Customer 1,Project 3,Segment 1,Forecasted,Q4,Q4,2027,250000
+Division 1,Customer 1,Project 4,Segment 1,Forecasted,Q4,Q4,2027,600000
+Division 1,Customer 1,Project 5,Segment 1,Forecasted,Q4,Q4,2027,650000
+Division 1,Customer 1,Project 6,Segment 1,Forecasted,Q4,Q4,2027,800000
+Division 1,Customer 3,Project 7,Segment 1,Forecasted,Q4,Q4,2027,150000
+Division 1,Customer 3,Project 8,Segment 1,Forecasted,Q4,Q4,2027,150000
+Division 1,Customer 4,Project 10,Segment 1,Forecasted,Q4,Q4,2027,120000
+Division 1,Customer 5,Project 11,Segment 1,Forecasted,Q4,Q4,2027,500000
+Division 2,Customer 9,Project 15,Segment 1,Forecasted,Q4,Q4,2027,100000
+,Customer 1,Project 15,Segment 1,Forecasted,Q4,Q4,2027,155279.75
+Division 2,Customer 12,Project 19,Segment 2,Go Get,Q4,Q4,2027,1500000
+Division 2,Customer 12,Project 20,Segment 2,Go Get,Q4,Q4,2027,75000
+Division 2,Customer 12,Project 21,Segment 2,Forecasted,Q4,Q4,2027,575000
+Division 2,Customer 18,Project 46,Segment 2,Go Get,Q4,Q4,2027,1200000
+Division 2,Customer 18,Project 58,Segment 2,Go Get,Q4,Q4,2027,1200000
+Division 2,Customer 6,Project 55,Segment 2,forecasted,Q4,Q4,2027,30000
+Division 2,Customer 8,Project 15,Segment 2,Go Get,Q4,Q4,2027,27500
+Division 2,Customer 13,Project 62,Segment 2,Go Get,Q4,Q4,2027,500000
+Division 2,Customer 6,Project 18,Segment 2,Contracted Pipeline,Q4,Q4,2027,1333333.333333333
+Division 2,Customer 6,Project 59,Segment 2,Forecasted,Q4,Q4,2027,625000
+Division 2,Customer 24,Project 63,Segment 2,Go Get,Q4,Q4,2027,1000000
+Division 4,Customer 25,Project 64,Segment 2,YTD,Jan,Q1,2026,96298
+Division 4,Customer 02,,Segment 2,YTD,Jan,Q1,2026,57142
+Division 4,Customer 02,,Segment 2,YTD,Jan,Q1,2026,98687
+Division 4,Customer 25,Project 64,Segment 2,YTD,Jan,Q1,2026,44405
+Division 4,Customer 02,Project 65,Segment 2,YTD,Jan,Q1,2026,6141
+Division 4,Customer 18,Project 66,Segment 2,YTD,Jan,Q1,2026,5789
+Division 4,Customer 02,Project 67,Segment 2,YTD,Jan,Q1,2026,80473
+Division 4,Customer 6,Project 68,Segment 2,YTD,Jan,Q1,2026,124341
+Division 4,Customer 1,Project 67,Segment 2,YTD,Jan,Q1,2026,81765
+Division 4,Customer 26,,Segment 5,YTD,Jan,Q1,2026,40053
+Division 4,Customer 27,,Segment 1,YTD,Jan,Q1,2026,48471
+Division 4,Customer 02,,Segment 2,YTD,Jan,Q1,2026,9343
+Division 4,Customer 18,,Segment 2,YTD,Jan,Q1,2026,392791
+Division 4,Customer 27,Project 69,Segment 1,YTD,Jan,Q1,2026,218499.2766885014
+Division 4,Customer 27,Project 70,Segment 1,YTD,Jan,Q1,2026,91877.78345954657
+Division 4,Customer 18,Project 71,Segment 2,YTD,Jan,Q1,2026,61959
+Division 4,Customer 02,,Segment 2,YTD,Jan,Q1,2026,92540
+Division 4,Customer 24,,Segment 1,YTD,Jan,Q1,2026,5421
+Division 4,Customer 25,Project 64,Segment 2,YTD,Feb,Q1,2026,104176
+Division 4,Customer 02,Project 65,Segment 2,YTD,Feb,Q1,2026,76850
+Division 4,Customer 02,,Segment 2,YTD,Feb,Q1,2026,50022
+Division 4,Customer 02,,Segment 2,YTD,Feb,Q1,2026,71278
+Division 4,Customer 25,Project 64,Segment 2,YTD,Feb,Q1,2026,75950
+Division 4,Customer 6,Project 68,Segment 2,YTD,Feb,Q1,2026,75782
+Division 4,Customer 1,Project 67,Segment 2,YTD,Feb,Q1,2026,293686
+Division 4,Customer 26,,Segment 5,YTD,Feb,Q1,2026,74142
+Division 4,Customer 18,,Segment 2,YTD,Feb,Q1,2026,291475
+Division 4,Customer 27,Project 69,Segment 1,YTD,Feb,Q1,2026,285884.7351237653
+Division 4,Customer 27,Project 70,Segment 1,YTD,Feb,Q1,2026,173398.3705713732
+Division 4,Customer 18,Project 71,Segment 2,YTD,Feb,Q1,2026,77114
+Division 4,Customer 02,,Segment 2,YTD,Feb,Q1,2026,32063
+Division 4,Customer 24,,Segment 1,YTD,Feb,Q1,2026,4160
+Division 4,Customer 25,Project 64,Segment 2,YTD,Mar,Q1,2026,196160
+Division 4,Customer 02,Project 65,Segment 2,YTD,Mar,Q1,2026,89711
+Division 4,Customer 02,,Segment 2,YTD,Mar,Q1,2026,66392
+Division 4,Customer 02,,Segment 2,YTD,Mar,Q1,2026,138748
+Division 4,Customer 02,Project 65,Segment 2,YTD,Mar,Q1,2026,28906
+Division 4,Customer 02,Project 67,Segment 2,YTD,Mar,Q1,2026,97144
+Division 4,Customer 6,Project 68,Segment 2,YTD,Mar,Q1,2026,134589
+Division 4,Customer 1,Project 67,Segment 2,YTD,Mar,Q1,2026,224969
+Division 4,Customer 24,Project 72,Segment 1,YTD,Mar,Q1,2026,7418
+Division 4,Customer 26,,Segment 5,YTD,Mar,Q1,2026,75195
+Division 4,Customer 02,,Segment 2,YTD,Mar,Q1,2026,18107
+Division 4,Customer 18,,Segment 2,YTD,Mar,Q1,2026,400653
+Division 4,Customer 27,Project 69,Segment 1,YTD,Mar,Q1,2026,426631.9832418698
+Division 4,Customer 27,Project 70,Segment 1,YTD,Mar,Q1,2026,616435.242686324
+Division 4,Customer 18,Project 71,Segment 2,YTD,Mar,Q1,2026,66852
+Division 4,Customer 02,,Segment 2,YTD,Mar,Q1,2026,50289
+Division 4,Customer 24,,Segment 1,YTD,Mar,Q1,2026,20282
+Division 4,Customer 25,Project 64,Segment 2,YTD,Apr,Q2,2026,166192
+Division 4,Customer 02,Project 65,Segment 2,YTD,Apr,Q2,2026,156318
+Division 4,Customer 02,,Segment 2,YTD,Apr,Q2,2026,50089
+Division 4,Customer 02,,Segment 2,YTD,Apr,Q2,2026,110170
+Division 4,Customer 25,Project 64,Segment 2,YTD,Apr,Q2,2026,31256
+Division 4,Customer 02,Project 65,Segment 2,YTD,Apr,Q2,2026,102653
+Division 4,Customer 6,Project 68,Segment 2,YTD,Apr,Q2,2026,214060
+Division 4,Customer 1,Project 67,Segment 2,YTD,Apr,Q2,2026,213047
+Division 4,Customer 26,,Segment 5,YTD,Apr,Q2,2026,63765
+Division 4,Customer 02,,Segment 2,YTD,Apr,Q2,2026,32613
+Division 4,Customer 18,,Segment 2,YTD,Apr,Q2,2026,484730
+Division 4,Customer 27,Project 69,Segment 1,YTD,Apr,Q2,2026,458748.537574182
+Division 4,Customer 27,Project 70,Segment 1,YTD,Apr,Q2,2026,436421.6062915687
+Division 4,Customer 18,Project 73,Segment 2,YTD,Apr,Q2,2026,23075
+Division 4,Customer 18,Project 71,Segment 2,YTD,Apr,Q2,2026,85248
+Division 4,Customer 02,,Segment 2,YTD,Apr,Q2,2026,104783
+Division 4,Customer 24,,Segment 1,YTD,Apr,Q2,2026,12145
+Division 4,Customer 25,Project 64,Segment 2,YTD,May,Q2,2026,239614
+Division 4,Customer 02,Project 65,Segment 2,YTD,May,Q2,2026,115660
+Division 4,Customer 02,,Segment 2,YTD,May,Q2,2026,76856
+Division 4,Customer 02,,Segment 2,YTD,May,Q2,2026,107899
+Division 4,Customer 25,Project 64,Segment 2,YTD,May,Q2,2026,75809
+Division 4,Customer 02,Project 65,Segment 2,YTD,May,Q2,2026,48889
+Division 4,Customer 02,Project 67,Segment 2,YTD,May,Q2,2026,24898
+Division 4,Customer 6,Project 68,Segment 2,YTD,May,Q2,2026,315708
+Division 4,Customer 1,Project 67,Segment 2,YTD,May,Q2,2026,235667
+Division 4,Customer 24,Project 72,Segment 1,YTD,May,Q2,2026,10463
+Division 4,Customer 26,,Segment 5,YTD,May,Q2,2026,-7607
+Division 4,Customer 18,,Segment 2,YTD,May,Q2,2026,447673
+Division 4,Customer 27,Project 69,Segment 1,YTD,May,Q2,2026,655728.1843087544
+Division 4,Customer 27,Project 70,Segment 1,YTD,May,Q2,2026,41487.38112318692
+Division 4,Customer 18,Project 71,Segment 2,YTD,May,Q2,2026,85211
+Division 4,Customer 24,,Segment 1,YTD,May,Q2,2026,15668
+Division 4,Customer 25,Project 64,Segment 2,YTD,Jun,Q2,2026,277409
+Division 4,Customer 02,Project 65,Segment 2,YTD,Jun,Q2,2026,120360
+Division 4,Customer 02,,Segment 2,YTD,Jun,Q2,2026,82990
+Division 4,Customer 02,,Segment 2,YTD,Jun,Q2,2026,142904
+Division 4,Customer 25,Project 64,Segment 2,YTD,Jun,Q2,2026,131513
+Division 4,Customer 02,Project 65,Segment 2,YTD,Jun,Q2,2026,42564
+Division 4,Customer 02,Project 67,Segment 2,YTD,Jun,Q2,2026,3702
+Division 4,Customer 6,Project 68,Segment 2,YTD,Jun,Q2,2026,109915
+Division 4,Customer 1,Project 67,Segment 2,YTD,Jun,Q2,2026,219338
+Division 4,Customer 18,,Segment 2,YTD,Jun,Q2,2026,609654
+Division 4,Customer 27,Project 69,Segment 1,YTD,Jun,Q2,2026,469844
+Division 4,Customer 27,Project 70,Segment 1,YTD,Jun,Q2,2026,501588
+Division 4,Customer 18,Project 71,Segment 2,YTD,Jun,Q2,2026,36144
+Division 4,Customer 02,,Segment 2,YTD,Jun,Q2,2026,10815
+Division 4,Customer 24,,Segment 1,YTD,Jun,Q2,2026,5440
+Division 4,Customer 25,Project 64,Segment 2,Executable,Jul,Q3,2026,207265.21
+Division 4,Customer 02,Project 65,Segment 2,Executable,Jul,Q3,2026,67483.52
+Division 4,Customer 02,,Segment 2,Executable,Jul,Q3,2026,91630.57
+Division 4,Customer 02,,Segment 2,Executable,Jul,Q3,2026,146456.11
+Division 4,Customer 25,Project 64,Segment 2,Executable,Jul,Q3,2026,115582.84
+Division 4,Customer 02,Project 65,Segment 2,Executable,Jul,Q3,2026,15576.93
+Division 4,Customer 02,Project 65,Segment 2,Forecasted,Jul,Q3,2026,56662.35
+Division 4,Customer 1,Project 67,Segment 2,Forecasted,Jul,Q3,2026,193146.9
+Division 4,Customer 18,,Segment 2,Executable,Jul,Q3,2026,441523
+Division 4,Customer 27,Project 69,Segment 1,Contracted,Jul,Q3,2026,454576.6
+Division 4,Customer 27,Project 70,Segment 1,Executable,Jul,Q3,2026,317979.49
+Division 4,Customer 18,Project 73,Segment 2,Executable,Jul,Q3,2026,241201.78
+Division 4,Customer 18,Project 71,Segment 2,Executable,Jul,Q3,2026,78913
+Division 4,Customer 25,Project 64,Segment 2,Go Get,Aug,Q3,2026,198423.25
+Division 4,Customer 02,Project 65,Segment 2,Forecasted,Aug,Q3,2026,154884.75
+Division 4,Customer 02,,Segment 2,Forecasted,Aug,Q3,2026,66392
+Division 4,Customer 02,,Segment 2,Forecasted,Aug,Q3,2026,114323.2
+Division 4,Customer 25,Project 64,Segment 2,Forecasted,Aug,Q3,2026,118018.35
+Division 4,Customer 02,Project 65,Segment 2,Forecasted,Aug,Q3,2026,73980.9
+Division 4,Customer 1,,Segment 2,Go Get,Aug,Q3,2026,25000
+Division 4,Customer 02,Project 67,Segment 2,Contracted,Aug,Q3,2026,8571.42857142857
+Division 4,Customer 02,Project 65,Segment 2,Forecasted,Aug,Q3,2026,71428.57142857143
+Division 4,Customer 02,Project 74,Segment 2,Forecasted,Aug,Q3,2026,125714.2857142857
+Division 4,Customer 1,Project 67,Segment 2,Go Get,Aug,Q3,2026,20428.57142857142
+Division 4,Customer 18,,Segment 2,Executable,Aug,Q3,2026,400000
+Division 4,Customer 27,Project 69,Segment 1,Contracted,Aug,Q3,2026,250000
+Division 4,Customer 27,Project 70,Segment 1,Executable,Aug,Q3,2026,450000
+Division 4,Customer 18,Project 71,Segment 2,Executable,Aug,Q3,2026,75000
+Division 4,Customer 25,Project 64,Segment 2,Forecasted,Sep,Q3,2026,220000
+Division 4,Customer 02,Project 65,Segment 2,Forecasted,Sep,Q3,2026,179884.75
+Division 4,Customer 02,,Segment 2,Forecasted,Sep,Q3,2026,82990
+Division 4,Customer 02,,Segment 2,Forecasted,Sep,Q3,2026,142904
+Division 4,Customer 25,Project 64,Segment 2,forecasted,Sep,Q3,2026,141622.02
+Division 4,Customer 02,Project 65,Segment 2,Forecasted,Sep,Q3,2026,73980.9
+Division 4,Customer 1,,Segment 2,Go Get,Sep,Q3,2026,50000
+Division 4,Customer 02,Project 67,Segment 2,Contracted,Sep,Q3,2026,8571.42857142857
+Division 4,Customer 02,Project 65,Segment 2,Forecasted,Sep,Q3,2026,85714.28571428571
+Division 4,Customer 02,Project 74,Segment 2,Forecasted,Sep,Q3,2026,137142.8571428571
+Division 4,Customer 1,Project 67,Segment 2,Forecasted,Sep,Q3,2026,125000
+Division 4,Customer 18,,Segment 2,Executable,Sep,Q3,2026,450000
+Division 4,Customer 27,Project 69,Segment 1,Contracted,Sep,Q3,2026,150000
+Division 4,Customer 27,Project 70,Segment 1,Executable,Sep,Q3,2026,375000
+Division 4,Customer 18,Project 71,Segment 2,Executable,Sep,Q3,2026,100000
+Division 4,Customer 25,Project 64,Segment 2,Forecasted,Oct,Q4,2026,182549.39
+Division 4,Customer 2,Project 65,Segment 2,forecasted,Oct,Q4,2026,179884.75
+Division 4,Customer 02,,Segment 2,Forecasted,Oct,Q4,2026,66392
+Division 4,Customer 02,,Segment 2,Forecasted,Oct,Q4,2026,114323.2
+Division 4,Customer 25,Project 64,Segment 2,Forecasted,Oct,Q4,2026,98348.625
+Division 4,Customer 02,Project 65,Segment 2,Forecasted,Oct,Q4,2026,79265.25
+Division 4,Customer 1,,Segment 2,Forecasted,Oct,Q4,2026,55000.00000000001
+Division 4,Customer 02,Project 67,Segment 2,Contracted,Oct,Q4,2026,8571.42857142857
+Division 4,Customer 02,Project 65,Segment 2,Forecasted,Oct,Q4,2026,62857.14285714286
+Division 4,Customer 02,Project 74,Segment 2,Forecasted,Oct,Q4,2026,162285.7142857143
+Division 4,Customer 1,Project 67,Segment 2,Go Get,Oct,Q4,2026,175000
+Division 4,Customer 1,Project 67,Segment 2,Go Get,Oct,Q4,2026,46750
+Division 4,Customer 18,,Segment 2,Go Get,Oct,Q4,2026,35000
+Division 4,Customer 18,,Segment 2,Executable,Oct,Q4,2026,500000
+Division 4,Customer 27,Project 69,Segment 1,Contracted,Oct,Q4,2026,150000
+Division 4,Customer 27,Project 70,Segment 1,Executable,Oct,Q4,2026,337500
+Division 4,Customer 18,Project 71,Segment 2,Executable,Oct,Q4,2026,125000
+Division 4,Customer 25,Project 64,Segment 2,Go Get,Nov,Q4,2026,178580.925
+Division 4,Customer 02,Project 65,Segment 2,Forecasted,Nov,Q4,2026,154884.75
+Division 4,Customer 02,,Segment 2,Forecasted,Nov,Q4,2026,66392
+Division 4,Customer 02,,Segment 2,Forecasted,Nov,Q4,2026,114323.2
+Division 4,Customer 25,Project 64,Segment 2,Go Get,Nov,Q4,2026,78678.9
+Division 4,Customer 02,Project 65,Segment 2,Forecasted,Nov,Q4,2026,63412.2
+Division 4,Customer 1,,Segment 2,Forecasted,Nov,Q3,2026,45000
+Division 4,Customer 02,Project 67,Segment 2,Contracted,Nov,Q4,2026,8571.42857142857
+Division 4,Customer 02,Project 65,Segment 2,Forecasted,Nov,Q4,2026,51428.57142857143
+Division 4,Customer 02,Project 74,Segment 2,Forecasted,Nov,Q4,2026,154285.7142857143
+Division 4,Customer 1,Project 67,Segment 2,Forecasted,Nov,Q4,2026,225000
+Division 4,Customer 1,Project 67,Segment 2,Forecasted,Nov,Q4,2026,43714.28571428572
+Division 4,Customer 18,,Segment 2,Go-Get,Nov,Q4,2026,35000
+Division 4,Customer 18,,Segment 2,Executable,Nov,Q4,2026,450000
+Division 4,Customer 27,Project 69,Segment 1,Contracted,Nov,Q4,2026,100000
+Division 4,Customer 27,Project 70,Segment 1,Executable,Nov,Q4,2026,318750
+Division 4,Customer 18,Project 71,Segment 2,Executable,Nov,Q4,2026,100000
+Division 4,Customer 25,Project 64,Segment 2,Go Get,Dec,Q4,2026,178580.925
+Division 4,Customer 02,Project 65,Segment 2,Forecasted,Dec,Q4,2026,154884.75
+Division 4,Customer 02,,Segment 2,Forecasted,Dec,Q4,2026,82990
+Division 4,Customer 02,,Segment 2,Forecasted,Dec,Q4,2026,142904
+Division 4,Customer 25,Project 64,Segment 2,forecasted,Dec,Q4,2026,78678.9
+Division 4,Customer 02,Project 65,Segment 2,Forecasted,Dec,Q4,2026,63412.2
+Division 4,Customer 1,,Segment 2,Go Get,Dec,Q4,2026,45000
+Division 4,Customer 02,Project 67,Segment 2,Contracted,Dec,Q4,2026,8571.42857142857
+Division 4,Customer 02,Project 65,Segment 2,Forecasted,Dec,Q4,2026,51428.57142857143
+Division 4,Customer 02,Project 74,Segment 2,Forecasted,Dec,Q4,2026,154285.7142857143
+Division 4,Customer 1,Project 67,Segment 2,Forecasted,Dec,Q4,2026,225000
+Division 4,Customer 1,Project 67,Segment 2,Forecasted,Dec,Q4,2026,43714.28571428572
+Division 4,Customer 18,,Segment 2,Go-Get,Dec,Q4,2026,35000
+Division 4,Customer 18,,Segment 2,Executable ,Dec,Q4,2026,450000
+Division 4,Customer 27,Project 69,Segment 1,Contracted,Dec,Q4,2026,100000
+Division 4,Customer 27,Project 70,Segment 1,Executable,Dec,Q4,2026,318750
+Division 4,Customer 18,Project 71,Segment 2,Executable,Dec,Q4,2026,100000
+Division 4,Customer 25,Project 64,Segment 2,Forecasted,Q1,Q1,2027,1025
+Division 4,Customer 2,Project 75,Segment 2,Forecasted,Q1,Q1,2027,225
+Division 4,Customer 2,Project 76,Segment 2,Forecasted,Q1,Q1,2027,400
+Division 4,Customer 25,Project 64,Segment 2,Forecasted,Q1,Q1,2027,280
+Division 4,Customer 2,Project 67,Segment 2,Forecasted,Q1,Q1,2027,771
+Division 4,Customer 27,Project 77,Segment 1,Forecasted,Q1,Q1,2027,50
+Division 4,Customer 18,Project 78,Segment 2,Executable,Q1,Q1,2027,1600
+Division 4,Customer 27,Project 69,Segment 1,Forecasted,Q1,Q1,2027,950
+Division 4,Customer 27,Project 70,Segment 1,Forecasted,Q1,Q1,2027,1462.5
+Division 4,Customer 25,Project 64,Segment 2,Forecasted,Q2,Q2,2027,1025
+Division 4,Customer 2,Project 75,Segment 2,Forecasted,Q2,Q2,2027,225
+Division 4,Customer 2,Project 76,Segment 2,Forecasted,Q2,Q2,2027,400
+Division 4,Customer 25,Project 64,Segment 2,Forecasted,Q2,Q2,2027,280
+Division 4,Customer 2,Project 67,Segment 2,Forecasted,Q2,Q2,2027,629
+Division 4,Customer 27,Project 77,Segment 1,Forecasted,Q2,Q2,2027,75
+Division 4,Customer 18,Project 78,Segment 2,Executable,Q2,Q2,2027,1600
+Division 4,Customer 27,Project 69,Segment 1,Forecasted,Q2,Q2,2027,950
+Division 4,Customer 27,Project 70,Segment 1,Forecasted,Q2,Q2,2027,1462.5
+Division 4,Customer 25,Project 64,Segment 2,Forecasted,Q3,Q3,2027,1025
+Division 4,Customer 2,Project 75,Segment 2,Forecasted,Q3,Q3,2027,225
+Division 4,Customer 2,Project 76,Segment 2,Forecasted,Q3,Q3,2027,400
+Division 4,Customer 25,Project 64,Segment 2,Forecasted,Q3,Q3,2027,280
+Division 4,Customer 2,Project 67,Segment 2,Forecasted,Q3,Q3,2027,629
+Division 4,Customer 27,Project 77,Segment 1,Forecasted,Q3,Q3,2027,75
+Division 4,Customer 18,Project 78,Segment 2,Executable,Q3,Q3,2027,1600
+Division 4,Customer 27,Project 69,Segment 1,Forecasted,Q3,Q3,2027,950
+Division 4,Customer 27,Project 70,Segment 1,Forecasted,Q3,Q3,2027,1462.5
+Division 4,Customer 25,Project 64,Segment 2,Forecasted,Q4,Q4,2027,1025
+Division 4,Customer 2,Project 75,Segment 2,Forecasted,Q4,Q4,2027,225
+Division 4,Customer 2,Project 76,Segment 2,Forecasted,Q4,Q4,2027,400
+Division 4,Customer 25,Project 64,Segment 2,Forecasted,Q4,Q4,2027,280
+Division 4,Customer 2,Project 67,Segment 2,Forecasted,Q4,Q4,2027,629
+Division 4,Customer 27,Project 77,Segment 1,Forecasted,Q4,Q4,2027,50
+Division 4,Customer 18,Project 78,Segment 2,Executable,Q4,Q4,2027,1600
+Division 4,Customer 27,Project 69,Segment 1,Forecasted,Q4,Q4,2027,950
+Division 4,Customer 27,Project 70,Segment 1,Forecasted,Q4,Q4,2027,1462.5
+Division 3,Customer 2,,Segment 2,2025,2025,2025,2025,26229987
+Division 3,Customer 14,,Segment 2,2025,2025,2025,2025,11861701
+Division 3,Customer 23,,Segment 2,2025,2025,2025,2025,4223126.87
+Division 3,Customer 15,,Segment 4,2025,2025,2025,2025,580693
+Division 3,Customer 19,,Segment 2,2025,2025,2025,2025,6176557
+Division 3,Customer 16,,Segment 2,2025,2025,2025,2025,1159261
+Division 2,Customer 12,,Segment 2,2025,2025,2025,2025,12680392.509
+Division 2,Customer 6,,Segment 2,2025,2025,2025,2025,7706000.470000001
+Division 2,Customer 7,,Segment 2,2025,2025,2025,2025,8686428.140999997
+Division 2,Customer 18,,Segment 2,2025,2025,2025,2025,1180396
+Division 2,Customer 11,,Segment 2,2025,2025,2025,2025,981760.07
+Division 2,Customer 28,,Segment 2,2025,2025,2025,2025,1210579.52
+Division 2,Customer 8,,Segment 2,2025,2025,2025,2025,1153621.71
+Division 2,Customer 10,,Segment 1,2025,2025,2025,2025,1379375.89
+Division 2,Customer 1,,Segment 1,2025,2025,2025,2025,789899.6100000001
+Division 2,Customer 29,,Segment 1,2025,2025,2025,2025,292929.75
+Division 2,Customer 9,,Segment 1,2025,2025,2025,2025,523907.8699999999
+Division 2,Customer 30,,Segment 1,2025,2025,2025,2025,414297.77
+Division 2,Customer 31,,Segment 1,2025,2025,2025,2025,244834.2
+Division 2,Customer 32,,Segment 1,2025,2025,2025,2025,27582.15
+Division 2,Customer 4,,Segment 1,2025,2025,2025,2025,3188
+Division 4,Customer 02,,Segment 2,2025,2025,2025,2025,28303684
+Division 4,Customer 18,,Segment 2,2025,2025,2025,2025,6189545
+Division 4,Customer 27,,Segment 1,2025,2025,2025,2025,1830468
+Division 4,Customer 1,,Segment 2,2025,2025,2025,2025,1726869
+Division 4,Customer 6,,Segment 2,2025,2025,2025,2025,1536566
+Division 4,Customer 25,,Segment 2,2025,2025,2025,2025,1258312
+Division 4,Customer 33,,Segment 2,2025,2025,2025,2025,1861659
+Division 4,Customer 10,,Segment 1,2025,2025,2025,2025,54738
+Division 4,Customer 34,,Segment 1,2025,2025,2025,2025,24436
+Division 4,Customer 35,,Segment 1,2025,2025,2025,2025,9360
+Division 4,Customer 36,,Segment 1,2025,2025,2025,2025,8589
+Division 4,Customer 37,,Segment 1,2025,2025,2025,2025,3704
+Division 1,Customer 1,,Segment 1,2025,2025,2025,2025,14260140.0549
+Division 1,Customer 3,,Segment 1,2025,2025,2025,2025,2824355.2
+Division 1,Customer 5,,Segment 1,2025,2025,2025,2025,787861.25
+Division 1,Customer 2,,Segment 2,2025,2025,2025,2025,593470.8999999999
+Division 1,Customer 4,,Segment 1,2025,2025,2025,2025,611900.3396000001
+Division 1,Customer 38,,Segment 1,2025,2025,2025,2025,21146.66
+Division 1,Customer 39,,Segment 1,2025,2025,2025,2025,58959.17
+Division 3,Customer 2,,Segment 2,2024,2024,2024,2024,13160259
+Division 3,Customer 14,,Segment 2,2024,2024,2024,2024,8575415
+Division 3,Customer 23,,Segment 2,2024,2024,2024,2024,5748617
+Division 3,Customer 16,,Segment 2,2024,2024,2024,2024,1015615
+Division 3,Customer 40,,,2024,2024,2024,2024,1056094
+Division 2,Customer 12,,Segment 2,2024,2024,2024,2024,12393871.94968226
+Division 2,Customer 6,,Segment 2,2024,2024,2024,2024,6633864.220317746
+Division 2,Customer 18,,Segment 2,2024,2024,2024,2024,174321.25
+Division 2,Customer 11,,Segment 2,2024,2024,2024,2024,1022048.82
+Division 2,Customer 28,,Segment 2,2024,2024,2024,2024,1531234.99
+Division 2,Customer 8,,Segment 2,2024,2024,2024,2024,389263.51
+Division 2,Customer 29,,Segment 1,2024,2024,2024,2024,837482.9
+Division 2,Customer 9,,Segment 1,2024,2024,2024,2024,148771.91
+Division 2,Customer 30,,Segment 1,2024,2024,2024,2024,503448.75
+Division 2,Customer 41,,,2024,2024,2024,2024,817133.7000000001
+Division 2,Customer 20,,Segment 2,2024,2024,2024,2024,244747.74
+Division 2,Customer 42,,,2024,2024,2024,2024,222119.4
+Division 2,Customer 43,,,2024,2024,2024,2024,153784.8
+Division 2,Customer 44,,,2024,2024,2024,2024,21668
+Division 2,Customer 45,,,2024,2024,2024,2024,16420
+Division 2,Customer 46,,,2024,2024,2024,2024,9818.06
+Division 4,Customer 02,,Segment 2,2024,2024,2024,2024,61764778
+Division 4,Customer 18,,Segment 2,2024,2024,2024,2024,7385324.75
+Division 4,Customer 6,,Segment 2,2024,2024,2024,2024,774338.4199999999
+Division 4,Customer 40,,,2024,2024,2024,2024,2019218.319999993
+Division 1,Customer 1,,Segment 1,2024,2024,2024,2024,21190111.83284226
+Division 1,Customer 3,,Segment 1,2024,2024,2024,2024,9565000
+Division 1,Customer 2,,Segment 2,2024,2024,2024,2024,315000
+Division 1,Customer 27,,Segment 1,2024,2024,2024,2024,755000
+Division 1,Customer 47,,Segment 2,2024,2024,2024,2024,582000
+Division 1,Customer 40,,,2024,2024,2024,2024,463888.1671577357
+Division 1,Customer 38,,Segment 1,2024,2024,2024,2024,356000
+Division 4,Customer 2,Project 65,Segment 2,Forecasted,Q1,Q1,2027,50
+Division 4,Customer 2,Project 65,Segment 2,Forecasted,Q2,Q2,2027,50
+Division 4,Customer 2,Project 65,Segment 2,Forecasted,Q3,Q3,2027,50
+Division 4,Customer 2,Project 65,Segment 2,Forecasted,Q4,Q4,2027,50
+Division 4,Customer 1,,Segment 2,Forecasted,Q1,Q1,2027,170
+Division 4,Customer 1,,Segment 2,Forecasted,Q2,Q2,2027,170
+Division 4,Customer 1,,Segment 2,Forecasted,Q3,Q3,2027,170
+Division 4,Customer 1,,Segment 2,Forecasted,Q4,Q4,2027,170
+Division 4,Customer 1,Project 67,Segment 2,Forecasted,Q1,Q1,2027,429
+Division 4,Customer 1,Project 67,Segment 2,Forecasted,Q2,Q2,2027,571
+Division 4,Customer 1,Project 67,Segment 2,Forecasted,Q3,Q3,2027,571
+Division 4,Customer 1,Project 67,Segment 2,Forecasted,Q4,Q4,2027,571
+Division 4,Customer 6,,Segment 2,Forecasted,Q1,Q1,2027,50
+Division 4,Customer 6,,Segment 2,Forecasted,Q2,Q2,2027,50
+Division 4,Customer 6,,Segment 2,Forecasted,Q3,Q3,2027,50
+Division 4,Customer 6,,Segment 2,Forecasted,Q4,Q4,2027,50
+Division 4,Customer 37,,Segment 1,Forecasted,Q1,Q1,2027,50
+Division 4,Customer 37,,Segment 1,Forecasted,Q2,Q2,2027,50
+Division 4,Customer 37,,Segment 1,Forecasted,Q3,Q3,2027,50
+Division 4,Customer 37,,Segment 1,Forecasted,Q4,Q4,2027,50
+Division 4,Customer 2,Project 74,Segment 2,Forecasted,Q1,Q1,2027,250
+Division 4,Customer 2,Project 74,Segment 2,Forecasted,Q2,Q2,2027,250
+Division 4,Customer 2,Project 74,Segment 2,Forecasted,Q3,Q3,2027,250
+Division 4,Customer 2,Project 74,Segment 2,Forecasted,Q4,Q4,2027,250
+Division 3,Customer 2,Project 44,Segment 2,Executable,Jul,Q3,2026,892213.26
+Division 3 ,Customer 2,Project 51,Segment 2,Executable,Jul,Q3,2026,151767.25
+Division 3,Customer 2,Project 24,Segment 2,Contracted,Jul,Q3,2026,260990.6
+Division 3,Customer 14,Project 25,Segment 2,Executable,Jul,Q3,2026,314675.08
+Division 3,Customer 14,Project 26,Segment 2,Contracted,Jul,Q3,2026,"400,327"
+Division 3,Customer 14,Project 27,Segment 2,Contracted Backlog,Jul,Q3,2026,146724.65
+Division 3,Customer 15,Project 28,Segment 4,Executable,Jul,Q3,2026,591458.23
+Division 3,Customer 21,Project 45,Segment 4,Executable,Jul,Q3,2026,743464.9199999999
+Division 3,Customer 23,Project 52,Segment 2,Executable,Jul,Q3,2026,98855.75
+Division 3,Customer 23,Project 53,Segment 2,Executable,Jul,Q3,2026,153440.36
+Division 3,Customer 19,Project 79,Segment 2,Executable,Jul,Q3,2026,108592.48
+Division 3,Customer 16,Project 29,Segment 2,Contracted,Jul,Q3,2026,84576
+Division 3,Customer 16,Project 43,Segment 2,Executable ,Jul,Q3,2026,375898.0599999999
+Division 3,Customer 2,Project 30,Segment 2,Go Get,Jul,Q3,2026,12183.1
+Division 3,Customer 2,Project 48,Segment 2,Executable,Jul,Q3,2026,4063.1
+Division 3,Customer 2,Project 31,Segment 2,Executable,Jul,Q3,2026,110735.685
+Division 3,Customer 2,Project 32,Segment 2,Executable,Jul,Q3,2026,150412.84
+Division 3,Customer 2,Project 33,Segment 2,Executable,Jul,Q3,2026,124451.485
+Division 3,Customer 2,Project 34,Segment 2,Executable,Jul,Q3,2026,107697.02
+Division 3,Customer 2,Project 35,Segment 2,Contracted Backlog,Jul,Q3,2026,86485.61
+Division 3,Customer 2,Project 36,Segment 2,Contracted,Jul,Q3,2026,28041.31
+Division 3,Customer 2,Project 37,Segment 2,Contracted,Jul,Q3,2026,25590.84
+Division 3,Customer 17,Project 38,Segment 4,Contracted,Jul,Q3,2026,22389.6
+Division 3,Customer 2,Project 40,Segment 2,Contracted,Jul,Q3,2026,44313.60000000001
+Division 3,Customer 2,Project 41,Segment 2,Contracted,Jul,Q3,2026,99196.85
+Division 3,Customer 2,Project 44,Segment 2,Executable ,Aug,Q3,2026,563863.82
+Division 3,Customer 2,Project 24,Segment 2,Contracted,Aug,Q3,2026,265121.47
+Division 3,Customer 14,Project 25,Segment 2,Executable,Aug,Q3,2026,307136.54
+Division 3 ,Customer 14,Project 26,Segment 2,Contracted,Aug,Q3,2026,540470
+Division 3,Customer 14,Project 27,Segment 2,Contracted,Aug,Q3,2026,267705.1
+Division 3,Customer 14,Project 47,Segment 2,Executable,Aug,Q3,2026,135585.82
+Division 3,Customer 15,Project 28,Segment 4,Executable,Aug,Q3,2026,732804.0700000001
+Division 3,Customer 21,Project 45,Segment 4,Executable,Aug,Q3,2026,"800,635"
+Division 3,Customer 23,Project 52,Segment 2,Executable,Aug,Q3,2026,104291.75
+Division 3,Customer 23,Project 53,Segment 2,Executable,Aug,Q3,2026,58227.4
+Division 3,Customer 16,Project 29,Segment 2,Contracted,Aug,Q3,2026,64071
+Division 3,Customer 16,Project 43,Segment 2,Executable,Aug,Q3,2026,191660.4
+Division 3,Customer 2,Project 30,Segment 2,Forecasted,Aug,Q3,2026,3016
+Division 3,Customer 2,Project 48,Segment 2,Executable,Aug,Q3,2026,16261.3
+Division 3,Customer 2,Project 31,Segment 2,Executable,Aug,Q3,2026,110595.99
+Division 3,Customer 2,Project 32,Segment 2,Executable,Aug,Q3,2026,157969.87
+Division 3,Customer 2,Project 33,Segment 2,Executable,Aug,Q3,2026,125242.95
+Division 3,Customer 2,Project 34,Segment 2,Executable,Aug,Q3,2026,81181.84999999999
+Division 3,Customer 2,Project 35,Segment 2,Contracted,Aug,Q3,2026,83225.16
+Division 3,Customer 2,Project 36,Segment 2,Contracted Backlog,Aug,Q3,2026,39449.35
+Division 3,Customer 2,Project 37,Segment 2,Contracted,Aug,Q3,2026,36755.79
+Division 3,Customer 2,Project 80,Segment 2,Contracted Backlog,Aug,Q3,2026,6449.530000000001
+Division 3,Customer 2,Project 39,Segment 2,Contracted,Aug,Q3,2026,3416
+Division 3,Customer 17,Project 38,Segment 4,Contracted,Aug,Q3,2026,26329.6
+Division 3,Customer 2,Project 40,Segment 2,Contracted,Aug,Q3,2026,53545.6
+Division 3,Customer 2,Project 41,Segment 2,Contracted,Aug,Q3,2026,92800.1
+Division 3,Customer 2,Project 51,Segment 2,Executable,Sep,Q3,2026,"500,000"
+Division 3,Customer 2,Project 24,Segment 2,Contracted,Sep,Q3,2026,250000
+Division 3,Customer 14,Project 25,Segment 2,Executable,Sep,Q3,2026,420000
+Division 3,Customer 14,Project 26,Segment 2,Contracted,Sep,Q3,2026,600000
+Division 3,Customer 14,Project 27,Segment 2,Contracted,Sep,Q3,2026,106978.6923076923
+Division 3,Customer 14,Project 47,Segment 2,Executable,Sep,Q3,2026,1000000
+Division 3,Customer 15,Project 28,Segment 4,Executable,Sep,Q3,2026,737591
+Division 3,Customer 21,Project 45,Segment 4,Executable,Sep,Q3,2026,925000
+Division 3,Customer 48,Project 81,Segment 4,Executable,Sep,Q3,2026,150000
+Division 3,Customer 23,Project 52,Segment 2,Executable,Sep,Q3,2026,125000
+Division 3,Customer 23,Project 53,Segment 2,Executable,Sep,Q3,2026,100110
+Division 3,Customer 16,Project 29,Segment 2,Contracted Backlog,Sep,Q3,2026,103846.1538461538
+Division 3,Customer 16,Project 43,Segment 2,Executable,Sep,Q3,2026,104482
+Division 3,Customer 2,Project 30,Segment 2,Go Get,Sep,Q3,2026,10000
+Division 3,Customer 2,Project 48,Segment 2,Executable,Sep,Q3,2026,20459.9
+Division 3,Customer 2,Project 31,Segment 2,Executable,Sep,Q3,2026,115000
+Division 3,Customer 2,Project 32,Segment 2,Executable,Sep,Q3,2026,180000
+Division 3,Customer 2,Project 33,Segment 2,Executable,Sep,Q3,2026,165000
+Division 3,Customer 2,Project 34,Segment 2,Executable ,Sep,Q3,2026,132137.75
+Division 3,Customer 2,Project 35,Segment 2,Contracted,Sep,Q3,2026,90000
+Division 3,Customer 2,Project 36,Segment 2,Contracted,Sep,Q3,2026,55000
+Division 3,Customer 2,Project 37,Segment 2,Contracted,Sep,Q3,2026,32500
+Division 3,Customer 2,Project 80,Segment 2,Contracted,Sep,Q3,2026,15400
+Division 3 ,Customer 17,Project 38,Segment 4,Contracted,Sep,Q3,2026,40000
+Division 3,Customer 2,Project 40,Segment 2,Contracted Backlog,Sep,Q3,2026,66000
+Division 3,Customer 2,Project 41,Segment 2,Contracted,Sep,Q3,2026,115000
+Division 3,Customer 24,Project 82,Segment 4,Go Get,Sep,Q3,2026,220000
+Division 3,Customer 2,Project 23,Segment 2,Go-Get,Oct,Q4,2026,44739
+Division 3,Customer 2,Project 44,Segment 2,Executable,Oct,Q4,2026,1000000
+Division 3,Customer 2,Project 51,Segment 2,Executable,Oct,Q4,2026,198233
+Division 3,Customer 2,Project 24,Segment 2,Contracted Backlog,Oct,Q4,2026,184615.3846153846
+Division 3,Customer 14,Project 25,,Executable,Oct,Q4,2026,180000
+Division 3,Customer 14,Project 25,Segment 2,Contracted,Oct,Q4,2026,320000
+Division 3,Customer 14,Project 26,Segment 2,Contracted,Oct,Q4,2026,400000
+Division 3,Customer 14,Project 27,Segment 2,Contracted,Oct,Q4,2026,93517.15384615384
+Division 3,Customer 14,Project 47,Segment 2,Executable,Oct,Q4,2026,1550000
+Division 3,Customer 15,Project 28,Segment 4,Executable,Oct,Q4,2026,400000
+Division 3,Customer 21,Project 45,Segment 4,Executable ,Oct,Q4,2026,400000
+Division 3,Customer 48,Project 81,Segment 4,Executable,Oct,Q4,2026,1000000
+Division 3,Customer 49,Project 83,Segment 4,Contracted,Oct,Q4,2026,200000
+Division 3,Customer 23,Project 52,Segment 2,Executable,Oct,Q4,2026,39054
+Division 3,Customer 23,Project 53,Segment 2,Executable,Oct,Q4,2026,100000
+Division 3,Customer 16,Project 29,Segment 2,Contracted,Oct,Q4,2026,51692.3076923077
+Division 3,Customer 2,Project 30,Segment 2,Go Get,Oct,Q4,2026,10000
+Division 3,Customer 2,Project 48,Segment 2,Executable,Oct,Q4,2026,16391.92
+Division 3,Customer 2,Project 31,Segment 2,Executable,Oct,Q4,2026,92000
+Division 3,Customer 2,Project 32,Segment 2,Executable,Oct,Q4,2026,144000
+Division 3,Customer 2,Project 33,Segment 2,Executable,Oct,Q4,2026,132000
+Division 3,Customer 2,Project 34,Segment 2,Executable,Oct,Q4,2026,105710.2
+Division 3,Customer 2,Project 35,Segment 2,Contracted,Oct,Q4,2026,66153.84615384616
+Division 3,Customer 2,Project 36,Segment 2,Contracted,Oct,Q4,2026,36000
+Division 3,Customer 2,Project 37,Segment 2,Contracted,Oct,Q4,2026,26000
+Division 3,Customer 2,Project 80,Segment 2,Contracted Backlog,Oct,Q4,2026,12320
+Division 3,Customer 17,Project 38,Segment 4,Contracted,Oct,Q4,2026,33000
+Division 3,Customer 2,Project 40,Segment 2,Contracted,Oct,Q4,2026,52800
+Division 3,Customer 2,Project 41,Segment 2,Contracted,Oct,Q4,2026,92000
+Division 3,Customer 24,Project 82,Segment 4,Go Get,Oct,Q4,2026,25000
+Division 3,Customer 2,Project 23,Segment 2,Go Get,Nov,Q4,2026,44739
+Division 3,Customer 2,Project 44,Segment 2,Executable,Nov,Q4,2026,1150000
+Division 3,Customer 2,Project 24,Segment 2,Contracted,Nov,Q4,2026,184615.3846153846
+Division 3,Customer 14,Project 25,Segment 2,Contracted,Nov,Q4,2026,520000
+Division 3,Customer 14,Project 26,,Contracted,Nov,Q4,2026,312000
+Division 3,Customer 14,Project 27,Segment 2,Contracted,Nov,Q4,2026,93517.15384615384
+Division 3,Customer 14,Project 47,Segment 2,Executable ,Nov,Q4,2026,1350000
+Division 3,Customer 15,Project 28,Segment 4,Go Get,Nov,Q4,2026,421000
+Division 3,Customer 21,Project 45,Segment 4,Executable,Nov,Q4,2026,400000
+Division 3,Customer 48,Project 81,Segment 4,Executable,Nov,Q4,2026,750000
+Division 3,Customer 49,Project 83,Segment 4,Contracted,Nov,Q4,2026,300000
+Division 3,Customer 23,Project 53,Segment 2,Executable,Nov,Q4,2026,75000
+Division 3,Customer 16,Project 29,Segment 2,Contracted,Nov,Q4,2026,51692.3076923077
+Division 3,Customer 2,Project 48,Segment 2,Executable,Nov,Q4,2026,16391.92
+Division 3,Customer 2,Project 31,Segment 2,Executable,Nov,Q4,2026,80000
+Division 3,Customer 2,Project 32,Segment 2,Executable,Nov,Q4,2026,92000
+Division 3,Customer 2,Project 33,Segment 2,Executable,Nov,Q4,2026,46154
+Division 3,Customer 2,Project 34,Segment 2,Executable,Nov,Q4,2026,105710.2
+Division 3,Customer 2,Project 35,Segment 2,Contracted,Nov,Q4,2026,66153.84615384616
+Division 3,Customer 2,Project 36,Segment 2,Contracted,Nov,Q4,2026,36000
+Division 3,Customer 2,Project 37,Segment 2,Contracted,Nov,Q4,2026,26000
+Division 3,Customer 2,Project 80,Segment 2,Contracted,Nov,Q4,2026,12320
+Division 3,Customer 17,Project 38,Segment 4,Contracted,Nov,Q4,2026,33000
+Division 3,Customer 2,Project 40,Segment 2,Contracted,Nov,Q4,2026,52800
+Division 3,Customer 2,Project 41,Segment 2,Contracted,Nov,Q4,2026,92000
+Division 3,Customer 24,Project 82,Segment 4,Go Get,Nov,Q4,2026,25000
+Division 3,Customer 2,Project 51,Segment 2,Executable,Sep,Q3,2026,"500,000"
+Division 3,Customer 2,Project 24,Segment 2,Contracted,Sep,Q3,2026,250000
+Division 3,Customer 14,Project 25,Segment 2,Executable,Sep,Q3,2026,420000
+Division 3,Customer 14,Project 26,Segment 2,Contracted,Sep,Q3,2026,600000
+Division 3,Customer 14,Project 27,Segment 2,Contracted,Sep,Q3,2026,106978.6923076923
+Division 3,Customer 14,Project 47,Segment 2,Executable,Sep,Q3,2026,1000000
+Division 3,Customer 15,Project 28,Segment 4,Executable,Sep,Q3,2026,737591
+Division 3,Customer 21,Project 45,Segment 4,Executable,Sep,Q3,2026,925000
+Division 3,Customer 48,Project 81,Segment 4,Executable,Sep,Q3,2026,150000
+Division 3,Customer 23,Project 52,Segment 2,Executable,Sep,Q3,2026,125000
+Division 3,Customer 23,Project 53,Segment 2,Executable,Sep,Q3,2026,100110
+Division 3,Customer 16,Project 29,Segment 2,Contracted Backlog,Sep,Q3,2026,103846.1538461538
+Division 3,Customer 16,Project 43,Segment 2,Executable,Sep,Q3,2026,104482
+Division 3,Customer 2,Project 30,Segment 2,Go Get,Sep,Q3,2026,10000
+Division 3,Customer 2,Project 48,Segment 2,Executable,Sep,Q3,2026,20459.9
+Division 3,Customer 2,Project 31,Segment 2,Executable,Sep,Q3,2026,115000
+Division 3,Customer 2,Project 32,Segment 2,Executable,Sep,Q3,2026,180000
+Division 3,Customer 2,Project 33,Segment 2,Executable,Sep,Q3,2026,165000
+Division 3,Customer 2,Project 34,Segment 2,Executable ,Sep,Q3,2026,132137.75
+Division 3,Customer 2,Project 35,Segment 2,Contracted,Sep,Q3,2026,90000
+Division 3,Customer 2,Project 36,Segment 2,Contracted,Sep,Q3,2026,55000
+Division 3,Customer 2,Project 37,Segment 2,Contracted,Sep,Q3,2026,32500
+Division 3,Customer 2,Project 80,Segment 2,Contracted,Sep,Q3,2026,15400
+Division 3 ,Customer 17,Project 38,Segment 4,Contracted,Sep,Q3,2026,40000
+Division 3,Customer 2,Project 40,Segment 2,Contracted Backlog,Sep,Q3,2026,66000
+Division 3,Customer 2,Project 41,Segment 2,Contracted,Sep,Q3,2026,115000
+Division 3,Customer 24,Project 82,Segment 4,Go Get,Sep,Q3,2026,220000
+Division 3,Customer 2,Project 44,Segment 2,Executable,Dec,Q4,2026,1250000
+Division 3,Customer 2,Project 24,Segment 2,Contracted,Dec,Q4,2026,230794
+Division 3,Customer 14,Project 25,Segment 2,Contracted,Dec,Q4,2026,400000
+Division 3,Customer 14,Project 26,Segment 2,Contracted,Dec,Q4,2026,271500
+Division 3,Customer 14,Project 27,Segment 2,Contracted,Dec,Q4,2026,106679
+Division 3,Customer 14,Project 47,Segment 2,Executable,Dec,Q4,2026,194115.1799999997
+Division 3,Customer 14,Project 47,Segment 2,Contracted,Dec,Q4,2026,1363599.82
+Division 3,Customer 15,Project 28,Segment 4,Forecasted,Dec,Q4,2026,60497
+Division 3,Customer 21,Project 45,Segment 4,Executable ,Dec,Q4,2026,274739
+Division 3,Customer 48,Project 81,Segment 4,Executable,Dec,Q4,2026,100000
+Division 3,Customer 49,Project 83,Segment 4,Contracted Backlog,Dec,Q4,2026,500000
+Division 3,Customer 23,Project 53,Segment 2,Executable,Dec,Q3,2026,75000
+Division 3,Customer 16,Project 29,Segment 2,Contracted,Dec,Q4,2026,64615.38461538462
+Division 3,Customer 2,Project 48,Segment 2,Executable,Dec,Q4,2026,20459.9
+Division 3,Customer 2,Project 31,Segment 2,Executable,Dec,Q4,2026,71137
+Division 3,Customer 2,Project 32,Segment 2,Executable,Dec,Q4,2026,115000
+Division 3,Customer 2,Project 33,Segment 2,Executable,Dec,Q4,2026,57692.3076923077
+Division 3,Customer 2,Project 34,Segment 2,Executable,Dec,Q4,2026,132137.75
+Division 3,Customer 2,Project 35,Segment 2,Contracted,Dec,Q4,2026,82692.30769230769
+Division 3,Customer 2,Project 36,Segment 2,Contracted,Dec,Q4,2026,45000
+Division 3,Customer 2,Project 37,Segment 2,Contracted,Dec,Q4,2026,32500
+Division 3,Customer 2,Project 80,Segment 2,Contracted,Dec,Q4,2026,15400
+Division 3,Customer 17,Project 38,Segment 4,Contracted,Dec,Q4,2026,5710
+Division 3,Customer 2,Project 40,Segment 2,Contracted,Dec,Q4,2026,66000
+Division 3,Customer 2,Project 41,Segment 2,Contracted,Dec,Q4,2026,92000
+Division 3,Customer 24,Project 82,Segment 4,GO GET,Dec,Q4,2026,34611.84654849023
+Division 3,Customer 2,Project 23,Segment 2,Go Get,Q1,Q1,2027,150000
+Division 3,Customer 2,Project 84,Segment 2,GO GET,Q1,Q1,2027,202869.5
+Division 3,Customer 2,Project 44,Segment 2,Executable,Q1,Q1,2027,761250
+Division 3,Customer 2,Project 51,Segment 2,Forecasted,Q1,Q1,2027,1350000
+Division 3,Customer 2,Project 24,Segment 2,Contracted,Q1,Q1,2027,540000
+Division 3,Customer 14,Project 25,Segment 2,Contracted,Q1,Q1,2027,2600000
+Division 3,Customer 14,Project 26,Segment 2,Contracted,Q1,Q1,2027,1105000
+Division 3,Customer 14,Project 27,Segment 2,Contracted,Q1,Q1,2027,520000
+Division 3,Customer 14,Project 47,Segment 2,Contracted Pipeline,Q1,Q1,2027,26000000
+Division 3,Customer 15,Project 28,Segment 4,Contracted Pipeline,Q1,Q1,2027,2939630.5
+Division 3,Customer 21,Project 45,Segment 4,Executable,Q1,Q1,2027,1332500
+Division 3,Customer 48,Project 81,Segment 4,Contracted Pipeline,Q1,Q1,2027,799500
+Division 3,Customer 16,Project 29,Segment 2,Forecasted,Q1,Q1,2027,253500
+Division 3,Customer 2,Project 48,Segment 2,Go Get,Q1,Q1,2027,156000
+Division 3,Customer 2,Project 31,Segment 2,Forecasted,Q1,Q1,2027,299000
+Division 3,Customer  2,Project 32,Segment 2,Forecasted,Q1,Q1,2027,468000
+Division 3,Customer 2,Project 33,Segment 2,Go Get,Q1,Q1,2027,403000
+Division 3,Customer 2,Project 34,Segment 2,Go Get,Q1,Q1,2027,377000
+Division 3,Customer 2,Project 35,Segment 2,Contracted,Q1,Q1,2027,234000
+Division 3,Customer 2,Project 36,Segment 2,Contracted,Q1,Q1,2027,143000
+Division 3,Customer 2,Project 37,Segment 2,Contracted,Q1,Q1,2027,84500
+Division 3,Customer 2,Project 85,Segment 2,Go Get,Q1,Q1,2027,32500
+Division 3,Customer 2,Project 40,Segment 2,Forecasted,Q1,Q1,2027,171600
+Division 3,Customer 2,Project 41,Segment 2,Contracted,Q1,Q1,2027,325000
+Division 3,Customer 24,Project 82,Segment 4,Go-Get,Q1,Q1,2027,750000
+Division 3,Customer 2,Project 23,Segment 2,Go Get,Q2,Q2,2027,150000
+Division 3,Customer 2,Project 84,Segment 2,Go Get,Q2,Q2,2027,202869.5
+Division 3,Customer  2,Project 44,Segment 2,Executable,Q2,Q2,2027,761250
+Division 3,Customer 2,Project 51,Segment 2,Go Get,Q2,Q2,2027,1350000
+Division 3,Customer 2,Project 24,Segment 2,Contracted Backlog,Q2,Q2,2027,540000
+Division 3,Customer 14,Project 25,Segment 2,Contracted,Q2,Q2,2027,2600000
+Division 3,Customer 14,Project 26,Segment 2,Contracted,Q2,Q2,2027,1105000
+Division 3,Customer 14,Project 27,Segment 2,Contracted,Q2,Q2,2027,520000
+Division 3,Customer 14,Project 47,Segment 2,Contracted Pipeline,Q2,Q2,2027,2600000
+Division 3,Customer 15,Project 28,Segment 4,Contracted Pipeline,Q2,Q2,2027,2939630.5
+Division 3,Customer 21,Project 45,Segment 4,Executable,Q2,Q2,2027,1332500
+Division 3,Customer 48,Project 81,Segment 4,Contracted Pipeline,Q2,Q2,2027,799500
+Division 3,Customer 16,Project 29,Segment 2,Forecasted,Q2,Q2,2027,253500
+Division 3,Customer 2,Project 48,Segment 2,Go Get,Q2,Q2,2027,156000
+Division 3,Customer 2,Project 31,Segment 2,forecasted,Q2,Q2,2027,299000
+Division 3,Customer 2,Project 32,Segment 2,Forecasted,Q2,Q2,2027,468000
+Division 3,Customer 2,Project 33,Segment 2,Go Get,Q2,Q2,2027,403000
+Division 3,Customer 2,Project 34,Segment 2,Go Get,Q2,Q2,2027,377000
+Division 3,Customer 2,Project 35,Segment 2,Contracted,Q2,Q2,2027,234000
+Division 3,Customer 2,Project 36,Segment 2,Contracted Backlog,Q2,Q2,2027,143000
+Division 3,Customer 2,Project 37,Segment 2,Contracted,Q2,Q2,2027,84500
+Division 3,Customer 2,Project 85,Segment 2,forecasted,Q2,Q2,2027,32500
+Division 3,Customer 2,Project 40,Segment 2,Forecasted,Q2,Q2,2027,171600
+Division 3,Customer 2,Project 41,Segment 2,Contracted,Q2,Q2,2027,325000
+Division 3,Customer 24,Project 82,Segment 4,Go Get,Q2,Q2,2027,750000
+Division 3,Customer 2,Project 23,Segment 2,Go-Get,Q3,Q3,2027,150000
+Division 3,Customer 2,Project 84,Segment 2,Go-Get,Q3,Q3,2027,150000
+Division 3,Customer 2,Project 44,Segment 2,Executable,Q3,Q3,2027,761250
+Division 3,Customer 2,Project 51,Segment 2,Forecasted,Q3,Q3,2027,1350000
+Division 3,Customer 2,Project 24,Segment 2,Contracted,Q3,Q3,2027,540000
+Division 3,Customer 14,Project 25,Segment 2,Contracted,Q3,Q3,2027,2600000
+Division 3,Customer 14,Project 26,Segment 2,Contracted,Q3,Q3,2027,1105000
+Division 3,Customer 14,Project 27,Segment 2,Contracted,Q3,Q3,2027,520000
+Division 3,Customer 14,Project 47,Segment 2,Contracted Pipeline,Q3,Q3,2027,2600000
+Division 3,Customer 15,Project 28,Segment 4,YTD,Q3,Q3,2027,2600000
+Division 3,Customer 21,Project 45,Segment 4,Executable,Q3,Q3,2027,975000
+Division 3,Customer 48,Project 81,Segment 4,Contracted Pipeline,Q3,Q3,2027,799500
+Division 3,Customer 16,Project 29,Segment 2,Go Get,Q3,Q3,2027,253500
+Division 3,Customer 2,Project 48,Segment 2,Go Get,Q3,Q3,2027,156000
+Division 3,Customer  2,Project 31,Segment 2,Forecasted,Q3,Q3,2027,299000
+Division 3,Customer 2,Project 32,Segment 2,Forecasted,Q3,Q3,2027,468000
+Division 3,Customer 2,Project 33,Segment 2,Forecasted,Q3,Q3,2027,403000
+Division 3,Customer 2,Project 34,Segment 2,Go Get,Q3,Q3,2027,377000
+Division 3,Customer 2,Project 35,Segment 2,Contracted,Q3,Q3,2027,234000
+Division 3,Customer 2,Project 36,Segment 2,Contracted,Q3,Q3,2027,143000
+Division 3,Customer 2,Project 37,Segment 2,Contracted,Q3,Q3,2027,84500
+Division 3,Customer 2,Project 85,Segment 2,Go Get,Q3,Q3,2027,32500
+Division 3,Customer 2,Project 40,Segment 2,Go Get,Q3,Q3,2027,171600
+Division 3,Customer 2,Project 41,Segment 2,Contracted,Q3,Q3,2027,325000
+Division 3,Customer 24,Project 82,Segment 4,Go Get,Q3,Q3,2027,1500000
+Division 3,Customer 2,Project 23,Segment 2,Go Get,Q4,Q4,2027,150000
+Division 3,Customer 2,Project 84,Segment 2,Go Get,Q4,Q4,2027,150000
+Division 3,Customer 2,Project 44,Segment 2,Executable,Q4,Q4,2027,761250
+Division 3,Customer 2,Project 51,Segment 2,Go Get,Q4,Q4,2027,1350000
+Division 3,Customer 2,Project 24,Segment 2,Contracted,Q4,Q4,2027,540000
+Division 3,Customer 14,Project 25,Segment 2,Contracted,Q4,Q4,2027,2600000
+Division 3,Customer 14,Project 26,Segment 2,Contracted,Q4,Q4,2027,"1,105,000"
+Division 3,Customer 14,Project 27,Segment 2,Contracted,Q4,Q4,2027,520000
+Division 3,Customer 14,Project 47,Segment 2,Contracted Pipeline,Q4,Q4,2027,2600000
+,Customer 15,Project 28,Segment 4,Contracted Pipeline,Q4,Q4,2027,2600000
+Division 3,Customer 21,Project 45,Segment 4,Executable,Q4,Q4,2027,975000
+Division 3,Customer 48,Project 81,Segment 4,Contracted Pipeline,Q4,Q4,2027,799500
+Division 3,Customer 16,Project 29,Segment 2,Go Get,Q4,Q4,2027,253500
+Division 3,Customer 2,Project 48,Segment 2,Go Get,Q4,Q4,2027,156000
+Division 3,Customer 2,Project 31,Segment 2,Go Get,Q4,Q4,2027,299000
+Division 3,Customer  2,Project 32,Segment 2,Forecasted,Q4,Q4,2027,468000
+Division 3,Customer 2,Project 33,Segment 2,Go Get,Q4,Q4,2027,403000
+Division 3,Customer 2,Project 34,Segment 2,Forecasted,Q4,Q4,2027,377000
+Division 3,Customer 2,Project 35,Segment 2,Contracted,Q4,Q4,2027,234000
+Division 3,Customer 2,Project 36,Segment 2,Contracted,Q4,Q4,2027,143000
+Division 3,Customer 2,Project 37,Segment 2,Contracted,Q4,Q4,2027,84500
+Division 3,Customer 2,Project 85,Segment 2,forecasted,Q4,Q4,2027,32500
+Division 3,Customer 2,Project 40,Segment 2,Go Get,Q4,Q4,2027,171600
+Division 3,Customer 2,Project 41,Segment 2,Contracted,Q4,Q4,2027,325000
+Division 3,Customer 24,Project 82,Segment 4,Go Get,Q4,Q4,2027,1500000

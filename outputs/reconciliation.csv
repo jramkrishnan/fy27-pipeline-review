@@ -1,0 +1,10 @@
+Line,Description,Amount
+A,Revenue as submitted by four divisions,635968267.205442
+B,Less: duplicate submissions,-6379505.496153846
+C,Revenue after cleaning,629588761.7092882
+D,Less: FY24 and FY25 actuals,-309318942.5945
+E,Less: FY26 actuals to date (Jan to Jun),-72438674.84715135
+F,Less: FY27 records labelled YTD,-4000000.0
+G,"Forward pipeline, FY26 and FY27",243831144.26763684
+H,of which FY27,162674618.68376067
+I,of which FY26 (Jul to Dec),81156525.58387616

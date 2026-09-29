@@ -1,0 +1,28 @@
+Src_RowID,Division,Customer,Project,Segment,Under Contract,Month,Quarter,Year,Revenue,Project_Issue,Quarter_Clean,Quarter_Mismatch,Future_YTD_Issue,Negative_Revenue_Issue,Large_Opportunity_Review,Round_Amount_Review,Analysis_Class
+1020,Division 3,Customer 2,Project 51,Segment 2,Executable,Sep,Q3,2026,500000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1021,Division 3,Customer 2,Project 24,Segment 2,Contracted (unclassified),Sep,Q3,2026,250000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1022,Division 3,Customer 14,Project 25,Segment 2,Executable,Sep,Q3,2026,420000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1023,Division 3,Customer 14,Project 26,Segment 2,Contracted (unclassified),Sep,Q3,2026,600000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1024,Division 3,Customer 14,Project 27,Segment 2,Contracted (unclassified),Sep,Q3,2026,106978.6923076923,False,Q3,False,False,False,False,False,Forward pipeline
+1025,Division 3,Customer 14,Project 47,Segment 2,Executable,Sep,Q3,2026,1000000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1026,Division 3,Customer 15,Project 28,Segment 4,Executable,Sep,Q3,2026,737591.0,False,Q3,False,False,False,False,False,Forward pipeline
+1027,Division 3,Customer 21,Project 45,Segment 4,Executable,Sep,Q3,2026,925000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1028,Division 3,Customer 48,Project 81,Segment 4,Executable,Sep,Q3,2026,150000.0,False,Q3,False,False,False,False,True,Forward pipeline
+1029,Division 3,Customer 23,Project 52,Segment 2,Executable,Sep,Q3,2026,125000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1030,Division 3,Customer 23,Project 53,Segment 2,Executable,Sep,Q3,2026,100110.0,False,Q3,False,False,False,False,False,Forward pipeline
+1031,Division 3,Customer 16,Project 29,Segment 2,Contracted Backlog,Sep,Q3,2026,103846.1538461538,False,Q3,False,False,False,False,False,Forward pipeline
+1032,Division 3,Customer 16,Project 43,Segment 2,Executable,Sep,Q3,2026,104482.0,False,Q3,False,False,False,False,False,Forward pipeline
+1033,Division 3,Customer 2,Project 30,Segment 2,Go-Get,Sep,Q3,2026,10000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1034,Division 3,Customer 2,Project 48,Segment 2,Executable,Sep,Q3,2026,20459.9,False,Q3,False,False,False,False,False,Forward pipeline
+1035,Division 3,Customer 2,Project 31,Segment 2,Executable,Sep,Q3,2026,115000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1036,Division 3,Customer 2,Project 32,Segment 2,Executable,Sep,Q3,2026,180000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1037,Division 3,Customer 2,Project 33,Segment 2,Executable,Sep,Q3,2026,165000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1038,Division 3,Customer 2,Project 34,Segment 2,Executable,Sep,Q3,2026,132137.75,False,Q3,False,False,False,False,False,Forward pipeline
+1039,Division 3,Customer 2,Project 35,Segment 2,Contracted (unclassified),Sep,Q3,2026,90000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1040,Division 3,Customer 2,Project 36,Segment 2,Contracted (unclassified),Sep,Q3,2026,55000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1041,Division 3,Customer 2,Project 37,Segment 2,Contracted (unclassified),Sep,Q3,2026,32500.0,False,Q3,False,False,False,False,False,Forward pipeline
+1042,Division 3,Customer 2,Project 80,Segment 2,Contracted (unclassified),Sep,Q3,2026,15400.0,False,Q3,False,False,False,False,False,Forward pipeline
+1043,Division 3,Customer 17,Project 38,Segment 4,Contracted (unclassified),Sep,Q3,2026,40000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1044,Division 3,Customer 2,Project 40,Segment 2,Contracted Backlog,Sep,Q3,2026,66000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1045,Division 3,Customer 2,Project 41,Segment 2,Contracted (unclassified),Sep,Q3,2026,115000.0,False,Q3,False,False,False,False,False,Forward pipeline
+1046,Division 3,Customer 24,Project 82,Segment 4,Go-Get,Sep,Q3,2026,220000.0,False,Q3,False,False,False,False,False,Forward pipeline
